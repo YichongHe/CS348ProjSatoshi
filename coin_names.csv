@@ -1,0 +1,6257 @@
+BitcoinDark,4400,SHA-256,PoW/PoS
+CraigsCoin,4425,X11,PoS
+Bitstake,5023,X11,PoW/PoS
+PayCoin,5030,SHA-256,PoS
+ProsperCoin,3638,Scrypt,PoW
+YbCoin,3639,Multiple,PoS
+DarkKush,3640,X13,PoW/PoS
+GiveCoin,3641,X11,PoW
+KoboCoin,3642,X15,PoW/PoS
+DarkToken,3643,NIST5,PoW/PoS
+CETUS Coin,3644,Scrypt,PoW/PoS
+Supcoin,3645,N/A,PoW
+PetroDollar,3646,SHA-256D,N/A
+GeoCoin,3647,N/A,N/A
+CleverHash,3648,N/A,N/A
+NXTI,3650,N/A,N/A
+Insanity Coin,3653,X11,PoW
+DogeParty,3655,N/A,N/A
+2015 coin,3744,X11,PoW/PoS
+42 Coin,4321,Scrypt,PoW/PoS
+Asia Coin,4322,Scrypt,PoS
+ACoin,4323,SHA-256,PoW
+Aero Coin,4324,X13,PoS
+AlphaCoin,4325,Scrypt,PoW
+Aegis,4326,X13,PoS
+AmericanCoin,4327,Scrypt,PoW
+AlienCoin,4328,Scrypt,PoW
+ApexCoin,4330,X13,PoW/PoS
+ArchCoin,4331,Scrypt,PoS
+Argentum,4371,Scrypt,PoW
+AriCoin,4332,Scrypt,PoW
+AXRON,4334,N/A,N/A
+BeanCash,4338,SHA-256,PoW/PoS
+BlueCoin,4340,Scrypt,PoW/PoS
+BoostCoin,4342,X13,PoW/PoS
+BQCoin,4343,Scrypt,PoW
+MyriadCoin,4345,Multiple,PoW
+ZetaCoin,4347,SHA-256,PoW
+SexCoin,4348,Scrypt,PoW
+Quatloo,4349,Scrypt,PoW
+EnergyCoin,4350,Scrypt,PoW/PoS
+Riecoin,4352,Groestl,PoW
+LimeCoinX,4354,X11,PoW
+BitBar,4399,Scrypt,PoW/PoS
+CAIx,4406,Scrypt,PoS
+BitMark,4403,Scrypt,PoW
+CryptoBuk,4404,Scrypt,PoW/PoS
+Cachecoin,4405,Scrypt,PoW
+CannabisCoin,4407,X11,PoW
+BottleCaps,4408,Scrypt,PoW/PoS
+CashCoin,4409,Scrypt,PoW/PoS
+Catcoin,4410,Scrypt,PoW
+CryptoBullion,4411,Scrypt,PoW/PoS
+CannaCoin,4412,Scrypt,PoW
+CinderCoin,4413,Multiple,PoW/PoS
+CINNICOIN,4414,Scrypt,PoW
+CheckCoin,4415,N/A,PoS
+CLAMS,4416,PoS,PoS
+CopperLark,4418,SHA-256,PoW
+CosmosCoin,4419,Scrypt,PoW/PoS
+ChinaCoin,4420,Scrypt,PoW
+ConcealCoin,4421,X11,PoW
+Community Coin,4422,Scrypt,PoW/PoS
+CoolCoin,4423,Scrypt,PoS
+CrackCoin,4424,X11,PoW
+CryptCoin,4427,X11,PoW
+CasinoCoin,4428,N/A,PoC
+eMark,4429,SHA-256,PoW/PoS
+Diamond,4431,Groestl,PoW/PoS
+DarkCash,4434,X11,PoW/PoS
+DarkShibe,4435,Scrypt,PoW
+DevCoin,4436,SHA-256,PoW
+EarthCoin,4437,Scrypt,PoW
+E-Gulden,4438,Scrypt,PoW
+Elacoin,4439,Scrypt,PoW
+Emerald,4441,Scrypt,PoW
+Exclusive Coin,4442,PoS,PoS
+ExeCoin,4443,Scrypt,PoW
+EZCoin,4444,Scrypt,PoW
+Flappy Coin,4445,Scrypt,PoW
+Fuel2Coin,4446,X11,PoS
+FireflyCoin,4447,SHA-256,PoW
+FIBRE,4448,NIST5,PoW/PoS
+FireRoosterCoin,4521,SHA-256,PoW
+FlutterCoin,4449,Scrypt,PoS/PoW/PoT
+Franko,4522,Scrypt,PoW
+FractalCoin,4450,X11,PoW
+FastCoin,4523,Scrypt,PoW
+GrandCoin,4526,Scrypt,PoW
+GalaxyCoin,4529,Scrypt,PoW/PoS
+GlyphCoin,4530,X11,PoW/PoS
+GameLeagueCoin,4531,Scrypt,PoW/PoS
+GuerillaCoin,4532,X11,PoW/PoS
+Halcyon,4533,X15,PoW/PoS
+HoboNickels,4534,Scrypt,PoW/PoS
+HunterCoin,4535,Multiple,PoW
+HeavyCoin,4536,Multiple,PoW
+HyperStake,4537,X11,PoS
+IceBergCoin,4538,NIST5,PoW/PoS
+Infinite Coin,4539,Scrypt,PoW
+IXcoin,4541,SHA-256,PoW
+JumBucks Coin,4542,X11,PoW/PoS
+JunkCoin,4543,Scrypt,PoW
+JudgeCoin,4544,X13,PoW/PoS
+Klondike Coin,4545,Scrypt,PoW
+KeyCoin,4546,X13,PoW/PoS
+KrugerCoin,4547,Scrypt,PoW
+Lucky7Coin,4550,Scrypt,PoW/PoS
+LuckyCoin,4551,Scrypt,PoW
+LightSpeedCoin,4552,NIST5,PoW/PoS
+LitecoinDark,4554,Scrypt,PoW
+LitecoinX,4555,X11,PoW
+LibrexCoin,4556,X11,PoW/PoS
+LycanCoin,4557,Scrypt,PoW
+MaxCoin,4558,SHA3,PoW/PoS
+Minerals Coin,4561,X11,PoW/PoS
+MintCoin,4562,Scrypt,PoS
+Cryptsy Mining Contract,4563,SHA-256,PoW
+MinCoin,4564,Scrypt,PoW
+MurrayCoin,4566,Scrypt,PoW
+MazaCoin,4568,SHA-256,PoW/PoS
+NanoToken,4569,Scrypt,PoW
+Nautilus Coin,4570,Scrypt,PoS
+Nybble,4572,Scrypt,PoW
+NetCoin,4574,Scrypt,PoW
+Nimbus Coin,4575,X15,PoW/PoS
+NoirBits,4576,SHA-256,PoW
+NobleCoin,4577,Scrypt,PoW
+NoirShares,4578,Scrypt,PoW/PoS
+NovaCoin,4579,Scrypt,PoW/PoS
+NyanCoin,4581,Scrypt,PoW
+Orbitcoin,4583,NeoScrypt,PoW/PoS
+OpenSourceCoin,4584,SHA-256,PoW/PoS
+PhilosophersStone,4585,Scrypt,PoW
+Cryptsy Points,4586,N/A,N/A
+PseudoCash,4588,X13,PoW/PoS
+PhoenixCoin,4590,Scrypt,PoW/PoS
+PayCoin,4591,Scrypt,PoW/PoS
+RipOffCoin,4593,Scrypt,PoW
+RonPaulCoin,4594,Scrypt,PoW
+RotoCoin,4595,Scrypt-n,PoW/PoS
+RoyalCoin,4596,Scrypt,PoW
+RazorCoin,4597,Scrypt,PoW
+Saturn2Coin,4598,Scrypt,PoW
+StableCoin,4599,Scrypt,PoW
+ShadowCash,4600,Scrypt,PoW/PoS
+SaffronCoin,4601,Multiple,PoW
+ShadeCoin,4602,Scrypt,PoW/PoS
+ShieldCoin,4603,X15,PoW/PoS
+SilkCoin,4604,Scrypt,PoW/PoS
+SterlingCoin,4605,X13,PoS
+SmartCoin,4606,Scrypt,PoW
+SoleCoin,4607,X15,PoW/PoS
+Spots,4609,Scrypt,PoW
+SecureCoin,4611,Scrypt,PoW
+SSVCoin,4613,X13,PoW
+SuperCoin,4615,X11,PoS
+BitSwift,4616,Scrypt,PoW/PoS
+SyncCoin,4617,X11,PoW/PoS
+TagCoin,4619,Scrypt,PoW/PoS
+TakCoin,4620,SHA-256,PoW/PoS
+TeslaCoin,4622,Multiple,PoS
+TigerCoin,4623,SHA-256,PoW
+TittieCoin,4624,PHI1612,PoS
+TorCoin,4625,X11,PoW/PoS
+TerraCoin,4626,SHA-256,PoW
+TitCoin,4627,Scrypt,PoW
+Umbrella,4628,SHA-256,PoW
+UnbreakableCoin,4629,SHA-256,PoW
+Unobtanium,4630,SHA-256,PoW
+UroCoin,4631,X11,PoW
+UnitaryStatus Dollar,5011,Scrypt,PoW/PoS
+UltraCoin,5012,Scrypt,PoW/PoS
+Utility Coin,5013,X13,PoW/PoS
+VidioCoin,5014,X11,PoW/PoS
+VootCoin,5016,X11,PoW
+VeriCoin,5017,Scrypt,PoST
+SapienceCoin,5021,X11,PoB/PoS
+SocialXbotCoin,5022,Scrypt,PoW/PoS
+X11 Coin,5024,X11,PoW/PoS
+Crypti,5026,Multiple,PoS
+JouleCoin,5027,SHA-256,PoW
+LibertyCoin,5028,X11,PoW/PoS
+PrimeCoin,5029,Multiple,PoW
+StealthCoin,5032,X13,PoW/PoS
+XXXCoin,5033,Scrypt,PoW/PoS
+YAcCoin,5034,Scrypt,PoW
+ZCC Coin,5035,Scrypt,PoW/PoS
+ZedCoins,5036,Scrypt,PoW
+Elektron,5281,X13,PoW/PoS
+XauCoin,5283,SHA-256,PoW
+TimesCoin,5284,N/A,N/A
+StorjCoin,5288,Counterparty,PoS
+StartCoin,5289,X11,PoW
+BigCoin,5290,Blake,PoW
+CounterParty,5292,SHA-256,PoW
+MaidSafe Coin,5293,N/A,N/A
+007 coin,5294,Scrypt,PoW
+NuShares,5295,PoS,PoS
+MonaCoin,5296,Scrypt,PoW
+SolarFarm,5297,N/A,PoW
+TekCoin,5298,SHA-256,PoW/PoS
+BitBay,5300,PoS,PoS
+Neutron,5301,SHA-256,PoW/PoS
+Sling Coin,5302,SHA-256,PoW
+Vcash,5303,Whirlpool,PoS
+CraveCoin,5304,Scrypt,PoW/PoS
+Stability Shares,5306,Scrypt,PoW/PoS
+ByteCent,5308,N/A,PoW
+GridCoin,5309,Scrypt,DPoR
+Gemz Social,5310,N/A,PoW
+KryptCoin,5311,Scrypt,PoS
+Horizon,5312,N/A,PoS
+QoraCoin,5314,N/A,PoS
+RubyCoin,5316,Scrypt,PoS
+PesetaCoin,5317,Scrypt,PoW
+Wild Beast Coin,5319,Scrypt,PoW
+Sonic Screw Driver Coin,5320,SHA-256,PoW/PoS
+TileCoin,5321,N/A,N/A
+Dnotes,5322,Scrypt,PoS
+Flo,5325,Scrypt,PoW
+MaieutiCoin,5326,SHA-256,PoS
+8BIT Coin,5327,Scrypt,PoW/PoS
+Sativa Coin,5328,X13,PoW/PoS
+EbolaShare,5329,N/A,PoS
+AeroMe,5330,X13,PoW/PoS
+Coin Magi,5331,M7M,PoW/PoM/PoSII
+AmberCoin,5332,X11,PoW/PoS
+NakomotoDark,5334,X11,PoW/PoS
+JoinCoin,5335,Multiple,PoW
+GhostCoin,5336,Scrypt,PoW/PoS
+ArtByte,5338,Scrypt,PoW
+LiteDoge,5339,Scrypt,PoW/PoS
+MasterTraderCoin,5340,X11,PoW/PoS
+Triangles Coin,5341,X13,PoW/PoS
+SwarmCoin,5342,N/A,N/A
+Boolberry,5343,X11,PoW
+BitCrystal,5344,N/A,N/A
+BitCredit,5345,Momentum,PoW
+Pebble Coin,5346,CryptoNight,PoW
+Dirac Coin,5347,Blake,PoW
+Folding Coin,5348,Stanford Folding,PoW
+SolarCoin,5349,Scrypt,PoW
+Social Media Coin,5350,X11,PoW/PoS
+TruckCoin,5351,X11,PoW/PoS
+Ucoin,5352,X11,PoS
+Unitus,5353,Multiple,PoW
+CypherPunkCoin,5354,QuBit,PoW
+UFO Coin,5355,NeoScrypt,PoW
+Ascension Coin,5356,QuBit,PoW/PoS
+OrangeCoin,5357,Scrypt,PoW/PoS
+GSM Coin,5358,X11,PoW/PoS
+FriendshipCoin,5359,NeoScrypt,PoW/PoS
+NXTTY,5360,N/A,N/A
+QuBuck Coin,5361,X13,PoS/PoB
+BlakeCoin,5362,Blake,PoW
+MaryJane Coin,5363,X15,PoW/PoS
+OmniCron,5365,Scrypt,PoW
+CyberCoin,5367,Scrypt,PoW/PoS
+BitstarCoin,5368,Scrypt,PoW/PoS
+LTBCoin,5369,N/A,PoP/PoV/PoQ
+NeosCoin,5370,SHA-256,PoS
+HyperCoin,5371,Scrypt,PoW/PoS
+Vtorrent,5372,Scrypt,PoW/PoS
+MetalCoin,5373,Scrypt,PoW
+PinkCoin,5374,X11,PoW/PoS
+GreenCoin,5375,Scrypt,PoW
+XG Sports,5376,XG Hash,PoW/PoS
+ChildCoin,5377,X11,PoW
+Boom Token,5378,N/A,N/A
+Instamine Nuggets,5379,Scrypt,PoW
+Unattanium,5381,SHA-256,PoW
+SlimCoin,5382,N/A,PoB
+GAIA Platform,5383,X11,PoS
+TrustPlus,5384,X16S,PoW/PoS
+Cryptonite,5386,M7 POW,PoW
+Curecoin,5387,Scrypt,PoW
+Gridmaster,5388,Scrypt,PoW
+MemoryCoin,5389,Multiple,PoW
+BitcoinPlus,5391,Scrypt,PoS
+OctoCoin,5393,N/A,N/A
+MasterCoin,5394,Scrypt,PoW
+EggCoin,5395,Scrypt,PoW/PoS
+Coin.2,5396,Scrypt,PoW/PoS
+GlowShares,5397,PoS,PoS
+Camcoin,5398,X11,PoW/PoS
+Ribbit Rewards,5399,Multiple,PoW
+Quotient,5400,Scrypt,PoW/PoS
+ICASH,5401,X11,PoW
+Node,5402,Curve25519,PoA
+SoonCoin,5403,SHA-256,PoW
+BitMiles,5404,Scrypt,PoW
+Event Token,5405,Scrypt,PoW/PoS
+1Credit,5406,Scrypt,PoW
+ViorCoin,5407,Scrypt,PoW/PoS
+XCoin,5408,SHA-256,PoW/PoS
+VirtualMining Coin,5409,Scrypt-n,PoW
+MarsCoin,5410,X11,PoW
+Viral Coin,6088,Scrypt,PoS
+Equilibrium Coin,6093,SHA-256,PoW/PoS
+IslaCoin,6094,X11,PoW/PoS
+Quicksilver coin,6095,X11,PoW
+World Trade Funds,6096,X15,PoW/PoS
+DeOxyRibose,6097,X11,PoS
+SkullBuzz,6099,SHA-256,PoS
+GlobalBoost,6100,Yescript,PoW
+CryptoFocus,6101,X11,PoW/PoS
+Gambit coin,6102,N/A,N/A
+Crypto Escudo,6104,Scrypt,PoW
+Twelve Coin,6105,T-Inside,PoW/PoS
+EagsCoin,6106,X11,PoW/PoS
+MultiWallet Coin,6107,X11,PoW/PoS
+AudioCoin,6108,Scrypt,PoW/PoS
+Megastake,6110,X11,PoW/PoS
+Sphere Coin,6111,Scrypt,PoW/PoS
+Singular,6112,Scrypt,PoW/PoS
+SupplyShock,6115,X13,PoW/PoS
+DarkBit,6116,Scrypt,PoW/PoS
+Crypto,6117,Lyra2RE,PoW
+EdgeCoin,6339,SHA-256,PoW/HiPoS
+BitLux,6341,X11,PoW/PoS
+FutCoin,6343,X13,PoW/PoS
+Global,6393,N/A,PoS
+TamaGucci,6411,Scrypt,PoW/PoS/PoC
+MorpheusCoin,6412,X11,PoW
+Creva Coin,6451,X11,N/A
+BananaBits,6453,Scrypt,PoW/PoS
+Cerium,6455,SHA-256,PoW/PoS
+Anarchists Prime,6476,SHA-256,PoW
+Droidz,7480,QUAIT,PoW/PoS
+BowsCoin,7482,X11,PoW
+DarkTron,7483,SHA-256,PoW/PoS
+CryptoCircuits,7484,vDPOS,PoS
+IncaKoin,7559,SHA-256,PoW/PoS
+Versa Token,7562,N/A,PoS
+Empyrean,7564,Scrypt,PoW
+Squall Coin,7565,X11,PoS/PoW
+Piggy Coin,7577,X11,PoW/PoS
+Charity Coin,7580,Scrypt,PoW
+Milllionaire Coin,7581,X11,PoW/PoS
+Crown Coin,7586,Multiple,PoS
+PharmaCoin,7590,N/A,N/A
+GridMaster,7592,N/A,N/A
+Quartz,7595,SHA-256,PoW/PoS
+Arbit Coin,7599,SHA-256,PoW/PoS
+Litestar Coin,7600,X11,PoW/PoS
+SpinCoin,7624,NIST5,PoW/PoS
+GoldPieces,7625,X11,PoW/PoS
+Bitz Coin,7626,N/A,PoS
+DubCoin,7627,X15,PoW/PoS
+Graviton,7634,SHA-256,PoW/PoS
+Bob's Repair,7635,N/A,N/A
+MonetaVerde,7636,CryptoNight,PoW
+Quazar Coin,7650,CryptoNight,PoW
+Hedgecoin,7653,X13,PoW
+Song Coin,8682,Scrypt,PoW
+BitSeeds,8683,SHA-256,PoW/PoS
+Axiom Coin,8693,N/A,PoW/PoS
+SmileyCoin,8694,Scrypt,PoW
+Rimbit,8695,N/A,N/A
+Chip,8696,X11,PoW
+SpecCoin,8716,Scrypt,PoW
+UnCoin,8760,X11,N/A
+Sprouts,8761,SHA-256,PoW/PoS
+BitZeny,8762,Scrypt,PoW
+BitQuark,8763,Multiple,PoW
+ParkByte,8764,SHA-256,PoW/PoS
+Synergy,8825,X11,PoW/PoS
+Ghoul Coin,8832,N/A,PoW/PoS
+Hellenic Coin,8846,Scrypt,PoW/PoS
+Diggits,12192,Scrypt,PoS
+Global Currency Reserve,12217,PoS,PoS
+MapCoin,12223,X11,PoS
+XiaoMiCoin,12225,Scrypt,PoW/PoS
+Transfer,13045,X11,PoW/PoS
+CleverCoin,13074,N/A,PoS/PoW
+LyraBar,13281,Lyra2RE,PoW/PoS
+Prime-X1,15274,X11,PoW
+Amsterdam Coin,15284,Quark,PoW/PoS
+Obits Coin,15323,N/A,N/A
+Emercoin,15876,SHA-256,PoW/PoS
+BlitzCoin,15879,X13,PoS
+BitHIRE,15882,Scrypt,PoS
+EverGreenCoin,15885,X15,PoW/PoS
+MindCoin,15888,X11,PoW
+I0coin,16123,SHA-256,PoW
+Bata,16125,Scrypt,PoW
+Nas2Coin,16717,N/A,PoS
+Pakcoin,17006,Scrypt,PoW
+DogeCoinDark,17549,Scrypt,PoW
+OKCash,17857,SHA-256,PoW/PoS
+Revolution VR,18180,Scrypt,PoW
+HyperSpace,18244,N/A,Pow/PoSC
+HOdlcoin,18670,1GB AES Pattern Search,PoW
+Digix DAO,18907,N/A,N/A
+EDRCoin,19051,SHA-256,PoW/PoS
+Hitcoin,20153,X11,PoW/PoS
+Dashcoin,20196,CryptoNight,PoW
+DubaiCoin,20198,SHA-256,PoW/PoS
+HiCoin,20202,Scrypt,PoS
+BiosCrypto,20209,Quark,PoW/PoS
+CabbageUnit,20212,N/A,PoS
+GameBetCoin,20214,POS 3.0,PoS
+RedCrowCoin,20218,Scrypt,PoW/PoS
+PWR Coin,20236,NIST5,PoW/PoS
+TrumpCoin,20270,Blake,PoS
+PrismChain,20304,SHA-256,PoW/PoS
+BitCrystals,20315,Counterparty,N/A
+Rubies,20320,N/A,PoS
+BillaryCoin,20336,Scrypt,PoW/PoS
+Dotcoin,20339,Scrypt,PoW
+Scotcoin,20342,Counterparty,N/A
+Thecreed,20441,QuBit,PoW/PoS
+PostCoin,20444,N/A,PoS
+Influxcoin,20446,X11,PoW/PoS
+EthereumScrypt,20448,Scrypt,PoW/PoS
+Phalanx,20580,SHA-256,PoW
+NumbersCoin,20583,Scrypt,PoW/PoS
+SoulCoin,20585,Scrypt,PoW/PoS
+Ionomy,20591,N/A,PoS
+GrownCoin,20600,N/A,PoW/PoS
+SuperNET,20635,N/A,N/A
+OldSafeCoin,20640,N/A,PoS
+SunShotCoin,20644,X11,PoW
+NetworkCoin,20647,X13,PoW/PoS
+GPU Coin,20650,Scrypt,PoS
+Think And Get Rich Coin,20652,X15,PoW/PoS
+HempCoin,20655,Scrypt-n,PoW
+Adzcoin,20656,X11,PoW
+Gapcoin,20659,Scrypt,PoW/PoS
+MayaCoin,20661,Scrypt,PoW/PoS
+InvisibleCoin,20679,N/A,PoS
+VirtaCoin,20680,Scrypt,PoW
+SoilCoin,20685,Dagger,PoW
+DigiCube,20688,N/A,PoS
+YoCoin,20691,Scrypt,PoW
+VapersCoin,20718,Scrypt,PoW
+AlpaCoin,20722,SHA-256,PoW
+Steps,20724,N/A,PoS
+DebitCoin,20726,N/A,N/A
+Universal Currency,20728,SHA-256,PoW/PoS
+MoinCoin,20744,N/A,PoW/PoS
+EuropeCoin,20748,X11,PoW/PoS
+AdvancedInternetBlock,20806,Scrypt,PoW
+PrimeChain,20814,N/A,PoS
+BERNcash,20817,X14,PoW/PoS
+BigUp,20819,N/A,PoS
+RevolverCoin,20823,X11Evo,PoW
+EliteCoin,20824,X13,PoW/PoS
+PepeCoin,20825,X11,PoW/PoS
+DragonSphere,20826,X11,PoW/PoS
+Anti Bitcoin,20828,SHA-256,PoW
+BreakoutCoin,20892,SHA-256,PoW/PoS
+ColossusCoinXT,20903,X11,PoS
+Mineum,20905,X13,PoW/PoS
+ZeitCoin,20908,Scrypt,PoS
+SixEleven,20909,SHA-256,PoW
+2GiveCoin,20910,Scrypt,PoW/PoS
+Cryptographic Anomaly,20911,Scrypt,PoW
+SwingCoin,20920,SHA-256,PoW/PoS
+SafeExchangeCoin,20594,Scrypt,PoC
+Nebuchadnezzar,20980,PoS,PoS
+AcesCoin,20986,X11,PoS
+Francs,20991,Scrypt,PoW
+Aiden,21007,ScryptOG,PoW
+Pulse,21012,SHA-256D,PoS
+Number7,21017,Scrypt,PoW
+Cygnus,21213,X11,PoW/PoS
+LGBTQoin,21215,X11,PoW
+Uther,21219,Dagger,PoW
+MediumProject,21222,PoS,PoW
+KATZcoin,21224,SHA-256D,PoW/PoS
+404Coin,21227,Scrypt,PoW/PoS
+Supreme,21229,Scrypt,PoW/PoS
+Mojocoin,21232,PoS,PoS
+Bela,21239,N/A,N/A
+Flash,21244,Scrypt,PoW/PoS
+BolivarCoin,21357,X11,PoW
+CludCoin,21359,Scrypt,PoW
+DimeCoin,21365,Quark,PoW
+FlyCoin,21370,X13,PoS
+High Voltage Coin,21374,SHA-256,PoW/PoS
+GIZMOcoin,21378,X11,PoW/PoS
+GrexitCoin,21380,N/A,PoS
+Carboncoin,21382,Scrypt,PoW
+DigiEuro,21384,Scrypt,PoW
+Turron,21626,N/A,PoS
+LemonCoin,21641,N/A,PoW
+Dark Lisk,21652,X11,PoW/PoS
+NevaCoin,21669,N/A,PoW/PoS
+Cryptokenz,21706,PoS,PoS
+Fuzzballs,21708,Scrypt,PoW
+Nukecoinz,21710,Scrypt,PoW
+SecretCoin,21760,X11,PoW/PoS
+Ratecoin,21770,X11,PoW/PoS
+XanaxCoin,21773,Scrypt,PoW
+Stakerush,21833,PoS,PoS
+BonesCoin,21869,Scrypt,PoS
+WMCoin,21871,X11,PoS
+GothicCoin,21875,Scrypt,PoW
+FlavorCoin,21878,SHA-256,PoW/PoS
+ShrekCoin,21907,Scrypt,PoW/PoS
+Revenu,22169,SHA-256,PoW/PoS
+PabyosiCoin,22171,X11,PoW/PoS
+Obscurebay,22177,X11,PoW/PoS
+ExitCoin,22180,Scrypt,PoW/PoS
+EducoinV,22185,Scrypt,PoW/PoS
+Clinton,22191,SHA-256,PoW
+Clockcoin,22207,SHA-256,PoW/PoS
+VIP Tokens,22212,NIST5,PoW/PoS
+NXEcoin,22240,NIST5,PoW/PoS
+ZoomCoin,22245,Lyra2RE,PoW
+DT Token,22248,N/A,N/A
+YobitVirtualCoin,22254,SHA-256,PoS
+OrlyCoin,22258,X15,PoW/PoS
+KubosCoin,22262,Scrypt,PoW/PoS
+InceptionCoin,22264,X11,PoW/PoS
+SharkCoin,22268,SHA-256,PoW
+EvilCoin,22272,X11,PoW/PoS
+OmegaCoin,22280,X15,PoW/PoS
+MonetaryUnit,22325,Quark,PoW
+CobraCoin,22326,Scrypt,PoW/PoS
+Bancor Network Token,22327,N/A,N/A
+BitSend,22329,XEVAN,PoW/PoS
+Destiny,22330,Scrypt,PoW/PoS
+16BitCoin,22333,NIST5,PoW/PoS
+Project Decorum,22352,N/A,N/A
+CometCoin,22354,Scrypt,PoW
+ChessCoin,22407,Scrypt,PoW/PoS
+SpaceCoin,22410,Scrypt,PoW/PoS
+ReeCoin,22418,Scrypt,PoW/PoS
+Liquid,22422,N/A,N/A
+Marvelous,22428,Scrypt,PoW
+Omni,22441,Scrypt,PoW
+GenesysCoin,22453,SHA-256,PoW/PoS
+TrollTokens,22458,SHA-256,PoW/PoS
+Let it Ride,23423,POS 3.0,PoS
+ScryptCoin,23429,Scrypt,PoW
+LBRY Credits,23432,N/A,N/A
+Specie,23435,PoS,PoS
+CryptoJacks,23734,X13,PoW/PoS
+PutinCoin,23737,Scrypt,PoW/PoS
+Kraken,23741,SHA-256,PoW/PoS
+Dlisk,23743,N/A,DPoS
+iBankCoin,23745,Scrypt,PoW/PoS
+Voyacoin,24305,N/A,PoW
+EnterCoin,24307,N/A,N/A
+World Gold Coin,24402,SHA-256,PoW
+BitMoon,24405,X13,PoS
+Frankywillcoin,24866,Scrypt,PoW/PoS
+Psilocybin,24871,SHA-256D,PoW/PoS
+ExtremeCoin,24885,Scrypt,PoW/PoS
+RustCoin,24887,Scrypt,PoW/PoS
+NewZealandCoin,24892,Scrypt,PoW
+SingularDTV,24926,N/A,N/A
+Xaurum,25082,N/A,N/A
+BitFinex Tokens,25238,N/A,N/A
+Uniqredit,25594,SHA-256D,PoW
+ChronosCoin,25613,Scrypt,PoW/PoS
+Decent,25721,N/A,PoS
+PokeChain,25817,X13,PoS
+MudraCoin,25820,X13,PoS
+WarpCoin,25822,PoS,PoS
+Coinomat,25825,N/A,N/A
+PizzaCoin,25830,X11,PoW
+Lutetium Coin,25916,X11,PoS
+Heat Ledger,25917,N/A,PoS/PoP
+Iconomi,25921,N/A,N/A
+ExaByte (EXB),25925,SHA-256,PoW
+Wings DAO,25946,N/A,N/A
+Cryptodex,26113,N/A,N/A
+ReturnBit,26121,Scrypt,PoW
+deCLOUDs,26129,N/A,PoS
+GoldBlocks,26194,X11,PoW/PoS
+Anoncoin,27370,N/A,PoW
+Syndicate,27591,X11,PoW/PoS
+Mass Coin,27594,N/A,N/A
+Jewels,27674,POS 3.0,N/A
+WayCoin,27681,X11,PoS
+MollyCoin,27993,Scrypt,PoW/PoS
+Trigger,27996,N/A,N/A
+bitCNY,28019,N/A,N/A
+bitUSD,28021,N/A,N/A
+Autumncoin,28023,X11,PoW/PoS
+Save The Ocean,28025,X11,PoW/PoS
+Sense,28027,N/A,N/A
+CarterCoin,28083,Scrypt,PoW/PoS
+TotCoin,28087,Scrypt,PoW/PoS
+Bitcloud,28089,Scrypt,PoW/PoS
+ArkDAO,28125,N/A,N/A
+MedicCoin,28128,Scrypt,PoW/PoS
+FuturePoints,28131,X11,PoS
+Zeta2Coin,28136,Quark,PoW/PoS
+CovenCoin,28151,SHA-256,PoW/PoS
+Karbo,28154,CryptoNight,PoW
+Tellurion,28172,X11,PoW/PoS
+EneCoin,28174,X13,PoW/PoS
+TDFB,28176,SHA-256D,PoW/PoS
+BlockPay,28204,N/A,N/A
+BitTokens,28208,SHA-256,PoW/PoS
+ZayedCoin,28216,SHA-256,PoW
+MustangCoin,28219,X11,PoW/PoS
+Goonies,28221,Scrypt,PoW
+808,28223,SHA-256,PoW/PoS
+Veltor,28225,N/A,PoW
+ZoneCoin,28227,Scrypt,PoW/PoS
+DickCoin,28229,X11,PoW/PoS
+DarkGold,28278,X13,PoW/PoS
+TodayCoin,28317,Scrypt,PoW
+Verium,28323,N/A,PoWT
+RootCoin,28326,Scrypt,PoW/PoS
+FirstBlood,28328,N/A,N/A
+Gold Pressed Latinum,28330,N/A,PoW/PoS
+DopeCoin,28332,Scrypt,PoW
+B3 Coin,28333,X11,PoW/PoS
+FCoin,28336,Scrypt,PoW/PoS
+Pioneershares,28342,X11,PoW/PoS
+PROUD Money,28431,X11,PoW/PoS
+Samsara Coin,28650,QuBit,PoW/PoS
+Ubiqoin,28652,Progressive-n,PoS
+Armory Coin,28654,Scrypt,PoW/PoS
+ERBCoin,28665,Scrypt,N/A
+Lazarus,28700,DPoS,DPoS
+FonzieCoin,28703,SHA-256,PoW/PoS
+BitCurrency,28764,Scrypt,PoS
+FaucetCoin,28767,X13,PoS
+Save and Gain,28770,SHA-256,PoW
+SteamPunk,28772,PoS,PoS
+Dark Moon,28774,Scrypt,PoW/PoS
+DollarCoin,28776,SHA-256,PoW
+Sentaro,28778,Scrypt,PoW/PoS
+Swiscoin,28880,Scrypt,PoW/PoW
+Wexcoin,28882,N/A,PoS
+Lathaan,28885,PoS,N/A
+BitBronze,28888,Scrypt,PoW
+Shilling,28890,Scrypt,PoW
+BuzzCoin,28893,SHA-256D,PoW/PoS
+Mind Gene,29001,SHA-256,PoW/PoS
+PSIcoin,29004,X11,PoS
+Opair,29008,PoS,PoS
+NoLimitCoin,29010,SHA-256D,PoW/PoS
+PesoBit,29041,Scrypt,PoW/PoS
+Beats,29131,X11,PoW/PoS
+Fitcoin,29133,X11,PoW/PoS
+PantherCoin,29193,Scrypt,PoW/PoS
+FireCoin,29196,X15,PoW/PoS
+Unfed Coin,29198,Scrypt,PoW
+SportsCoin,29200,X11,PoS
+Peerplays,29348,N/A,N/A
+NineElevenTruthCoin,29366,Scrypt,PoW/PoS
+EGOcoin,29368,PoS,PoS
+RCoin,29374,SHA-256,N/A
+X2Coin,29376,N/A,N/A
+Tianhe,29455,Lyra2RE,N/A
+GBR Coin,29458,Scrypt,PoW
+UPcoin,29460,X13,PoS
+Octocoin,29462,N/A,PoW
+Halloween Coin,29552,X11,PoW/PoS
+BaseballCardCoin,29554,Scrypt,PoW/PoS
+EmiratesGoldCoin,29556,SHA-256,PoW
+BighanCoin,29559,Quark,PoW
+Craftcoin,29711,Scrypt,PoW/PoS
+Invictus,29713,X11,PoW/PoS
+OlympCoin,29715,X11,PoW/PoS
+DelightPay,29718,X13,PoW/PoS
+Hacker Gold,29733,N/A,N/A
+AntiLitecoin,29758,Scrypt,PoW
+JobsCoin,29762,X11,PoW/PoS
+DogeGoreCoin,29904,X11,PoW/PoS
+The Hempcoin,29924,Scrypt,PoW/PoS
+Tetra,29926,Scrypt,PoW
+Resumeo Shares,29928,NIST5,PoS
+FujiCoin,29935,Scrypt-n,PoW
+Vaporcoin,30016,SHA-256,PoW/PoS
+SydPakCoin,30019,X13,PoW/PoS
+Recovery Right Tokens,30020,N/A,N/A
+Premium,30024,Scrypt,PoW
+CaliphCoin,30029,SHA-256,PoW
+LeaCoin,30117,SHA-256,PoW
+Californium,30119,SHA-256,PoW
+CrankCoin,30121,X11,PoS/PoW
+CoffeeCoin,30123,PoS,PoS
+Victoriouscoin,30126,Scrypt,PoW/PoS
+BlackShadowCoin,30175,X11,PoW/PoS
+JiffyCoin,30177,SHA-256D,PoW
+CrabCoin,30179,X15,PoW/PoS
+President Clinton,30359,N/A,N/A
+Moneta,30364,Scrypt,PoW
+Eclipse,30367,SHA-256D,PoW/PoS
+Rublebit,30369,Scrypt,PoW
+BrainCoin,30373,X11,PoW/PoS
+Vertex,30377,SHA-256,PoW/PoS
+KRCoin,30379,X11,PoW
+RoyalCoin,30386,X13,PoS
+BigLifeCoin,30388,X11,PoW
+Zurcoin,30391,Quark,PoW
+NubisCoin,30393,SHA-256D,PoW/PoS
+Tennet,30421,SHA-256D,PoW/PoS
+PeaceCoin,30423,X11,PoW
+32Bitcoin,30428,X11,PoW/PoS
+GanjaCoin V2,30521,X14,PoW/PoS
+TeamUP,30523,PoS,PoS
+ScryptToken,30536,Scrypt,PoW/PoS
+LanaCoin,30544,SHA-256D,PoW/PoS
+Elementrem,30550,Ethash,PoW
+GuccioneCoin,30566,Scrypt,PoW
+AndromedaCoin,30568,X11,PoW/PoS
+EqualCoin,30883,X13,PoW/PoS
+SweetStake,30887,PoS,N/A
+2BACCO Coin,30912,Scrypt,PoW/PoS
+DarkKnightCoin,30920,Scrypt,PoW/PoS
+Community Coin,30925,SHA-256,PoW
+ChoofCoin,31002,Scrypt,PoW/PoS
+CashOut,31004,SHA-256,PoW
+ZClassic,32544,Equihash,PoW
+RoyalCoin 2.0,32548,X13,PoS
+Pabyosi Coin,32686,X11,PoW/PoS
+NetBit,32688,Scrypt,PoW/PoS
+WineCoin,32691,Scrypt,PoW/PoS
+Darcrus,32694,N/A,N/A
+InflationCoin,32775,X11,PoW/PoS
+ZCashDarkCoin,32777,Scrypt,PoW
+Zcrypt,32785,N/A,PoW/PoZ
+WashingtonCoin,32870,X11,PoW/PoS
+TeslaCoilCoin,32873,N/A,N/A
+vSlice,32880,N/A,N/A
+Troll Payment,32882,PoS,N/A
+LEOcoin,33001,N/A,PoW
+Midnight,33004,SHA-256,PoW/PoS
+CBD Crystals,33008,PoS,N/A
+PosEx,33010,SHA-256D,N/A
+InsaneCoin,33017,X11,PoW/PoS
+PenCoin,33127,Scrypt,PoW
+LuckChain,33129,Scrypt,PoW/PoS
+FameCoin,33268,QuBit,PoW/PoS
+LiviaCoin,33271,Scrypt,PoW/PoS
+Sex Pistols,33332,Scrypt,PoW/PoS
+MegaFlash,33393,N/A,N/A
+Veros,33399,N/A,N/A
+Arab League Coin,33401,X13,PoW
+EtherDoge,33403,X11,PoW/PoS
+KiloCoin,33405,Scrypt,PoW
+Hush,33460,Equihash,PoW
+BitLuckCoin,33522,PoS,PoS
+Dream8Coin,33524,Scrypt,PoW
+FistBump,33526,X13,PoW/PoS
+Ebitz,33636,PoS,PoS
+365Coin,33639,X11,PoW/PoS
+Digital Rupees,33645,Scrypt,PoS 
+Free Game Zone,33866,Scrypt,PoW
+BosonCoin,33869,X11,PoW/PoS
+ArtexCoin,33871,X11,PoW
+PlatiniumCoin,33873,SHA-256,PoW
+BeardDollars,33875,Scrypt,PoW/PoS
+Time,33914,N/A,N/A
+BipCoin,33936,CryptoNight,PoW
+EmberCoin,33942,X13,PoW/PoS
+Coin to the Future,33945,PoS,PoS
+DollarOnline,34213,X11,PoW/PoS
+Cosmic,34215,SHA-256D,PoW/PoS
+SpaceCash,34225,X13,PoW/PoS
+XenixCoin,34324,X11,PoW/PoS
+JIO Token,34332,N/A,N/A
+iWallet,34334,X11,PoW/PoS
+Janus,34440,N/A,N/A
+TrickyCoin,34483,PoS,PoS
+DeltaCredits,34487,N/A,PoS
+FreeCoin,34489,PoS,PoS
+NPCcoin,34491,SHA-256D,PoW/PoS
+PLNCoin,34493,Scrypt,PoW/PoS
+Digigems,34496,Scrypt,PoW
+Icobid,34499,Scrypt,PoW/PoS
+AquariusCoin,34506,Scrypt,PoW/PoS
+Kurrent,34602,X11,PoW
+Creatio,34604,PoS,PoS
+Eternity,34609,X11,PoW/PoS
+UR,34750,Dagger,PoW
+Metal Music v3,34754,Scrypt,PoW/PoS
+Old Dogs New Tricks,34847,SHA-256D,PoW/PoS
+Eurocoin,34849,SHA-256,PoW/PoS
+CoolinDarkCoin,34851,Scrypt,PoW/PoS
+BitcoinFast,34854,Scrypt,PoW/PoS
+SeedShares,35027,SHA-256D,PoW/PoS
+Stakenet,35030,X11,TPoS
+Tokes,35124,N/A,PoS
+BitConnect Coin,35165,Scrypt,PoW/PoS
+ShortyCoin,35226,PoS,PoS
+Procom,35228,Scrypt,PoW
+Kernalcoin,35230,SHA-256,PoW
+CoralPay,35232,X13,PoS
+BAM,35407,X11,PoW/PoS
+Nexium,35678,N/A,N/A
+MoneyCoin,35681,Scrypt,PoW/PoS
+Blackstar,35684,X11,PoS
+Horse Power,35687,Scrypt,PoW
+HazMatCoin,35811,Scrypt,PoW/PoS
+CryptoSpots,35813,DPoS,DPoS
+PoolStamp,35816,X13,PoW/PoS
+CryptoCarbon,35818,N/A,N/A
+BullshitCoin,35821,Scrypt,PoW/PoS
+Incent,35823,N/A,N/A
+Iconic,35825,PoS,PoS
+NewInvestCoin,35947,PoS,PoS
+AvonCoin,35949,PoS,PoS
+Enigma,35953,X11,PoW/PoS
+Cannabis Industry Coin,35955,CryptoNight,PoW
+LookCoin,36984,X11,PoW/PoS
+MMXVI,36992,N/A,PoW
+TrustCoin,37040,N/A,N/A
+WorldPay,37191,X11,PoW/PoS
+ConquestCoin,37195,X13,PoW/PoS
+Impulse Coin,37204,X13,PoW/PoS
+InCoin,37210,X11,PoW/PoS
+TheChiefCoin,37214,Scrypt,PoW/PoS
+Goat,37356,Scrypt,PoW/PoS
+AnalCoin,37359,SHA-256,N/A
+Russiacoin,37361,Scrypt,PoW/PoS
+PandaCoin,37366,Scrypt,PoS
+PXcoin,37370,SHA-256,PoW/PoS
+OptionCoin,37749,X11,PoS
+Avatar Coin,38026,PoS,PoS
+Limited Coin,38030,PoS,PoS
+GameUnits,38032,Scrypt,PoW/PoS
+HeelCoin,38035,PoS,PoS
+GAKHcoin,38277,Scrypt,PoW/PoS
+Gainfy,38279,N/A,N/A
+S88 Coin,38310,Scrypt,PoW/PoS
+Leverage Coin,38312,N/A,N/A
+DraculaCoin,38360,Scrypt,PoW
+Allsafe,38367,Quark,PoS
+LiteCreed,38370,QuBit,PoW/PoS
+Quebecoin,38371,X11,N/A
+ProCoin,38380,X15,PoW/PoS
+Astral,38959,X13,PoW/PoS
+GiftNet,38962,X13,PoW
+PureVidz,38964,PoS,PoS
+Incrementum,38967,PoS,PoS
+PentaCoin,39698,SHA-256,PoW/PoS
+AcidCoin,39700,SHA-256,PoW
+ZLiteQubit,39704,QuBit,N/A
+RadicalCoin,39707,X13,PoS
+ReturnCoin,39710,X11,PoS
+Golos,40806,DPoS,PoW
+Pascal Coin,40811,Pascal,N/A
+TwisterCoin,40839,X11,PoW/PoS
+PayPeer,40842,X11,PoW/PoS
+DarkEther,40845,X11,N/A
+YAYcoin,40847,Scrypt,PoW/PoS
+YesCoin,40990,Scrypt,PoW/PoS
+LeninCoin,40992,SHA-256D,PoW
+MrsaCoin,41116,X13,PoW/PoS
+OsmiumCoin,41122,Scrypt,PoW
+BitBoss,41125,SHA-256,PoW/PoS
+Bikercoins,41587,CryptoNight,PoW
+CryptoPennies,41590,X11,PoS
+Motocoin,41592,N/A,PoP
+NeptuneClassic,41819,X11,PoW/PoS
+HexxCoin,41868,Lyra2RE,PoW
+Ghost Coin,41871,SHA-256,PoW/PoS
+MachineCoin,41962,Time Travel,PoW
+SelenCoin,41967,PoS,PoS
+Noocoin,41971,PoS,PoS
+23 Skidoo,41974,SHA-256D,PoW
+GoldenBird,41989,X13,PoW/PoS
+YamahaCoin,42099,Scrypt,PoW
+JokerCoin,42101,Scrypt,PoW/PoS
+GravityBit,42103,Scrypt,PoW/PoS
+TeCoin,42106,Multiple,PoW
+BombCoin,42110,Scrypt,PoW/PoS
+Ride My Car,42344,PoS,PoS
+Klingon Empire Darsek,42435,Scrypt,PoW/PoS
+Coino,42438,Scrypt,PoW
+WealthCoin,42440,DPoS,PoS
+Internet of People,42596,SHA-256,PoW/PoS
+Spectre,42598,POS 3.0,PoS
+Pepe Cash,42663,N/A,N/A
+Clickcoin,42680,PoS,PoS
+Elysium,42685,Scrypt,PoW
+KushCoin,42687,X11,PoW/PoS
+Eryllium,42694,X11,PoW/PoS
+Pluton,42837,N/A,N/A
+President Trump,42841,N/A,N/A
+BitzCoin,42843,X11,PoW/PoS
+Opes,42850,Argon2,PoW
+Waves Community Token,43042,N/A,N/A
+Ratio,43046,PoS,PoS
+Babes and Nerds,43247,PoS,N/A
+NiceCoin,43253,Scrypt,PoW
+SmurfCoin,43257,Scrypt,PoW/PoS
+CryptoWorldXToken,43265,N/A,PoW/PoS
+TechCoin,43595,X13,PoW/PoS
+CircuitCoin,43598,SHA-256D,PoW/PoS
+LePenCoin,43602,SHA-256,PoS
+RoundCoin,43604,N/A,N/A
+MarijuanaCoin,43814,X11,PoW/PoS
+MarxCoin,43818,X11,PoW
+HazeCoin,43937,Scrypt,PoW
+Printerium,43998,Scrypt,PoW/PoS
+Neurocoin,44001,PoS,PoS
+PAC Global,44003,X11,PoS
+Impeach,44007,Scrypt,PoW/PoS
+ErrorCoin,44749,Scrypt,PoW
+TrueInvestmentCoin,44752,Scrypt,PoW/PoS
+NukeCoin,44799,PoS,PoS
+EveryonesCoin,44803,Scrypt,PoW/PoS
+Solarflarecoin,44952,Scrypt,PoW
+JaneCoin,44955,X11,PoW/PoS
+ParanoiaCoin,44957,Scrypt,PoW
+MasterMint,44959,X11,PoS
+Citadel,45031,CryptoNight-V7,PoW
+NinjaDoge,45044,X11,PoW/PoS
+Zilbercoin,45250,Scrypt,PoS
+FirstCoin,45258,Scrypt,PoW/PoS 
+OroCoin,45262,Scrypt,PoW
+Alexandrite,45607,SHA-256,PoW/PoS
+TrashBurn,45609,SHA-256D,PoS
+MasterCar,45612,Scrypt,PoW/PoS
+TechShares,45615,DPoS,DPoS
+AcesCoin,45617,X13,PoS
+United Arab Emirates Coin,45816,X11,PoW/PoS
+EagleCoin,45821,SHA-256,PoW
+Persistent Information Exchange,45832,PoS,PoS
+CreativeChain,48787,Keccak,DPoS
+WisdomCoin,48794,Scrypt,PoW/PoS
+BeaverCoin,48800,Scrypt,PoW
+FindCoin,48807,X13,PoS
+MeLite,49600,SHA-256D,PoW/PoS
+StalinCoin,49605,X11,PoW/PoS
+TattooCoin,49610,Scrypt,PoW/PoS
+VaultCoin,50730,X11,PoW
+BioBar,50734,SHA-256D,PoW/PoS
+Swarm City Token,50741,N/A,N/A
+Pascal Lite,50754,SHA-256,PoW/PoS
+Zero,51845,Equihash,PoW
+OpenChat,52008,Scrypt,PoW/PoS
+Netko,53174,Blake,N/A
+Zoin,53178,Lyra2RE,PoW
+Honey,53915,Blake2S,PoW/PoS
+MartexCoin,53944,X13, PoW/PoS
+Musicoin,53950,Ethash,PoW
+Databits,55540,N/A,N/A
+BitVegan,55544,PoS,PoS
+Mbitbooks,55547,Scrypt,PoW
+BitVolt,55553,PoS,PoS
+Edgeless,55676,N/A,N/A
+BankCoin,56078,N/A,N/A
+BestChain,56246,Scrypt,PoW/PoS 
+ChainCoin,56249,N/A,N/A
+Zennies,56253,Scrypt,PoS
+PlanetCoin,56654,Scrypt,PoW/PoS
+BnrtxCoin,56682,X11,PoW
+BattleStake,57466,PoS,PoS
+RenosCoin,57471,Scrypt,PoS
+DubaiCoin,57481,Dagger-Hashimoto,PoW
+AMIS,57676,N/A,N/A
+Kayı,57705,N/A,N/A
+VirtacoinPlus,57734,X11,PoW/PoS
+Doubloon,57742,536,PoW/PoS
+TajCoin,57750,Blake2S,PoW/PoS
+Impact,58121,X11,PoW/PoS
+CryptoJournal,58125,PoS,PoS
+Amygws,59304,Scrypt,PoW
+Cubits,59317,SHA-256,PoW/PoS
+EB3coin,59968,Scrypt,PoW
+The Vegan Initiative,59973,PoS,PoS
+FazzCoin,60409,PoS,PoS
+Aptcoin,60419,Scrypt-n,PoW
+BlazerCoin,60424,Scrypt,PoW
+ArpaCoin,60618,SHA-256D,PoW/PoS
+Universe,60631,Scrypt,PoS
+ECOcoin,61047,Scrypt,PoW/PoS
+Solaris,61061,XEVAN,PoW/PoS
+Dark,61066,SHA-256,PoW/PoS
+DonationCoin,61073,Scrypt,PoW
+Mercury,61138,N/A,N/A
+WavesGO,61667,N/A,N/A
+Atmos,61902,PoS,PoS
+EncryptoTel,62529,N/A,N/A
+Visio,62648,X13,PoW/PoS
+HappyCoin,62659,X11,PoW/PoS
+Giotto Coin,63304,Scrypt,PoW/PoS
+Coinonat,63308,NIST5,PoW
+EmporiumCoin,63312,X11,PoW/PoS
+Gnosis,66193,N/A,N/A
+Legends Cryptocurrency,66259,N/A,N/A
+Token as a Service,66270,N/A,N/A
+SwagBucks,66685,Scrypt,PoW/PoS
+XTRABYTES,66694,N/A,PoSign
+MacronCoin,67430,PoS,PoS
+Lunyr,67447,N/A,N/A
+Condensate,67462,X11,PoW/PoS
+WeAreSatoshi,68084,X11,PoW/PoS
+IvugeoEvolutionCoin,68088,Scrypt,PoW
+Independent Money System,68093,Scrypt,PoW/PoS
+ArgusCoin,70352,Scrypt,PoW/PoS
+Centurion,70365,X11,PoW/PoS
+LomoCoin,70469,Scrypt,PoW/PoS
+Bitcoin Scrypt,71321,Scrypt,PoW
+ProCurrency,71334,SHA-256,PoS
+GoldReserve,71862,X11,PoW/PoS
+BenjiRolls,71884,Scrypt,PoW
+Humaniq,72438,N/A,N/A
+Blockchain Capital,72955,N/A,N/A
+ParallelCoin,73132,Scrypt,PoW
+RiptoBuX,73143,N/A,N/A
+GrowthCoin,74894,Scrypt,PoS
+Apx,74912,N/A,N/A
+MiloCoin,74924,Scrypt,PoW/PoS
+OldV,75285,Scrypt,PoW/PoS
+ILCOIN,75440,SHA-256,PoW
+MinersReward,75475,N/A,N/A
+IOU1,77286,N/A,N/A
+Prizm,77306,SHA-256,PoS
+Phreak,77337,PoS,PoS
+PupaCoin,78172,Blake2S,PoW/PoS
+RiceCoin,78190,X13,PoW/PoS
+C-Bits,78227,SHA-256,PoW
+Degas Coin,79849,Scrypt,PoW/PoS
+Redcoin,79864,Scrypt,PoW
+ZSEcoin,79875,X11,PoW/PoS
+Coinmatic,79887,N/A,N/A
+TappingCoin,81403,X11,PoW/PoS
+BitOKX,81445,Scrypt,PoS
+Primalbase,84232,N/A,N/A
+MilkCoin,84247,SHA-256,PoW/PoS 
+HTML5 Coin,84752,X15,PoW/PoS
+Minereum,84831,N/A,N/A
+Etheroll,89572,N/A,N/A
+Subscriptio,100944,PoS,PoS
+Ultimate Secure Cash,100954,SHA-256,PoS
+DuxCoin,105206,Scrypt,PoW/PoS
+PoisonIvyCoin,105220,Scrypt,PoW/PoS
+EquiTrader,105263,Scrypt,PoW
+Insane Coin,105284,X11,PoW/PoS
+Manet Coin,108094,Scrypt,PoW/PoS
+F16Coin,108099,Scrypt,PoW/PoS
+HamsterCoin,112363,Scrypt,PoW
+NefariousCoin,112405,Scrypt,PoW/PoS
+BOScoin,116384,N/A,mFBA
+Qwark,116425,N/A,N/A
+Quantum Resistant Ledger,127667,RandomX,PoW
+Adelphoi,127738,N/A,N/A
+Patientory,129035,N/A,N/A
+ZrCoin,129604,N/A,N/A
+Lykke,130939,N/A,N/A
+Espers,130951,536,PoW/PoS
+Dynamic,131111,Argon2d,PoW
+Sequence,131112,Scrypt,PoW/PoS
+MCAP,131154,N/A,N/A
+Veritaseum,136211,N/A,N/A
+Cofound.it,136984,N/A,N/A
+Status Network Token,137013,N/A,N/A
+iXledger,141171,N/A,N/A
+Starta,150519,N/A,N/A
+True Flip Lottery,150545,N/A,N/A
+Crypto.com,166548,N/A,N/A
+AdEx,170452,N/A,N/A
+Quantum,170958,N/A,N/A
+EcoBit,171390,N/A,N/A
+Polybius,171884,N/A,N/A
+Ahoolee,175611,Ethash,PoW
+ATB coin,175618,SHA-256,PoW
+Blocktix,175671,N/A,N/A
+ChanCoin,175683,Cloverhash,PoW
+Compcoin,176004,N/A,N/A
+Rivetz,176280,N/A,N/A
+Harbour DAO,176336,N/A,N/A
+Nimiq,176669,N/A,PoW
+8 Circuit Studios,177124,N/A,N/A
+ACT,177157,N/A,N/A
+Suretly,177462,N/A,N/A
+CryptoPing,177503,N/A,N/A
+MakeItViral,177759,Scrypt,PoW/PoS
+Santiment,177863,N/A,N/A
+Wagerr,178467,N/A,PoS
+Elastic,178861,N/A,PoW
+NVO,178885,N/A,N/A
+FunCoin,179018,N/A,N/A
+Giga Watt,179109,N/A,N/A
+Hiveterminal Token,179329,N/A,N/A
+MyBit,179345,N/A,N/A
+SunContract,179926,N/A,N/A
+Starbase,179947,N/A,N/A
+Corion,179980,N/A,N/A
+Rialto.AI,179990,N/A,N/A
+Orocrypt,180001,N/A,N/A
+Oax,180013,N/A,N/A
+Monster Byte Inc,180539,N/A,N/A
+Digital Developers Fund,180595,N/A,N/A
+DIMCOIN,180678,N/A,N/A
+Gilgam,180716,N/A,N/A
+FundYourselfNow,180820,N/A,N/A
+FundRequest,180840,N/A,N/A
+Dinastycoin,181373,CryptoNight,PoW
+CryptoForecast,182258,N/A,N/A
+Denarius,182288,NIST5,PoW/PoS
+DigitalPrice,182325,X11,PoW
+Virta Unique Coin,182340,NIST5,PoW/PoS
+Bitcoin Planet,182346,Skein,PoW/PoS
+Unify,182364,Scrypt,PoW
+BritCoin,182416,X13,PoW/PoS
+Ammo Rewards,182463,N/A,PoS
+SocialCoin,183189,Scrypt,PoW
+LATOKEN,184163,N/A,N/A
+IMMLA,184187,N/A,N/A
+BitJob,184237,N/A,N/A
+Pillar,184298,N/A,N/A
+GeoFunders,185625,N/A,N/A
+InvestFeed,185669,N/A,N/A
+BitClave,185689,N/A,N/A
+SynchroCoin,185873,N/A,N/A
+Indorse,185953,N/A,N/A
+TribeToken,186253,N/A,N/A
+0x,186277,N/A,N/A
+Tierion,186309,N/A,N/A
+COS,186335,N/A,N/A
+Storm,186875,N/A,N/A
+Napoleon X,187015,N/A,N/A
+Storj,187347,N/A,N/A
+Scorecoin,187431,Scrypt,PoW
+Octanox,188294,X11,PoW/PoS
+Voise,188352,N/A,N/A
+EthBits,188394,N/A,N/A
+Crypviser,188400,N/A,N/A
+DCORP,188523,N/A,N/A
+ArcticCoin,188615,X11,PoW
+Bogcoin,188677,SHA-256,PoW
+NeverDie,188787,N/A,N/A
+Po.et,188811,N/A,N/A
+AdToken,188858,N/A,N/A
+Useless Ethereum Token,191037,N/A,N/A
+Agoras Token,191142,N/A,N/A
+BeachCoin,188652,X11,PoW
+DAS,194399,X11,PoW
+Adshares,194530,N/A,DPoS
+CoinJob,194689,N/A,N/A
+Royal Kingdom Coin,194924,N/A,N/A
+NoLimitCoin,195018,PoS,PoS
+Metrix,196541,Scrypt,PoS
+King93,196560,N/A,N/A
+Anacrypt,196572,N/A,N/A
+Reality Clash,196591,Ethash,PoW
+RootProject,194906,N/A,N/A
+Sosnovkino,196612,N/A,N/A
+CryptoABS,196986,N/A,N/A
+Opus,197054,N/A,N/A
+OpenZen,197886,N/A,N/A
+Bits Digit,198251,N/A,N/A
+LeviarCoin,198337,CryptoNight,PoW
+Skincoin,198369,N/A,N/A
+Mothership,198408,N/A,N/A
+HireMatch,198458,N/A,N/A
+REAL,198490,N/A,N/A
+DentalFix,198693,N/A,N/A
+EQUI,198698,N/A,N/A
+Wolk,198703,N/A,N/A
+Viberate,198710,N/A,N/A
+DeepOnion,198967,X13,PoW/PoS
+iDice,199004,N/A,N/A
+Sphre AIR,199026,N/A,N/A
+gCn Coin,199065,Scrypt,PoW
+ICO OpenLedger,199363,N/A,N/A
+Timereum,199887,N/A,N/A
+Signatum,200941,SkunkHash v2 Raptor,PoS
+Onix,201676,X11,PoW
+CoEval,201701,N/A,N/A
+Arena,201896,N/A,N/A
+Wink,201962,PoS,PoS
+Cream,202049,Skein,PoW/PoS
+DigiPulse,202696,N/A,N/A
+Mobius,202706,N/A,N/A
+BitDice,202714,N/A,N/A
+KickToken,202849,N/A,N/A
+Solar DAO,203183,N/A,N/A
+Core Group Asset,205549,N/A,N/A
+Kencoin,205967,N/A,N/A
+Qvolta,205980,N/A,N/A
+Ties Network,205991,N/A,N/A
+Autoria,206001,N/A,N/A
+Growers International,207931,DPoS,N/A
+Monkey,208001,N/A,N/A
+Monetha,208914,N/A,N/A
+CCCoin,210595,N/A,N/A
+Umbrella Coin,213100,N/A,N/A
+Bitmxittz,213113,Scrypt,PoW/PoS
+Gas,213532,N/A,N/A
+Oceanlab,214738,N/A,DPoS/LPoS
+Benjacoin,215570,N/A,N/A
+Tomahawkcoin,215602,N/A,N/A
+SMNX,218221,N/A,N/A
+Dentacoin,218906,N/A,N/A
+Agrello Delta,220204,N/A,N/A
+Macroverse,221349,N/A,N/A
+Embers,221350,N/A,N/A
+Substratum Network,221463,N/A,N/A
+Prospectors,222125,N/A,N/A
+Monoeci,222133,X11,PoW/PoS
+Authoreon,222200,N/A,N/A
+CampusCoin,228090,Scrypt,PoW
+DetectorToken,223644,N/A,N/A
+Centra,225277,N/A,N/A
+Wavesnode.net,206512,N/A,N/A
+Paragon,225764,N/A,N/A
+ThankYou,228146,N/A,N/A
+HealthyWorm,228162,PoS,PoS
+Fuck Token,229060,N/A,N/A
+Veredictum,229307,N/A,N/A
+Smart Investment Fund Token,229420,N/A,N/A
+Ignis,231674,N/A,N/A
+IwToken,232556,N/A,N/A
+JustDatingSite,232607,N/A,N/A
+Intelligent Trading,232678,N/A,N/A
+Aigang,187030,N/A,N/A
+Eternal Coin,206539,N/A,N/A
+Entropy Token,207891,N/A,N/A
+ICOBox,207775,N/A,N/A
+Lampix,223283,N/A,N/A
+MediBond,233044,N/A,N/A
+Hello Gold,234508,N/A,N/A
+Litra,234526,N/A,N/A
+Nimfamoney,234596,N/A,N/A
+Scorista,234659,N/A,N/A
+CPROP,234707,N/A,N/A
+KexCoin,234766,N/A,N/A
+Cobinhood,234811,N/A,N/A
+Bitradio,234982,PoS,PoS
+Minex,235021,N/A,N/A
+ATLANT,235213,N/A,N/A
+Draftcoin,236039,Scrypt,PoS
+Utrust,236358,N/A,N/A
+Latium,237269,N/A,N/A
+Sojourn Coin,237385,Scrypt,PoW
+Hedge Token,237407,N/A,N/A
+Stakecoin,237428,PoS,PoS
+SqPay,237448,N/A,N/A
+Etheriya,238571,N/A,N/A
+Ethereum.Link,238622,N/A,N/A
+Amber,238733,Dagger,PoA
+GoldMint,240322,N/A,N/A
+AltoCar,240439,N/A,N/A
+BANKEX,241757,N/A,N/A
+Boulle,241804,N/A,N/A
+Oxycoin,242873,DPoS,DPoS
+Acumen,243045,N/A,N/A
+Gimli,243079,N/A,N/A
+NewYorkCoin,247232,Scrypt,PoW
+LiteBitcoin,247246,Scrypt,PoW
+FrazCoin,247259,Scrypt,PoW
+EasyMine,247322,N/A,N/A
+Hubii Network,247391,N/A,N/A
+Kronecoin,247703,Scrypt,PoW
+Scrypto,248243,N/A,N/A
+AdCoin,249821,Scrypt,PoW
+Z2 Coin,252359,SHA-256,PoW
+Linx,253667,Scrypt,PoW
+CoinonatX,253688,X11,PoW/PoS
+BlakeStar,253707,Blake2S,PoW/PoS
+Sociall,255254,N/A,N/A
+Travel Coin,255293,N/A,N/A
+Cryptum,255489,N/A,Proof of Ownership
+Exscudo,255546,N/A,DPoS
+Privatix,257772,N/A,N/A
+CarTaxi,278056,N/A,N/A
+Cryptonex,289715,N/A,N/A
+Etherparty,292748,N/A,N/A
+TokenStars,294364,N/A,N/A
+Worldcore,296844,N/A,N/A
+Breakout Stake,299415,N/A,PoW/PoS
+U.CASH,299774,N/A,N/A
+WRTcoin,299811,X11,PoW
+Ormeus Coin,301112,N/A,N/A
+Deep Gold,301119,N/A,N/A
+Wish Finance,301216,N/A,N/A
+ARNA Panacea,303888,N/A,N/A
+AB-Chain,303943,N/A,N/A
+Papyrus,304147,N/A,N/A
+Blackmoon Crypto,304184,N/A,N/A
+Skrilla Token,304605,N/A,N/A
+3DES,304693,N/A,N/A
+Paycent,304833,N/A,N/A
+Kapu,305047,DPoS,DPoS
+Sense Token,305252,N/A,N/A
+Cappasity,306304,N/A,N/A
+BLOCKv,306482,N/A,N/A
+Facecoin,307112,N/A,N/A
+Ripio,307219,N/A,PoW
+Doc.ai Neuron,307406,N/A,N/A
+Crowdwiz,310052,N/A,PoS
+A-Token,310392,N/A,N/A
+Kyber Network,310497,N/A,N/A
+Rustbits,310553,N/A,N/A
+Imbrex,310589,N/A,N/A
+Ethereum Dark,310754,Scrypt,PoW/PoS
+Sumokoin,310812,CryptoNight,PoW
+Hydrominer,310867,N/A,N/A
+Crypto Tickets,311176,N/A,N/A
+Rhea,311516,N/A,N/A
+Maecenas,311558,N/A,N/A
+DomRaider,311829,N/A,N/A
+Snovio,311853,N/A,N/A
+TrackNetToken,313967,N/A,N/A
+StockBet,313988,N/A,N/A
+Algo.Land,314331,N/A,PoS
+Salt Lending,314580,N/A,N/A
+Sandcoin,314865,N/A,N/A
+Experience Points,318154,SHA-256,PoW/PoS
+Gladius,318704,N/A,N/A
+Zenome,318794,N/A,N/A
+EZMarket,319029,N/A,N/A
+Obsidian,319075,SHA-512,PoS
+ClearPoll,319130,N/A,N/A
+Moya Token,319238,N/A,N/A
+Cashaa,319254,N/A,N/A
+MiniApps,320036,N/A,PoW
+Global Jobcoin,320412,N/A,N/A
+Wi Coin,320551,N/A,N/A
+Webcoin,320596,N/A,N/A
+WandX,320621,N/A,N/A
+Elixir,321177,N/A,N/A
+eBitcoin,321189,N/A,N/A
+Hackspace Capital,321347,N/A,N/A
+Yoyow,322002,N/A,N/A
+Regalcoin,322013,X11,PoW/PoS
+Bismuth,322963,N/A,PoW
+Opporty,323787,N/A,N/A
+Ice Rock Mining,323817,N/A,N/A
+Earth Token,324012,N/A,N/A
+Vsync,325279,X13,PoW/PoS
+Graft Blockchain,326286,CryptoNight,PoW/PoS
+BitcoinZ,327184,Equihash,PoW
+Crazy Coin,327250,N/A,N/A
+PayPie,327500,N/A,N/A
+Peerguess,327608,N/A,N/A
+CanYaCoin,327632,N/A,N/A
+Cryptonetix,328667,N/A,N/A
+Esports.com,328784,N/A,N/A
+FLiK,329562,N/A,N/A
+Trippki,329767,N/A,N/A
+Multibot,330003,N/A,N/A
+Javvy,331207,N/A,N/A
+ALISmedia,331603,N/A,N/A
+Leverj,332804,N/A,N/A
+Arbi,334856,Ethash,N/A
+Request Network,335059,N/A,N/A
+Aeron,335127,N/A,N/A
+Datum,335505,N/A,N/A
+VIBEHub,336538,N/A,N/A
+Rockchain,336556,N/A,N/A
+X Real Estate Development,336594,N/A,N/A
+Chronologic,336705,N/A,N/A
+AirSwap,337162,N/A,N/A
+Gameflip,337863,N/A,N/A
+HextraCoin,338018,Scrypt,N/A
+Cindicator,338070,N/A,N/A
+Prosense.tv,338140,N/A,N/A
+NetM,338156,Scrypt,PoW
+TrezarCoin,338180,NeoScrypt,PoW/PoS
+Musiconomi,338415,N/A,N/A
+AirToken,338555,N/A,N/A
+Fujinto,339406,N/A,N/A
+ATC Coin,339419,Scrypt,PoW
+Kolion,339431,N/A,N/A
+Wild Crypto,339533,N/A,N/A
+eLTC,339581,N/A,N/A
+ILCoin Token,339598,SHA-256,PoW
+Crypto20,339632,N/A,N/A
+Anryze,339804,N/A,N/A
+Elements,339933,X11,PoW
+TerraNovaCoin,340067,Scrypt,PoW/PoS
+CybCSec Coin,340112,POS 3.0,PoS
+Bitqy,340125,N/A,N/A
+Clout,340816,N/A,N/A
+Everus,340966,N/A,N/A
+TOA Coin,341019,Scrypt,PoW/PoS
+Monaize,341059,Equihash,PoW/DPoW
+VIVO Coin,341205,NeoScrypt,PoW
+Red Pulse Phoenix,341267,NEP-5,N/A
+Zeusshield,341328,N/A,N/A
+Aureus,341400,Scrypt,N/A
+Change,341422,N/A,N/A
+Playkey,344086,N/A,N/A
+e-Chat,344337,N/A,N/A
+Internxt,344988,N/A,N/A
+Authorship,345017,N/A,N/A
+RG Coin,345065,NIST5,PoW/PoS
+EthBet,345159,N/A,N/A
+Bitcomo,345544,N/A,N/A
+CryptoPay,345674,N/A,N/A
+Rupee,345801,Lyra2REv2,PoS
+Bonpay,346775,N/A,N/A
+WhaleCoin,347067,Ethash,PoW
+UpToken,347247,N/A,N/A
+Ethereum Gold,347450,N/A,N/A
+WomenCoin,348068,Scrypt,PoW/PoS
+Theresa May Coin,348094,SHA-256,PoW/PoS
+Render Token,348131,N/A,N/A
+Eddie coin,348256,Scrypt,PoW/PoS
+Soma,348278,N/A,N/A
+NamoCoin,348289,NIST5,PoW/PoS
+GATCOIN,349487,N/A,N/A
+Ethereum Blue,350048,N/A,N/A
+Follow Coin,350394,N/A,N/A
+Wyrify,350395,N/A,N/A
+Vezt,350476,N/A,PoW
+IndiCoin,351078,N/A,PoW
+LUXCoin,351720,PHI1612,PoW/PoS
+TBIS token,354771,N/A,N/A
+Pirl,355019,Dagger,PoW
+Ethereum Cash,355117,N/A,N/A
+WePower,355242,N/A,N/A
+Dragonchain,355702,N/A,N/A
+ODMCoin,357404,N/A,N/A
+BROTHER,357734,N/A,N/A
+Dynamic Trading Rights,360063,N/A,N/A
+CryptoInsight,360229,N/A,N/A
+EthereumLite,360657,N/A,N/A
+Xios,360740,Scrypt,PoW/PoS
+DOVU,360827,N/A,N/A
+Realisto,362039,N/A,N/A
+Avesta,362627,Avesta hash,PoW
+Xenon,362769,N/A,N/A
+Bitcloud 2.0,362846,Quark,PoW/PoS
+Lendoit,363006,N/A,N/A
+ZABERcoin,363992,N/A,N/A
+Bitfinex Bitcoin Future,364317,N/A,N/A
+Bitcoin SegWit2X,364348,N/A,N/A
+Sharpe Capital,364472,N/A,PoS
+Jincor,364747,N/A,N/A
+Extreme Sportsbook,364846,X11,PoS
+ATMChain,368694,N/A,N/A
+eBoost,368732,Scrypt,PoW
+KekCoin,368743,POS 2.0,PoS
+AidCoin,368770,N/A,N/A
+BlackholeCoin,369029,Scrypt,PoW/PoS
+AltCommunity Coin,369110,SkunkHash,PoW/PoS
+Streamr DATAcoin,369151,N/A,N/A
+ugChain,369179,N/A,N/A
+HEROcoin,369251,N/A,N/A
+Pure,370535,X11,PoW/PoS
+Cloud,370606,N/A,N/A
+Open Trading Network,370726,N/A,N/A
+PoSToken,370825,N/A,PoS
+REBL,370889,N/A,N/A
+NEO Gold,370947,N/A,N/A
+ExchangeN,370961,N/A,N/A
+Tracto,371004,N/A,N/A
+UnikoinGold,371005,N/A,N/A
+Bitcoin Red,371064,N/A,N/A
+CoinPulseToken,371095,N/A,N/A
+Project J,371902,N/A,N/A
+AIX,372029,N/A,N/A
+Neumark,372377,N/A,N/A
+Rupaya,372608,Quark,PoS
+BlueDragon,372637,N/A,N/A
+TIOx,372812,N/A,N/A
+Huncoin,373880,X13,PoW
+MadCoin,373980,Scrypt,PoW
+Pura,374031,X11,PoW
+Innova,374211,NeoScrypt,PoW
+Decision Token,374246,N/A,N/A
+Bitdeal,374294,Scrypt,PoW
+COMSA,374358,N/A,N/A
+Billionaire Token,375352,N/A,N/A
+Zeph,375396,SHA-256,DPoS
+ATFS Project,375855,N/A,N/A
+Galaxy eSolutions,377508,N/A,N/A
+Phore,377831,POS 3.0,N/A
+LitecoinCash,378830,N/A,N/A
+Confido,379232,N/A,N/A
+SophiaTX,379248,N/A,N/A
+PlusCoin,380571,N/A,N/A
+WiserCoin,380671,Scrypt,PoW
+Decent.bet,380712,N/A,N/A
+Go!,380754,Scrypt,PoW/PoS
+Newbium,380794,N/A,N/A
+LIFE,381189,N/A,N/A
+Russian Mining Coin,381323,N/A,N/A
+Credo,382450,N/A,N/A
+Masari,382536,CryptoNight,PoW
+ConnectJob Token,382617,N/A,PoS
+Envion,383953,N/A,N/A
+Bankera,384605,N/A,N/A
+Ellaism,384651,Ethash,PoW
+BlockPool,384729,DPoS,N/A
+RocketCoin,384950,N/A,N/A
+Droxne,384953,PoS,PoS
+Sakuracoin,385866,Scrypt,PoW
+Grid+,385907,N/A,N/A
+PlatinumBAR,385933,Quark,PoW/PoS
+Genesis Vision,385952,N/A,N/A
+Energi Token,385960,N/A,N/A
+Astronaut,387875,N/A,N/A
+Mercury Protocol,388042,N/A,N/A
+Emphy,388076,N/A,N/A
+Soarcoin,388145,N/A,N/A
+Experty,388493,N/A,N/A
+Interstellar Holdings,389808,Scrypt,PoS
+MinexCoin,389849,Mars,N/A
+Credits,392253,Argon2,N/A
+Viuly,393656,N/A,N/A
+Scorum,393742,DPoS,DPoS
+Düber,394055,N/A,N/A
+Giftcoin,394121,N/A,N/A
+STAC,396716,N/A,N/A
+RiptideCoin,398126,N/A,N/A
+BitBoost,398648,N/A,N/A
+GoByte,398705,NeoScrypt,PoW
+Castle,400432,Quark,DPoS
+Insta Cash Coin,400693,SHA-256,PoW
+Jibrel Network Token,400702,N/A,N/A
+Alqo,402782,N/A,PoS
+KingN Coin,402805,Scrypt,PoW/PoS
+Triaconta,402884,N/A,N/A
+Pebbles,402980,N/A,N/A
+Magnet,404752,X11,PoW/PoS
+STEX,404775,N/A,N/A
+Upfiring,404806,N/A,N/A
+LociCoin,404890,N/A,N/A
+Lamden Tau,405291,DPoS,DPoS
+Labrys,405343,N/A,N/A
+Debitum Token,408765,N/A,N/A
+Flixxo,408849,N/A,N/A
+Farad,409128,N/A,N/A
+PayFair,409155,N/A,N/A
+Electra,409249,NIST5,PoW/PoS
+Ludum token,409363,N/A,N/A
+LiteCoin Gold,409422,N/A,N/A
+StashPay,411271,N/A,N/A
+SpankChain,411496,N/A,N/A
+MyWish,411620,N/A,N/A
+Aerium,411647,N/A,PoW/PoS
+PlexCoin,412081,N/A,N/A
+Autonio,412112,N/A,N/A
+EtherBTC,412197,N/A,N/A
+FoodCoin,413886,N/A,N/A
+Darico,417510,N/A,240000000
+Votecoin,418671,Equihash,PoW
+Aave,418778,N/A,N/A
+Sether,419209,N/A,N/A
+SHIELD,419814,Multiple,PoW
+Goldea,421896,N/A,N/A
+BridgeCoin,422188,Scrypt,PoW
+Desire,423297,NeoScrypt,PoW
+BitDegree,423754,N/A,N/A
+SoMee.Social,428300,N/A,N/A
+Oyster Pearl,429355,N/A,N/A
+BTCMoon,429400,N/A,N/A
+Ethereum Black,431142,N/A,N/A
+ZCashGOLD,431170,N/A,N/A
+Mutual Coin,431229,Scrypt,PoW/PoS
+Divi Exchange Token,431413,N/A,N/A
+Cash & Back Coin,431621,Scrypt,PoW/PoS
+RChain,434666,N/A,N/A
+UltraNote,436007,CryptoNight,PoW
+RAFL,436162,N/A,N/A
+CoinFi,436320,N/A,N/A
+ELTCOIN,438867,N/A,N/A
+Gold Reward Token,439136,N/A,N/A
+Neurotoken,439180,N/A,N/A
+Eroscoin,439579,N/A,N/A
+Relex,441616,N/A,N/A
+CryptoWave,446121,N/A,N/A
+Neuro,447315,SHA-256,PoW/PoS
+Social Send,449573,Quark,PoW/PoS
+GlobalToken,449614,SHA-256,PoW
+X8Currency,450337,N/A,N/A
+BitCoal,453581,CryptoNight,PoW
+DaxxCoin,453647,Ethash,PoW
+Bulwark,453855,NIST5,PoS
+FinTab,453943,N/A,N/A
+Monero Gold,463101,N/A,N/A
+EthereumBitcoin,463700,N/A,N/A
+FlypMe,464920,N/A,N/A
+BoxyCoin,465681,Scrypt,PoW
+NagaCoin,466339,N/A,N/A
+Universa,466492,N/A,N/A
+ETHGAS,466786,N/A,N/A
+Digital Assets Power Play,466977,N/A,N/A
+Adbank,468052,N/A,N/A
+TargetCoin,472769,N/A,N/A
+BMChain,481737,N/A,N/A
+Biocoin,484355,N/A,N/A
+ModulTrade,484742,N/A,N/A
+BTC Lite,486837,N/A,N/A
+PeepCoin,486886,N/A,PoW/PoS
+PayPro,491325,N/A,N/A
+Verify,502301,N/A,N/A
+Super Bitcoin,516982,SHA-256,PoW
+Kalkulus,517193,Quark,PoS
+AC3,517389,X11,PoW
+CHIPS,517603,SHA-256,PoW
+Hacken,517775,N/A,N/A
+Lethean,522090,CryptoNight-V7,PoW
+GermanCoin,531089,Scrypt,PoW/PoS
+LiteCoin Ultra,531408,Scrypt,PoW/PoS
+MobileGo,531426,N/A,N/A
+Bitair,531559,N/A,N/A
+HOQU,535054,N/A,N/A
+Straks,536279,Lyra2REv2,PoW
+BannerCoin,536905,N/A,N/A
+MediBloc,542140,N/A,N/A
+CrowdCoinage,542719,N/A,N/A
+Bounty0x,543363,N/A,N/A
+Bread token,543502,N/A,N/A
+Hawala.Exchange,563196,N/A,N/A
+Valorem,579189,N/A,N/A
+Crypto-X,584861,N/A,N/A
+DeepBrain Chain,586088,NEP-5,N/A
+Zen Protocol,586160,N/A,N/A
+PopularCoin,586409,Scrypt,PoW
+PhantomX,586567,X11,PoW/PoS
+BitAsean,586638,N/A,N/A
+United Traders Token,587261,N/A,N/A
+MicroMoney,589881,N/A,N/A
+Copico,597029,PoS,N/A
+Index ERC20,597540,N/A,N/A
+HTML Coin,598428,SHA-256,PoW/PoS
+PARKGENE,600395,N/A,N/A
+Numus,607521,Skein,PoW/PoS
+Photon,608140,BLAKE256,PoW
+ExtraCredit,608756,N/A,N/A
+Network Token,616932,N/A,N/A
+Sucre,617055,X11,PoW
+Accolade,619929,Scrypt,PoW/PoS
+Bytether ,620037,N/A,N/A
+REMME,625010,N/A,dPoS
+TokugawaCoin,625173,Scrypt,PoW
+eREAL,625216,N/A,N/A
+CompuCoin,625381,Scrypt,PoW
+Fantasy Cash,625458,Scrypt,PoW/PoS
+QLC Chain,637681,N/A,N/A
+BitSerial,637960,N/A,N/A
+OmiseGO Classic,638142,Scrypt,PoW/PoS
+QubitCoin,638297,QuBit,N/A
+Bloom Token,638634,N/A,N/A
+SportyCo,639943,N/A,N/A
+TokenDesk,640916,N/A,N/A
+Galactrum,645766,Lyra2REv2,PoW/PoS
+SparksPay,645791,NeoScrypt,PoW
+GoaCoin,645830,NeoScrypt,PoW
+Digiwage,645913,Quark,PoS
+GunCoin,645936,NeoScrypt,PoW
+Digital Fantasy Sports,646897,N/A,N/A
+Well,653806,N/A,N/A
+FireLotto,654118,N/A,N/A
+CoinLancer,659393,N/A,N/A
+StrongHands,659488,SHA-256D,PoW/PoS
+ArubaCoin,659663,N/A,N/A
+DNN Token,659681,N/A,N/A
+SagaCoin,659724,Scrypt,PoW/PoS
+Energo,659973,N/A,N/A
+IrishCoin,660438,Scrypt,PoW
+Bodhi Network,660947,QRC20 Token,N/A
+PumaPay,661398,N/A,N/A
+Trollcoin,661619,Scrypt,PoW/PoS
+Force Coin,661719,N/A,PoS
+Sugar Exchange,661777,N/A,N/A
+Jetcoin,666891,N/A,N/A
+MediShares,667050,N/A,N/A
+Litecoin Plus,667139,Scrypt,PoW/PoS
+Game,667239,N/A,N/A
+iEthereum,667344,N/A,N/A
+TheGCCcoin,667444,X13,PoW/PoS
+Senderon,674829,N/A,N/A
+Ink,674918,N/A,N/A
+Kubera Coin,674980,N/A,N/A
+Monkey Project,675134,X11,PoS
+MagnaCoin,675758,Quark,N/A
+KZCash,675995,X11,PoW
+Gainer,676163,N/A,PoS
+Blocklancer,676288,N/A,N/A
+Local World Forwarders,677648,DPoS,DPoS
+BrightCoin,679231,N/A,N/A
+World Crypto Gold,679479,SHA-256,Proof of Stake
+Hive,679566,N/A,N/A
+Luckbox,680484,N/A,N/A
+SyncFab,683500,N/A,N/A
+EtherLite,683789,N/A,N/A
+Telcoin,683827,N/A,N/A
+Dragon Coin,683927,N/A,N/A
+Sp8de,683963,N/A,N/A
+On.Live,684364,N/A,N/A
+Zap,684747,N/A,N/A
+AI Doctor,684818,N/A,N/A
+ECC,685098,Scrypt,PoS
+Eticket4,685306,N/A,N/A
+LendConnect,688295,N/A,N/A
+EBCoin,692707,N/A,N/A
+Vestarin,692727,N/A,N/A
+COPYTRACK,692869,N/A,N/A
+Steneum Coin,692879,Scrypt,PoW
+Saifu,693690,N/A,PoS
+Pioneer Coin,694199,X11,PoW
+Bolenum,694303,N/A,N/A
+Play 2 Live,694313,N/A,N/A
+EtherDelta,698092,N/A,N/A
+Cyder Coin,698206,PoS,N/A
+Serenity,698269,N/A,N/A
+MultiGames,698425,N/A,N/A
+EchoLink,704135,N/A,N/A
+UnitedBitcoin,706900,SHA-256,PoW
+Bottos,707507,N/A,N/A
+Doc Coin,707515,N/A,N/A
+ArbitrageCT,707530,N/A,N/A
+ImmVRse,708401,N/A,N/A
+IDEX,708404,N/A,N/A
+IndaHash,708873,N/A,N/A
+Interzone,709089,C11,PoW
+Black Pearl Coin,710087,X13,PoW/PoS
+EXRNchain,710098,N/A,N/A
+Legolas Exchange,710370,N/A,N/A
+Sigil,711086,NeoScrypt,PoW
+Forty Seven Bank,711359,N/A,N/A
+Crafty,711418,N/A,N/A
+Data,713186,N/A,N/A
+CarVertical,713925,N/A,N/A
+DataBroker DAO,713947,N/A,N/A
+MediChain,714167,N/A,N/A
+Odyssey,714255,N/A,N/A
+Purpose,715622,N/A,N/A
+Decentralized Universal Basic Income,715640,N/A,N/A
+Signals Network,715817,N/A,N/A
+OriginTrail,716641,N/A,N/A
+Olympus Labs,716659,N/A,N/A
+Qbao,716795,N/A,N/A
+Accelerator Network,716854,N/A,N/A
+Sentinel,718363,N/A,N/A
+InsurePal,718398,N/A,N/A
+OP Coin,718435,Scrypt,PoW/PoS
+Safinus,718463,N/A,N/A
+Pylon Network,718673,N/A,N/A
+Garlicoin,718975,N/A,Scrypt-adaptive-N (ASIC resistant)
+Devery,719223,N/A,N/A
+Repux,719307,N/A,N/A
+JoyToken,719361,N/A,N/A
+Capdax,726598,N/A,N/A
+BitWhite,727150,DPoS,DPoS
+aXpire,727769,N/A,N/A
+Fortuna,729627,N/A,N/A
+Scry.info,729809,N/A,N/A
+Spend,731042,N/A,N/A
+Zeepin,731559,N/A,N/A
+RefToken,731629,N/A,N/A
+SPECTRE Dividend Token,731917,N/A,N/A
+SPECTRE Utility Token,731943,N/A,N/A
+LeadCoin,732021,N/A,N/A
+STK Token,734584,N/A,N/A
+Mosaic Network,736230,N/A,N/A
+Quantum1Net,740271,N/A,N/A
+Polymath Network,744820,N/A,N/A
+Tao,744880,X11,PoW/PoS
+CargoX,745054,N/A,N/A
+WeToken,746288,N/A,N/A
+HashGains,746316,N/A,N/A
+Strategic Investments in Significant Areas,748858,N/A,N/A
+eBit,748907,N/A,N/A
+RealChain,749006,N/A,N/A
+Cool Cousin,749450,N/A,N/A
+BetterBetting,749857,N/A,N/A
+Gimmer,750091,N/A,N/A
+Iungo,750134,N/A,N/A
+LHCoin,750272,N/A,N/A
+Crave-NG,752942,SHA-256,PoS
+SwissBorg,752993,N/A,N/A
+EQUI Token,753333,N/A,N/A
+1717 Masonic Commemorative Token,753511,Ethash,PoS
+Healthureum,753658,N/A,N/A
+Crypto Wisdom Coin,753690,Scrypt,PoW
+Swarm Fund,755563,N/A,N/A
+Medicalchain,755707,N/A,N/A
+WorldBTC,756132,Scrypt,PoW/PoS
+Denaro,756639,N/A,N/A
+FIC Network,756726,N/A,N/A
+THEKEY Token,757542,NeoScrypt,N/A
+BANCA,757568,N/A,N/A
+TurtleCoin,757589,CryptoNight,PoW
+DRP Utility,763535,N/A,N/A
+Dorado,763639,Ethash,N/A
+Proof Suite Token,763700,N/A,PoS
+Pareto Network Token,763768,N/A,N/A
+Datarius,764096,N/A,N/A
+NeedleCoin,764255,X11,PoS/PoW
+Bee Token,764334,N/A,N/A
+MUNcoin,764438,SkunkHash,PoW
+Tigereum,765383,N/A,N/A
+Loyakk Vega,765465,N/A,N/A
+NYXCOIN,765701,NeoScrypt,PoW
+DataWallet,765943,N/A,N/A
+Satisfaction Token,766212,N/A,N/A
+Cryptelo Coin,766461,N/A,N/A
+Origami,766681,N/A,N/A
+Lympo,767260,N/A,N/A
+Unified Society USDEX,767334,Scrypt,PoW/PoS
+Logarithm,767363,Ethash,N/A
+Bitcoin Atom,767384,SHA-256,PoW/PoS
+SegWit2x,767409,X11,PoW/PoS
+Useless Eth Token Lite,769367,N/A,N/A
+Niobio Cash,769415,CryptoNight,PoW
+Block Array,769416,N/A,N/A
+Ravelous,769460,N/A,N/A
+iOlite,769483,Ethash,PoW
+Scooby coin,769499,Scrypt,PoW/PoS
+CryptopiaFeeShares,769708,N/A,N/A
+BunnyCoin,769759,Scrypt,PoW
+BitSoar Coin,769824,X11,PoS
+Pirate Blocks,769855,X11,PoW/PoS
+Trident,769862,N/A,N/A
+Bounty,769965,N/A,N/A
+JesusCoin,770043,N/A,N/A
+Bitcoin Private,770095,Equihash,PoW
+Skeincoin,770118,Skein,PoW
+RED MegaWatt,770254,N/A,N/A
+Shekel,771061,Quark,PoS
+Eristica,771092,N/A,N/A
+Karma,771553,Groestl,PoS
+Huobi Token,771595,N/A,N/A
+Bitcoin Candy,771678,Equihash,PoW
+ShareChain,771723,Scrypt,PoW
+Credence Coin,771782,SHA-256,PoW/PoS
+BitcoinFile,771805,N/A,PoS
+Content and AD Network,776803,N/A,N/A
+Blockchain Traded Fund,776828,N/A,N/A
+IPChain,776863,N/A,PoS
+ShowCoin,776896,N/A,PoS
+AIChain Token,777027,N/A,N/A
+Storiqa Token,777187,N/A,N/A
+ALTcoin,777330,SHA-256,N/A
+Caixa Pay,777368,N/A,N/A
+B3Coin,777407,X11,PoS/PoD
+fidentiaX,777557,N/A,PoS
+KREDS,777643,Lyra2REv2,PoW
+EQUAL,777667,N/A,N/A
+GraphGrail AI,777701,N/A,N/A
+Vulcano,777717,NIST5,PoS/PoW
+DivotyCoin,778908,Scrypt,PoW/PoS
+Edge,778953,N/A,N/A
+Maggie Token,778961,N/A,N/A
+Tokyo Coin,779014,X13,PoS
+UniversalRoyalCoin,779032,SHA-256,PoS
+BiblePay,779041,Proof-of-BibleHash,POBh
+NITRO,779335,N/A,N/A
+Heiss Shares,779488,N/A,N/A
+LiteCoinW Plus,779599,N/A,N/A
+NaviAddress,780767,N/A,N/A
+Aditus,780883,N/A,N/A
+VV Coin,781079,N/A,N/A
+Ankorus Token,781308,N/A,N/A
+Investy Coin,781497,N/A,N/A
+Purpose Coin,781729,N/A,N/A
+VinChain,782929,N/A,N/A
+Shping Coin,782954,N/A,N/A
+Petro,783293,N/A,N/A
+LitecoinCash,783320,SHA-256 + Hive,PoW + Hive
+Vanywhere,784462,N/A,N/A
+Noxbox,784589,N/A,N/A
+BABB,784595,N/A,N/A
+Rentberry,784762,N/A,N/A
+BitFlip,784981,Scrypt,PoW
+Clinicoin,785910,N/A,N/A
+Goodomy,787620,N/A,N/A
+Enkidu,787669,N/A,N/A
+ALAX,787696,DPoS,DPoS
+Dether,788387,N/A,N/A
+All Sports Coin,788409,N/A,N/A
+Tidex Token,788468,N/A,N/A
+LottoCoin,789006,Scrypt,PoW
+Cypherfunks Coin,789115,Scrypt,PoW
+LeafCoin,789144,Scrypt,PoW
+Compound Coin,789170,X11,PoW/PoS
+BitCar,789256,N/A,N/A
+Colu Local Network,789504,N/A,N/A
+OryxCoin,789789,N/A,N/A
+BashCoin,791041,Skein,PoW/PoS
+DigiFel,791053,X11,PoW
+DigiMoney,791119,X11,PoW/PoS
+Cerberus,791176,NeoScrypt,PoW
+savedroid,791282,N/A,N/A
+PROVER,791305,N/A,N/A
+Bitcoin Hush,791324,Equihash,PoW
+redBUX,791484,N/A,N/A
+Lizus Payment,792136,Skein,PoW/PoS
+Crypto Improvement Fund,792268,X11,PoW
+Nucleus Vision,792548,N/A,N/A
+Stipend,792725,C11,PoW/PoS
+Crowd Machine,793021,N/A,N/A
+Robin8 Profile Utility Token,793802,N/A,N/A
+Fillit,793815,N/A,N/A
+Ink Protocol,794362,N/A,N/A
+XY Oracle,795305,N/A,N/A
+Props,796019,N/A,N/A
+CEDEX Coin,797331,N/A,N/A
+Fund Platform,797481,N/A,N/A
+Celsius Network,799472,N/A,N/A
+Credits,799597,N/A,N/A
+Pushi,799869,X11,PoW/PoS
+Bitsense,799897,N/A,N/A
+PokerCoin,799922,Scrypt,PoS/PoW
+Axys,799948,N/A,N/A
+EvenCoin,800022,N/A,PoW
+Bold,800034,N/A,N/A
+Extensive Coin,800048,Scrypt,PoS
+Dignity,800121,N/A,N/A
+ETH Share,800145,N/A,N/A
+LIpcoin,800232,Scrypt,PoW
+Gift Off Token,800364,N/A,N/A
+HELL COIN,801234,N/A,N/A
+Ellerium,801286,XEVAN,PoW/PoS
+Alphacat,801364,N/A,N/A
+Rock Token,801429,N/A,N/A
+GoCrypto,801531,N/A,N/A
+CO2 Token,802875,N/A,N/A
+Invox Finance,803996,N/A,N/A
+Action Coin,808094,Equihash,PoS
+Litecoin Cash,808190,N/A,N/A
+Zupply Token,808252,N/A,N/A
+USCoin,810258,Scrypt,PoW
+Kind Ads,810794,N/A,N/A
+Blockchain Terminal,810848,N/A,N/A
+Callisto Network,811474,Ethash,PoW
+Curium,811480,X11,PoW
+Elicoin,811495,YescryptR16,PoW
+Mother Of All Tokens,811560,N/A,N/A
+BelugaPay,811566,N/A,N/A
+ENTER COIN,811654,N/A,N/A
+BitcoinGo,811673,N/A,PoS
+TROPTIONS,811717,N/A,PoW
+Knowledge,812669,N/A,N/A
+Pegascoin,812842,Dagger-Hashimoto,PoW
+BitRewards,813335,N/A,N/A
+DATx,814081,N/A,N/A
+Pikciochain,814191,N/A,N/A
+StasyQ,814361,N/A,N/A
+Titanium BAR,815247,N/A,N/A
+Taklimakan,815269,N/A,N/A
+CoinPlace Token,815308,N/A,N/A
+BitTube,815372,CryptoNight,PoW
+Cube,815399,N/A,N/A
+Project Shivom,815543,N/A,N/A
+Truckcoin,815627,CryptoNight,PoW
+TomoChain,816702,N/A,N/A
+XAYA,816745,NeoScrypt,PoW
+MobileBridge Momentum,817013,N/A,N/A
+Invacio,819601,N/A,N/A
+W3Coin,819663,N/A,N/A
+Dinero,819678,NeoScrypt,PoW
+Insights Network,819702,N/A,N/A
+CoinPoker Token,819737,N/A,N/A
+Poseidon,819787,Scrypt,PoW
+JET8,819799,N/A,N/A
+Lelecoin,820526,Curve25519,PoS
+Dropil,820902,N/A,N/A
+Akroma,830940,Ethash,PoW
+ShipChain,830983,N/A,N/A
+I-House Token,831814,N/A,N/A
+LocalCoinSwap,831841,N/A,N/A
+LaLa World,831848,N/A,N/A
+Education Ecosystem,831932,N/A,N/A
+Fox Trading,832078,N/A,N/A
+EasyToken,832079,N/A,N/A
+Robotina,832783,N/A,N/A
+ADAMANT Messenger,833028,DPoS,DPoS
+AMBT Token,835125,N/A,N/A
+Betrium Token,836186,N/A,N/A
+Manna,836189,SHA-256,PoW
+eProxy,836266,N/A,N/A
+Hi Mutual Society,836331,N/A,N/A
+ZIX Token,836415,N/A,N/A
+Electrify.Asia,836445,N/A,N/A
+Organic Token,836456,N/A,N/A
+Pantos,837419,N/A,N/A
+BotChain,838249,N/A,N/A
+Viewly,838344,N/A,N/A
+OKOIN,839311,N/A,N/A
+Aidos Kuneen,841767,IMesh,PoW
+Essentia,842171,N/A,N/A
+Vision Industry Token,842430,N/A,N/A
+Seraph,842468,PHI1612,PoW/PoS
+Bulleon,843227,N/A,PoW
+AfterEther,843275,Ethash,PoW
+Cosmo,843278,Quark,PoW
+Pigeoncoin,843333,N/A,PoW
+BlockMesh,843515,N/A,N/A
+Reden,843556,X16S,PoW
+TulipCoin,843567,Scrypt,PoW/PoS
+Bitspace,843586,NIST5,PoW/PoS
+BBNCOIN,843613,N/A,PoW
+Tradelize,843631,N/A,N/A
+Pavocoin,843642,N/A,N/A
+Lydiancoin,844279,N/A,N/A
+Budbo,844325,N/A,N/A
+USOAMIC,844436,N/A,PoS
+FluzFluz,844476,N/A,PoS
+IP Exchange,844540,N/A,N/A
+Miner One token,845211,N/A,N/A
+AI Crypto,847135,N/A,N/A
+Mithril,847172,N/A,PoS
+Banyan Network,847177,N/A,N/A
+Spindle,847305,N/A,N/A
+Fonero,847312,PHI1612,PoW
+Passive Coin,847381,N/A,PoS
+CavatCoin,847402,DPoS,DPoS
+Pallium,847420,N/A,N/A
+Next.exchange Token,848051,SHA-256,PoS/PoW
+BitRent,848115,N/A,N/A
+ClearCoin,848134,N/A,N/A
+BlitzPredict,848148,N/A,N/A
+Switcheo,848774,N/A,N/A
+Friendz,848819,N/A,N/A
+Voltroon,848860,N/A,N/A
+CoinLion,848906,N/A,N/A
+Market.space,849711,N/A,N/A
+Stellite,849722,CryptoNight,PoW
+UC Coin,849732,N/A,N/A
+Hurify,849743,N/A,N/A
+Briacoin,849782,Scrypt,PoW/PoS
+Ignition,849815,Scrypt,PoW/PoS
+ROIcoin,849992,1GB AES Pattern Search,PoWPoS
+Ethereum Premium,850066,N/A,N/A
+MoneyBag,850772,X11,PoS
+AchieveCoin,850785,Equihash,PoW
+Bitrolium,850816,Equihash,PoW
+Goal Bonanza,850825,N/A,N/A
+RAcoin,850831,N/A,N/A
+BEX token,850836,N/A,N/A
+HOLD,850875,N/A,N/A
+EZToken,850994,N/A,N/A
+Victorium,851066,Dagger-Hashimoto,PoW
+CoinMetro,851104,N/A,N/A
+Nafen,851117,N/A,N/A
+CEEK Smart VR Token,853825,N/A,N/A
+Wiix,855136,N/A,N/A
+eosDAC,855289,N/A,N/A
+Bitcoin Interest,855539,Equihash,PoW
+MedicCoin,855870,Scrypt,PoS
+TraDove B2BCoin,856119,N/A,N/A
+KWHCoin,856128,N/A,N/A
+Valid,856890,N/A,N/A
+FintruX,856962,N/A,N/A
+Globex SCI,858189,N/A,N/A
+FOLM coin,859637,PHI1612,PoW
+Alpenschillling,859662,Lyra2Z,PoW
+Zelcash,859692,Equihash,PoW/PoS
+Balkancoin,860049,CryptoNight,PoW
+BitGreen,860065,Green Protocol,PoS
+Deviant Coin,860154,PoS,PoS
+Countinghouse Fund,860166,N/A,N/A
+GreenX,860192,N/A,N/A
+Abjcoin,860230,Scrypt,PoW/PoS
+FutureWorks,860320,N/A,N/A
+Rapture,860887,NeoScrypt,PoW
+Artemine,860889,N/A,N/A
+Animecoin,860930,Quark,PoW
+Profit Hunters Coin,860938,Scrypt,PoW/PoS
+Ethereum Meta,860990,N/A,N/A
+Ubcoin,861115,N/A,N/A
+NOKU Master token,861276,N/A,N/A
+Sentinel Chain,861348,N/A,N/A
+PATRON,862146,N/A,N/A
+Ligercoin,862380,N/A,N/A
+NOKU CHF,862873,N/A,N/A
+NOKU EUR,862884,N/A,N/A
+CryptoLEU,862968,N/A,N/A
+Scanetchain Token,863074,N/A,N/A
+ORS Group,863174,N/A,PoW
+Semux,863210,Semux BFT consensus,DPoS
+Bitdaric,863225,Scrypt,PoW
+BitBlocks,863235,Scrypt,PoW/PoS
+Uwezocoin,866283,Scrypt,PoW
+U Network,866334,N/A,N/A
+Apex Token,866357,N/A,DPoS
+Ethereum Qchain Token,866417,N/A,N/A
+Adhive,866454,N/A,N/A
+Zilla,866472,N/A,N/A
+Winding Tree,866491,N/A,N/A
+The Effect.ai,866525,N/A,PoS
+Lendingblock,866546,N/A,N/A
+MoneyRebel,866622,N/A,N/A
+FuturoCoin,866629,X11,PoW
+HadePay,866749,N/A,N/A
+Signal,867303,N/A,N/A
+Carebit,867550,Quark,PoW/PoS
+Zealium,867958,PoS,PoS
+T-BOT,867980,N/A,N/A
+Monero Classic,868229,CryptoNight,PoW
+Acorn Collective,869101,N/A,N/A
+Decentralized Machine Learning,869896,N/A,N/A
+Gems,870119,N/A,N/A
+FedoraCoin,870188,Scrypt,PoW
+MOS Coin,876007,N/A,N/A
+Tokenbox,876072,N/A,N/A
+Penta,876093,N/A,N/A
+WCoin,876102,N/A,N/A
+Charm Coin,876241,NeoScrypt,PoW
+Proton,876257,X16R,PoS
+Dero,876324,CryptoNight,PoW
+iDealCash,876352,Scrypt,PoW/PoS
+Jumpcoin,876359,NIST5,PoW
+Zebi Coin,876390,N/A,N/A
+Kryll,877048,N/A,N/A
+Traxia Membership Token,877052,N/A,N/A
+Sharder,877303,N/A,N/A
+0xBitcoin,877383,N/A,N/A
+Monero Original,877397,CryptoNight,PoW
+EduCoin,878068,N/A,N/A
+Peculium,878206,N/A,N/A
+Aphelion,879031,N/A,N/A
+Nebula AI,879035,N/A,N/A
+CyberVein,879044,N/A,N/A
+Tutellus,879102,N/A,N/A
+Bettium,879856,N/A,N/A
+NOAHCOIN,882302,N/A,N/A
+PolicyPal Network,883061,N/A,N/A
+Enumivo,883094,N/A,N/A
+Befund,883311,N/A,N/A
+Kepler,883514,N/A,N/A
+Rubius,883748,N/A,N/A
+Curaizon,883811,N/A,N/A
+Yumerium,884571,N/A,N/A
+Global Social Chain,884902,N/A,N/A
+Desico,885400,N/A,N/A
+FlipNpik,885403,N/A,N/A
+VLUX,885469,N/A,N/A
+StreamSpace,885637,N/A,N/A
+Bitcoin Incognito,886928,XEVAN,PoS/PoW
+Verasity,886955,N/A,PoW
+MARK.SPACE,887531,N/A,PoW
+Fitrova,887639,N/A,N/A
+WinStars,887666,N/A,N/A
+Proxeus,887706,N/A,N/A
+AB-CHAIN,887741,N/A,N/A
+FuzeX,888262,N/A,N/A
+DixiCoin,888318,C11,PoW/PoS
+CryptoHub,888499,N/A,N/A
+Owlstand,889045,N/A,N/A
+ElliotCoin,889293,XEVAN,PoW/PoS
+Daneel,889339,N/A,N/A
+Consensus,889350,N/A,N/A
+UniBright,889870,N/A,N/A
+AMO Coin,889900,N/A,N/A
+Live Stars,890043,N/A,N/A
+Golos Gold,890044,N/A,PoW
+Content Neutrality Network,890069,N/A,N/A
+Oyster Shell,890083,N/A,N/A
+Skrumble Network,890130,N/A,N/A
+ShareToken,890347,N/A,N/A
+Ubex,890593,N/A,PoS
+IvyKoin,890611,N/A,N/A
+KEYCO,890623,Tribus,PoW
+Amon,890663,N/A,N/A
+SABR Coin,890783,Scrypt,PoW/PoS
+HollyWoodCoin,890817,Scrypt,PoS
+bitGold,890851,N/A,N/A
+bitSilver,892415,N/A,N/A
+GINcoin,892475,Lyra2Z,PoW
+Open Platform,892524,N/A,N/A
+Nullex,892539,N/A,PoS
+Linker Coin,892657,N/A,N/A
+Morpheus Network,892731,N/A,N/A
+Streamity,893271,N/A,N/A
+Italian Lira,893326,N/A,N/A
+AITrading,893480,N/A,N/A
+intimate.io,893485,N/A,N/A
+VideoCoin,894052,N/A,PoW/PoS
+Ubique Chain Of Things,894138,N/A,N/A
+Silent Notary,895370,N/A,N/A
+Monero 0,895379,CryptoNight,PoW
+MoneroV,895447,Cuckarood29v,PoW
+NKN,897496,N/A,PoR
+Elysian,897502,N/A,N/A
+Hero Node,897513,N/A,N/A
+Parlay,898215,Scrypt,PoS
+Slate,898308,Slatechain,PoW
+Listerclassic Coin,898331,Scrypt,PoW/PoS
+REGA Risk Sharing Token,898340,N/A,N/A
+Amero,898367,NeoScrypt,PoW/PoS
+The Freedom Coin,898372,X11,PoS
+Repo Coin,898411,N/A,N/A
+IRONCOIN,898850,N/A,N/A
+PlatinCoin,898891,CryptoNight,PoW
+Online,898898,N/A,N/A
+Angel Token,898977,N/A,N/A
+ANTS Reloaded,898986,N/A,N/A
+BetKings,899007,X11,PoS
+Staramba,899488,N/A,N/A
+Wysker,899504,N/A,N/A
+Cognitio,899528,SHA-256D,PoW/PoS
+Zippie,899541,N/A,N/A
+OSA Token,899568,N/A,N/A
+Eximchain,899574,N/A,N/A
+BitCOEN,899712,SHA-256,Limited Confidence Proof-of-Activity 
+Blockchain.io,900439,N/A,N/A
+Benchmark,900577,N/A,N/A
+Rasputin Online Coin,901762,N/A,N/A
+Bezant,901815,N/A,N/A
+LoyalCoin,901834,N/A,N/A
+PHI Token,901929,N/A,N/A
+Paymon,901954,N/A,N/A
+Blocnation,901978,PoS,PoS
+HoryouToken,901980,N/A,PoW
+GreenMed,902463,N/A,N/A
+SelfSell,902487,DPoS,DPoS
+Blocktrade token,902577,N/A,N/A
+Newton Coin,902616,CryptoNight,PoW
+Media Protocol Token,902715,Ethash,PoW
+Staxcoin,903091,Scrypt,PoW/PoS
+Mercoin,903256,Scrypt,PoW/PoS
+Fopacoin,903282,N/A,N/A
+Casino Betting Coin,903690,N/A,N/A
+Utrum,903703,N/A,N/A
+Niobium,903748,N/A,N/A
+Swisscoin,903811,Scrypt,PoW/PoS
+Algory,903856,N/A,N/A
+ExchangeCoin,904319,Equihash,PoW
+Reliance,904410,X11,PoS
+BitcoiNote,905644,CryptoNight,PoW
+EJA Coin,906122,N/A,N/A
+APIS,906171,N/A,PoW
+Xt3ch,906635,Scrypt,PoS
+MassGrid,907129,Jump Consistent Hash,PoW
+TheVig,907161,SHA-256D,PoW/PoS
+PluraCoin,907167,CryptoNight,PoW
+Swachhcoin,907177,N/A,N/A
+NowCoin,907205,N/A,N/A
+EmaratCoin,907227,Scrypt,PoW/PoS
+ICST,907268,N/A,N/A
+XtendCash,907296,Wild Keccak,PoW
+Rover Coin,907306,X11,PoW/PoS
+LitecoinPro,907323,Scrypt,PoW
+Dekado,907331,X15,PoS
+Lynx,907677,Scrypt,HPoW
+Poseidon Quark,907721,Quark,PoS
+MYCE,907824,Scrypt,PoW/PoS
+Original Crypto Coin,907847,N/A,N/A
+Self Storage Coin,907859,N/A,PoW
+Arionum,907868,SHA-512,PoW
+BitcoinWSpectrum,907885,SHA-256,PoS
+Bitcoin Core,908896,SHA-256,PoW
+GolfCoin,909286,N/A,PoW
+OracleChain,909342,N/A,N/A
+XcelTrip,909375,N/A,N/A
+EthereCash,909390,N/A,N/A
+Motion,909406,X16R,PoW
+PlusOneCoin,909414,HMQ1725,PoW
+Coinnec,909713,N/A,N/A
+UnicornGo Candy,909733,N/A,N/A
+Axe,909747,X11,PoW
+ShardCoin,909797,Scrypt,PoS
+GambleCoin,909821,Scrypt,PoS
+Trivechain,909861,X16R,PoW/PoS
+BitScreener,909956,N/A,N/A
+Sakura Bloom,910472,N/A,N/A
+Hirefreehands,910498,N/A,N/A
+OPP Open WiFi,910555,N/A,N/A
+Dystem,910561,Quark,PoS
+Tip Blockchain,910663,DPoS,PoS
+Inmusik,910721,N/A,N/A
+HeartBout,911095,N/A,N/A
+Triwer,911111,N/A,N/A
+IQeon,911125,N/A,N/A
+Giant,911139,Quark,PoW/PoS
+EPIK Token,911229,N/A,N/A
+Spartan Protocol Token,911241,N/A,N/A
+ZMINE,912878,N/A,N/A
+Peony Coin,912889,Scrypt,PoS
+SafeCoin,912894,Zhash,PoW/PoS
+Couchain,912904,N/A,N/A
+Atheios,912943,Dagger,PoW
+Absolute Coin,912961,Lyra2REv2,PoW/PoS
+Vitae,913061,Quark,PoS
+Eternal Token,913066,N/A,N/A
+The 0xDiary Token,913090,N/A,N/A
+Bitcoin Supreme,913109,Scrypt,PoS
+TrueDeck,913585,N/A,N/A
+GenesisX,913606,XEVAN,PoS
+XUEZ,913648,XEVAN,N/A
+BitminerCoin,913676,CryptoNight,PoW
+Worx,913681,Quark,PoS
+DowCoin,913722,N/A,N/A
+HexCoin,913735,Scrypt,PoW
+Payther,914735,N/A,N/A
+Deimos,914753,Scrypt,PoW
+TPCash,914756,Scrypt,PoW/PoS
+Oyster Platform,914795,X11,PoS
+Webchain,914812,CryptoNight-V7,PoW
+JEX Token,914930,N/A,N/A
+Inlock,914975,N/A,N/A
+Ryo,915370,Cryptonight-GPU,PoW
+MUSDcoin,915377,Scrypt,PoW/PoS
+Urals Coin,915401,XEVAN,PoW
+Qwertycoin,915412,CryptoNight Heavy,PoW
+WABnetwork,915420,N/A,N/A
+Bitcoin Nova,915437,CryptoNight,PoW
+DACash,915449,X11,PoW
+EUNO,915521,X11,PoW/PoS
+KAASY.AI,916694,N/A,N/A
+MMOCoin,916695,Scrypt,PoS
+DasCoin,916714,DPoS,DPoS
+Puregold token,916779,N/A,N/A
+Medibloc,916795,N/A,N/A
+CoinEx Token,916813,N/A,N/A
+SmartLands,916818,N/A,N/A
+TrueGame,916828,N/A,N/A
+Sapien Network,916848,N/A,N/A
+ZINC,916851,N/A,N/A
+Ketan,916860,PoS,PoS
+Karatgold coin,916868,N/A,N/A
+InsurChain Coin,917238,N/A,N/A
+NIX,917249,Lyra2REv2,PoW
+0chain,917256,N/A,N/A
+Render Payment,917365,N/A,N/A
+Digix Gold token,917414,N/A,N/A
+Italocoin,917423,CryptoNight-Heavy,PoW
+Finom NOM Token,917426,N/A,N/A
+Safe Trade Coin,917819,Scrypt,PoS
+You42,918067,N/A,N/A
+Engine,918374,N/A,N/A
+Freyrchain,918380,N/A,N/A
+Distributed Credit Chain,918483,N/A,N/A
+Motion,918535,N/A,N/A
+CoinMeet,918953,N/A,N/A
+Cryptaur,918997,N/A,N/A
+Pecunio,919014,N/A,N/A
+PokerSports,919073,N/A,N/A
+MCV Token,920156,N/A,N/A
+Scroll,920190,N/A,N/A
+CoinBene,920245,N/A,N/A
+Bitnation Pangea,920249,N/A,N/A
+Mont Blanc,920276,Scrypt,PoS
+DIWtoken,920306,N/A,N/A
+Joint Ventures,920327,N/A,N/A
+IDEX Membership,920342,N/A,N/A
+Ccore,920734,N/A,N/A
+Atonomi,920748,N/A,N/A
+Tokia,920768,N/A,N/A
+SureRemit,920771,N/A,N/A
+OneLedger,920779,N/A,N/A
+Guaranteed Ethurance Token Extra,920794,N/A,N/A
+Everipedia,920805,N/A,N/A
+Bittwatt,920817,N/A,N/A
+Ethereum Movie Venture,920915,N/A,N/A
+EtherSportz,920927,N/A,N/A
+TrakInvest,920939,N/A,N/A
+Oxcert,920958,N/A,N/A
+Biotron,921356,N/A,N/A
+XMax,921375,N/A,N/A
+TrueVett,921401,N/A,N/A
+PeruCoin,921439,N/A,N/A
+VITE,921524,N/A,N/A
+OneRoot Network,921526,N/A,N/A
+Bigbom,921530,N/A,N/A
+Crowdholding,921549,N/A,N/A
+LyrnAI,921575,N/A,N/A
+SalPay,921680,N/A,N/A
+RocketPool,922003,N/A,N/A
+Cardstack,922018,N/A,N/A
+LikeCoin,922038,N/A,N/A
+ThriveToken,922054,N/A,N/A
+GoToken,922068,N/A,N/A
+Skraps,922136,N/A,N/A
+Animation Vision Cash,922140,N/A,N/A
+StockChain Coin,922214,N/A,N/A
+Halo Platform,922220,N/A,N/A
+BitStation,922258,N/A,N/A
+PITCH,922261,N/A,N/A
+NANJCOIN,922271,N/A,N/A
+PAXEX,922584,X11,PoS
+Ditcoin,922603,CryptoNight,PoW
+Azart,922608,X11,PoW
+Centrality Token,922616,N/A,N/A
+Ordocoin,922623,N/A,N/A
+TaTaTu,922627,N/A,N/A
+FREE coin,922632,N/A,N/A
+Averopay,922643,Tribus,PoW/PoS
+Apollon,922654,Quark,PoW/PoS
+Influ Token,922710,N/A,N/A
+Red Community Token,922717,N/A,N/A
+HighCastle Token,922747,N/A,N/A
+ThunderStake,922763,Scrypt,PoW/PoS
+SEER,922767,N/A,N/A
+SimpleBank,922774,NeoScrypt,PoW/PoS
+CRYPTOMAGZ,922779,N/A,N/A
+No BS Crypto,922838,N/A,N/A
+Harvest Masternode Coin,924168,Scrypt,PoW/PoS
+MedicoHealth,924209,N/A,N/A
+Homelend,924215,N/A,N/A
+JSEcoin,924231,N/A,N/A
+Imigize,924246,N/A,N/A
+NYNJA,924307,N/A,N/A
+IAME Identity,924328,N/A,N/A
+Urbit Data,924346,N/A,N/A
+BetOnChart,924363,N/A,N/A
+WhenHub,924369,N/A,N/A
+SportsFix,924677,N/A,N/A
+Orbis,924678,N/A,N/A
+Blockshipping,924683,N/A,N/A
+Eternal Trusts,924686,N/A,N/A
+INTRO,924688,N/A,N/A
+Cache,924690,N/A,N/A
+Zeew,924693,N/A,N/A
+Memority,924696,N/A,N/A
+Quasa,924699,N/A,N/A
+Ronaldinho Soccer Coin,924701,N/A,N/A
+ENTRY,924704,N/A,N/A
+Photochain,924705,N/A,N/A
+Aworker,924709,N/A,N/A
+ZAZA,924715,N/A,N/A
+DeNet,924716,N/A,N/A
+IDAP,924718,N/A,N/A
+Etheal,924722,N/A,N/A
+CryptoPolice,924723,N/A,N/A
+Shipit,924725,N/A,N/A
+Terawatt,924732,N/A,N/A
+RoBust Defense Token,924742,N/A,N/A
+SKYFchain,924750,N/A,N/A
+TrustedCars FLEX,924752,N/A,N/A
+STRYKZ,924760,N/A,N/A
+Fan360,924761,N/A,N/A
+GigTricks,924766,N/A,N/A
+Unboxed,924767,N/A,N/A
+Buddy,924779,N/A,N/A
+Datablockchain,924782,N/A,N/A
+Kasko2go,924794,N/A,N/A
+ARROUND,924796,N/A,N/A
+GAMB,924800,N/A,N/A
+Spotcoin,924801,N/A,N/A
+VTUUR,924805,N/A,N/A
+EtherInc,924811,N/A,N/A
+FreldoCoinX,924815,N/A,N/A
+NOIA Network,924823,N/A,N/A
+LAPO,924826,Lyra2Z,PoW/PoS
+BOOSTO,924828,N/A,N/A
+DREAM,924831,N/A,N/A
+Paytomat,924833,N/A,N/A
+Little Phil,924837,N/A,N/A
+DYNO,924847,N/A,N/A
+MFChain,924851,N/A,N/A
+NOIZ,924857,N/A,N/A
+Spiking,924859,N/A,N/A
+Selfie GO,924860,N/A,N/A
+RAWG,924864,N/A,N/A
+Big Data Block,924873,N/A,N/A
+ZNAQ,924887,N/A,N/A
+YellowBetter,924891,N/A,N/A
+ÕpetFoundation,924896,N/A,N/A
+Pool of Stake,924897,N/A,N/A
+CoTrader,924916,N/A,N/A
+Worldopo,924918,N/A,N/A
+Abele,924922,N/A,N/A
+ephelants360,924924,N/A,N/A
+ARBITRAGE,924926,N/A,N/A
+TillBilly,924935,N/A,N/A
+Scienceroot,924938,N/A,N/A
+Dataeum,924953,N/A,N/A
+Green Energy Token,924955,N/A,N/A
+Aston,924963,N/A,N/A
+Social Lending Network,924971,N/A,N/A
+Apollo Currency,924973,N/A,PoS
+Hdac,924979,N/A,ePoW
+Clipper Coin Capital,924982,N/A,N/A
+Virtual Rehab,924986,N/A,N/A
+Aenco,924988,Ethash,N/A
+Solidified,924991,N/A,N/A
+VANIG,924993,N/A,N/A
+Tokenaire,924996,N/A,N/A
+Goldchip Mining Asset,925007,N/A,N/A
+WatermelonBlock,925009,N/A,N/A
+meVu,925015,N/A,N/A
+Talent Token,925016,N/A,N/A
+Golder Coin,925018,N/A,N/A
+imusify,925021,N/A,N/A
+TuurnT,925023,N/A,N/A
+CRYSTALS,925024,N/A,N/A
+YondoCoin,925035,N/A,N/A
+Universal Recognition Token,925040,N/A,N/A
+QuickX Protocol,925042,N/A,N/A
+Cryptocean,925046,N/A,N/A
+Etherisc,925049,N/A,N/A
+Productivist,925067,N/A,N/A
+RedCab,925071,N/A,N/A
+Zichain,925073,N/A,N/A
+TV-TWO,925078,N/A,N/A
+Osmium Investment Coin,925081,N/A,N/A
+Enecuum,925083,N/A,N/A
+Datareum,925087,N/A,N/A
+IDM,925088,N/A,N/A
+SID Token,925092,N/A,N/A
+Insureum,925093,N/A,N/A
+Creditor Data Platform,925095,N/A,PoA
+CargoCoin,925097,N/A,N/A
+Cryptics,925103,N/A,N/A
+TriipMiles,925107,N/A,N/A
+BiNeuro,925109,N/A,N/A
+Virtual Reality Technology,925111,N/A,N/A
+ZeroCarbon,925113,N/A,N/A
+Kryptoin,925118,N/A,PoS
+Olive,925133,N/A,N/A
+Okex,925144,N/A,N/A
+AMLT,925145,N/A,N/A
+HireGo,925148,N/A,N/A
+Talenthon,925151,N/A,N/A
+Bit-Z,925154,N/A,N/A
+ProChain,925159,N/A,N/A
+Volpo,925161,N/A,N/A
+Zipper,925165,DPoS,N/A
+Bostoken,925183,N/A,N/A
+Kcash,925195,SHA-512,Zero-Knowledge Proof
+1World,925200,N/A,N/A
+ZB,925204,N/A,N/A
+BoutsPro,925212,N/A,N/A
+ESports Chain,925216,N/A,PoC
+MODEX Token,925229,N/A,N/A
+One Game,925231,N/A,N/A
+PlayChip,925240,N/A,N/A
+NPER,925242,N/A,PoS
+Further Network,925244,N/A,N/A
+STASIS EURS,925249,N/A,N/A
+Xchange,925251,X16R,PoW
+BOONSCoin,925253,N/A,N/A
+POPCHAIN,925256,N/A,PoW
+Omnitude,925260,N/A,N/A
+Witcoin,925264,N/A,PoW
+Opu Coin,925266,N/A,N/A
+Etalon,925275,N/A,N/A
+CargoConX,925276,N/A,N/A
+ZPER,925282,N/A,N/A
+ExtraLovers,925293,N/A,N/A
+AgentMile,925296,N/A,N/A
+Blockvest,925298,N/A,N/A
+Recycling Regeneration Chain,925305,N/A,N/A
+Max Property Group,925313,N/A,PoS
+Quanta,925316,N/A,N/A
+IG Token ,925318,N/A,N/A
+FormulA,925321,N/A,N/A
+Irene Energy,925322,N/A,N/A
+Prasm,925326,N/A,N/A
+MilionCoin,925328,N/A,N/A
+Aussie Digital,925342,N/A,N/A
+Namahe,925347,N/A,N/A
+StarKST,925349,Scrypt,PoW
+DelChain,925351,N/A,DPoS
+HitChain,925358,N/A,N/A
+PayBlock,925360,N/A,N/A
+MADANA,925364,N/A,N/A
+Papusha,925375,N/A,N/A
+CosmoChain,925380,N/A,N/A
+Pluto Project Coin,925382,N/A,N/A
+LunarLink,925384,N/A,N/A
+Vernam,925389,N/A,N/A
+Bronix,925403,N/A,N/A
+SRCoin,925404,N/A,N/A
+RYFTS,925406,N/A,N/A
+Momentum,925417,N/A,N/A
+Golden Hash,925422,N/A,N/A
+FXPay,925427,N/A,N/A
+DICE Money,925431,N/A,N/A
+Blockpass,925433,N/A,N/A
+HEROIC.com,925435,N/A,N/A
+Digitex Futures,925440,N/A,N/A
+BitSchool,925444,N/A,N/A
+Trivver,925445,N/A,N/A
+Credible,925447,N/A,N/A
+Chynge.net,925463,N/A,N/A
+Daox,925465,N/A,N/A
+Galion Token,925467,N/A,N/A
+Aukcecoin,925469,Scrypt,PoW/PoS
+Poseidon Chain,925479,N/A,N/A
+Topchain,925484,N/A,N/A
+Plancoin,925495,Scrypt,PoW/PoS
+EverLife.AI,925497,N/A,N/A
+Traid,925506,NeoScrypt,PoW/PoS
+Bountie,925519,N/A,N/A
+Delphy,925525,N/A,N/A
+FundFantasy,925527,N/A,N/A
+Mobile Integrated Blockchain,925531,N/A,PoW
+BaaSid,925550,N/A,N/A
+Lynked.World,925552,N/A,N/A
+Trecento Blockchain Capital,925554,N/A,N/A
+CyClean,925566,N/A,N/A
+HYCON,925568,N/A,N/A
+T-Coin,925571,N/A,N/A
+HyperLending,925576,N/A,N/A
+Nomin USD,925580,N/A,N/A
+Teachers Blockchain,925582,Scrypt,PoW
+DAEX,925586,N/A,N/A
+Beauty Chain,925591,N/A,N/A
+LIVEEN,925595,N/A,N/A
+CIChain,925597,N/A,N/A
+MIODIOCOIN,925600,Scrypt,PoW
+MovieCoin,925615,N/A,N/A
+Invictus Hyperion Fund,925618,N/A,N/A
+Cannabium,925620,N/A,N/A
+SGPay,925623,N/A,N/A
+Lightpaycoin,925625,Quark,PoS
+Hanacoin,925632,Lyra2REv2,PoW
+Bitvote,925639,CryptoNight,PoW/PoS
+Universal Reward Protocol,925641,N/A,PoW
+Shine Chain,925643,N/A,N/A
+IVN Security,925655,N/A,PoW
+DAV,925662,N/A,N/A
+ZatGo,925664,N/A,N/A
+MoneyToken,925671,N/A,N/A
+MetaHash,925686,N/A,N/A
+RoBet,925693,Keccak,N/A
+CrypticCoin,925695,Equihash,PoW
+Blockonix,925698,N/A,N/A
+Bettex coin,925701,XEVAN,PoS
+DAPS Coin,925707,Dagger, PoW/PoS/PoA
+EXTRADECOIN,925716,N/A,N/A
+Nano Healthcare Token,925718,N/A,N/A
+Azbit,925720,N/A,N/A
+Swace,925723,N/A,N/A
+USDCT,925730,N/A,N/A
+IAGON,925732,N/A,N/A
+MTC Mesh,925783,N/A,N/A
+AAA Reserve Currency,925785,N/A,N/A
+ZestCoin,925787,Quark,PoW
+Helium,925805,N/A,PoS
+Caspian,925807,N/A,N/A
+USD Coin,925809,N/A,N/A
+Narrative,925817,N/A,N/A
+Minter,925824,N/A,DPoS/LPoS
+X-CASH,925826,CryptoNight-Heavy X,PoW
+RightMesh,925830,N/A,N/A
+ShowHand,925834,N/A,N/A
+Globitex Token,925862,N/A,N/A
+ABCC Token,925864,N/A,N/A
+Basis,925867,N/A,N/A
+Jibbit,925869,N/A,N/A
+Peer Mountain,925871,N/A,N/A
+Phomeum,925877,N/A,N/A
+Carbon,925878,N/A,N/A
+Kowala,925885,N/A,N/A
+Viewo,925886,N/A,N/A
+GGRocket,925891,N/A,N/A
+VestChain,925893,N/A,N/A
+mCoin,925898,N/A,N/A
+Depository Network,925904,N/A,N/A
+Menlo One,925909,N/A,N/A
+MetaMorph,925936,N/A,N/A
+Araw,925945,N/A,N/A
+Brazio,925957,HMQ1725,PoW
+Talao,925979,N/A,N/A
+IZX,925995,N/A,N/A
+Divi Project,926033,N/A,PoS
+HyperQuant,926034,N/A,N/A
+W12 Protocol,926038,N/A,N/A
+NOBAR,926040,N/A,N/A
+KuBitX,926057,N/A,N/A
+MyDFS,926062,N/A,N/A
+BHPCash,926068,N/A,N/A
+VTOS,926075,N/A,N/A
+M2O Token,926091,N/A,N/A
+SELFLLERY,926093,N/A,N/A
+BEAT Token,926112,N/A,N/A
+Mobilink Token,926114,N/A,N/A
+MSD,926121,N/A,N/A
+Superbloom,926123,N/A,N/A
+Seal Network,926128,N/A,N/A
+Gabro.io,926136,N/A,N/A
+DigiFinexToken,926176,N/A,N/A
+BitForex Token,926179,N/A,N/A
+NWPSolution,926182,N/A,N/A
+Blockchain Certified Data Token,926186,N/A,N/A
+EVOS,926208,N/A,PoW/PoS
+DEEX,926218,N/A,N/A
+ANON,926228,Equihash1445,N/A
+Litecoinz,926230,Equihash,PoW
+Monetizr,926245,N/A,N/A
+Tombola,926247,N/A,N/A
+Beaxy,926279,N/A,N/A
+Kuende,926296,N/A,N/A
+Ethersocial,926303,N/A,N/A
+Hydrominer,926306,N/A,N/A
+Bethereum,926307,N/A,N/A
+ETHER-1,926309,Ethash,PoW
+Welltrado,926317,N/A,N/A
+HiHealth,926320,N/A,N/A
+Crypto Angel,926322,N/A,N/A
+P2P Solutions Foundation,926325,N/A,N/A
+Aimedis,926328,N/A,N/A
+TWIST,926340,SHA-512,PoS
+CryptovationX,926344,N/A,N/A
+BITTO,926345,N/A,N/A
+UMKA,926354,N/A,N/A
+VisionX,926362,N/A,N/A
+Wemark,926365,N/A,N/A
+MicroBitcoin,926368,Rainforest,PoW
+Ojooo,926371,N/A,N/A
+Chrysalis Coin,926379,N/A,N/A
+ABBC Coin,926388,X13,N/A
+Catex,926389,N/A,N/A
+Vexanium,926392,N/A,N/A
+Liquidity Network,926393,N/A,N/A
+BioCrypt,926396,N/A,N/A
+FOREXCOIN,926404,Scrypt,PoW
+Cpollo,926409,N/A,N/A
+ProximaX,926414,N/A,N/A
+RipaEx,926417,N/A,N/A
+HetaChain,926419,N/A,N/A
+NOW Token,926422,N/A,N/A
+Adab Solutions,926442,N/A,N/A
+Cryptoindex,926444,N/A,N/A
+Fidelity House,926446,N/A,N/A
+InnovaMinex,926448,N/A,N/A
+MOBU,926450,N/A,N/A
+Nodvix,926452,N/A,N/A
+CoVEX,926456,N/A,N/A
+Talentico,926457,N/A,N/A
+Farm2Kitchen,926482,N/A,N/A
+GALLACTIC,926483,N/A,N/A
+Liker,926490,N/A,N/A
+Qobit,926506,N/A,N/A
+BRAVO Pay,926507,N/A,N/A
+Vena Network,926510,N/A,N/A
+CDRX,926514,N/A,N/A
+Elements Estates,926529,N/A,N/A
+Geon,926532,N/A,N/A
+TANZŌ,926542,N/A,N/A
+433 Token,926547,N/A,N/A
+Wellmee,926549,N/A,N/A
+Investx,926553,N/A,N/A
+WhatsOnPic,926555,N/A,N/A
+AutoBay,926559,N/A,N/A
+LINKCHAIN,926565,N/A,N/A
+Brain Space,926570,N/A,N/A
+Gastro Advisor Token,926574,N/A,N/A
+Namek,926576,N/A,N/A
+Netscouters,926578,N/A,N/A
+Livepeer,926589,N/A,N/A
+IOV,926605,N/A,N/A
+Mycro,926607,N/A,N/A
+ORET Token,926609,N/A,N/A
+SecureCryptoPayments,926612,N/A,N/A
+Quizando,926613,N/A,N/A
+Cyrus Token,926616,N/A,N/A
+Utile Network,926618,N/A,N/A
+JOYS,926622,N/A,N/A
+DACH Coin,926627,Quark,PoS
+Novam,926629,N/A,N/A
+PlutusX,926631,N/A,N/A
+Bitcademy Football,926633,N/A,N/A
+BrikBit,926636,N/A,N/A
+XEND token,926638,N/A,N/A
+LUMA Token,926641,N/A,N/A
+Bitzon,926643,N/A,N/A
+Clarity,926646,N/A,N/A
+Coingrid,926651,N/A,N/A
+Navibration,926654,N/A,N/A
+ArtPro,926659,N/A,N/A
+Empleos,926663,N/A,N/A
+Gamedex,926665,N/A,N/A
+EasyGuide,926668,N/A,N/A
+Presale Ventures,926670,N/A,N/A
+Reward Vision,926672,N/A,N/A
+Aurum,926676,N/A,N/A
+WHIRL,926678,N/A,N/A
+CRWD Network,926683,N/A,N/A
+EndChain,926687,N/A,N/A
+Extauri,926689,N/A,N/A
+EYE Token,926691,N/A,N/A
+Gturbo,926693,N/A,N/A
+HexanCoin,926696,N/A,N/A
+Optherium Token,926698,N/A,N/A
+SkyMap,926700,N/A,N/A
+Stem Cell,926702,N/A,N/A
+Trade Pharma Network,926704,N/A,N/A
+Triffic,926706,N/A,N/A
+WTX HUB,926708,N/A,N/A
+BigBang,926710,N/A,N/A
+Nagezeni,926717,N/A,N/A
+SharkGate,926725,N/A,N/A
+Tenzorum,926727,N/A,N/A
+Twilight,926731,N/A,N/A
+WatchUGot,926736,N/A,N/A
+Canlead,926741,N/A,N/A
+Citowise,926743,N/A,N/A
+Impresso,926748,N/A,N/A
+Namacoin,926750,N/A,N/A
+2TF,926754,N/A,N/A
+Bizkey,926756,N/A,N/A
+Carats Token,926758,N/A,N/A
+ChainZilla,926760,Equihash,DPoW
+Coinshare,926762,N/A,N/A
+Maester Protocol,926764,N/A,N/A
+Pldgr,926766,N/A,N/A
+Exenium,926768,N/A,N/A
+POVR,926771,N/A,N/A
+Moonlight,926780,N/A,N/A
+AWAX,926785,N/A,N/A
+VARcrypt,926807,N/A,N/A
+Tokedo,926931,N/A,N/A
+veriTAG Token,926970,N/A,N/A
+WeBuy,927109,N/A,N/A
+Blackbox Foundation,927115,N/A,N/A
+BFEX,927123,N/A,N/A
+HUSSY,927127,N/A,N/A
+ApolloX,927143,N/A,N/A
+Vip2Fan,927144,N/A,N/A
+WOM,927146,N/A,N/A
+Bonafi,927157,N/A,N/A
+HOLIDAY,927160,N/A,N/A
+eosBLACK,927168,N/A,N/A
+HorusPay,927176,N/A,N/A
+MEET.ONE,927184,N/A,N/A
+IOTW,927185,N/A,N/A
+empowr,927190,N/A,N/A
+Menapay,927199,N/A,N/A
+Argoneum,927204,PHI1612,PoW
+Multiven,927207,N/A,N/A
+Patentico,927211,N/A,N/A
+AmaStar,927213,N/A,N/A
+One Solution,927216,N/A,N/A
+Deliverers Power Token,927218,N/A,N/A
+Greentoken,927220,N/A,N/A
+Vidion,927222,N/A,N/A
+Enzym,927237,N/A,N/A
+Republia,927240,N/A,N/A
+Dyncoin,927241,N/A,N/A
+MiMiner,927243,N/A,N/A
+VANM,927245,N/A,N/A
+Prime Shipping Foundation,927247,N/A,N/A
+Lition,927250,N/A,N/A
+Newton,927251,N/A,N/A
+Moozicore,927264,N/A,N/A
+Viaz,927267,N/A,N/A
+BeatzCoin,927269,N/A,N/A
+EcoVerse,927271,N/A,N/A
+Raido Financial,927274,N/A,N/A
+2Acoin,927275,CryptoNight-V7,PoW
+Myplacex,927282,N/A,N/A
+XELS Coin,927287,N/A,N/A
+PGF500,927288,N/A,N/A
+Zuum,927292,N/A,N/A
+UCOIN,927294,N/A,N/A
+Ydentity,927296,N/A,N/A
+Fatum,927299,N/A,N/A
+Instant Sponsor Token,927301,N/A,N/A
+Delta-X,927304,N/A,N/A
+Poseidon Foundation,927307,N/A,N/A
+TerraEcoCoin,927309,N/A,N/A
+UnitedFans,927311,N/A,N/A
+EthicHub,927313,N/A,N/A
+TrustaBit,927319,N/A,N/A
+Chek,927320,N/A,N/A
+Volentix,927322,N/A,N/A
+Purple Token,927324,N/A,N/A
+Oasis City,927327,N/A,N/A
+HyperionX,927331,N/A,N/A
+GodlyCoin,927333,N/A,N/A
+Litenett,927335,N/A,N/A
+FutureCoin,927337,N/A,N/A
+Hyperbridge,927340,N/A,N/A
+LC Token,927341,N/A,N/A
+The Government Network,927344,N/A,N/A
+Cogenero,927349,N/A,N/A
+Coindaily,927351,N/A,N/A
+SocialRemit,927353,N/A,N/A
+MyMazzu,927355,N/A,N/A
+Tokensgate,927357,N/A,N/A
+Planumex,927363,SHA-256,N/A
+Crypt-ON,927378,N/A,N/A
+IGT,927381,N/A,N/A
+Securix,927385,N/A,N/A
+Gigzi,927386,N/A,N/A
+GGPro,927395,N/A,N/A
+Infleum,927398,N/A,N/A
+AutoBlock,927400,N/A,N/A
+Bidooh,927402,N/A,N/A
+IOU,927406,N/A,N/A
+BQT,927409,N/A,N/A
+Envoy,927413,N/A,N/A
+CYBR,927415,N/A,N/A
+Loligo,927418,N/A,N/A
+Lucre,927419,N/A,N/A
+SnapCoin,927421,N/A,N/A
+Victorieum,927424,N/A,N/A
+Neironix,927427,N/A,N/A
+BitCanna,927428,N/A,N/A
+BitSong,927430,N/A,N/A
+CINDX,927437,N/A,N/A
+Cryptocoin Insurance,927439,N/A,N/A
+Cyber Capital Invest,927441,N/A,N/A
+Reger Diamond,927444,N/A,N/A
+Gemstra,927445,N/A,N/A
+SGAT,927447,N/A,N/A
+SilkChain,927450,N/A,N/A
+BitMoney,927451,XEVAN,Pos
+Tachain,927453,N/A,N/A
+Fiii,927458,SHA3-256,DPoC
+i-chain,927460,N/A,N/A
+Level01,927462,N/A,N/A
+AEN,927464,N/A,N/A
+Lyfe,927473,N/A,N/A
+Remco,927474,N/A,N/A
+Gemera,927487,N/A,N/A
+Sia Cash Coin,927489,N/A,N/A
+Vertex,927498,N/A,N/A
+ServAdvisor,927499,N/A,N/A
+Sylo,927503,N/A,N/A
+Yamzu,927505,N/A,N/A
+Aeryus,927509,N/A,N/A
+ASQ Protocol,927517,N/A,N/A
+autoXchange,927519,N/A,N/A
+Blinked,927521,N/A,N/A
+BlooCYS,927523,N/A,N/A
+Attrace,927526,N/A,N/A
+Connecty,927529,N/A,N/A
+Donocle,927534,N/A,N/A
+Coin Analyst,927544,N/A,N/A
+Finlocale,927546,N/A,N/A
+Bitcoiin2Gen,927548,Ethash,PoW
+cosquare,927551,N/A,N/A
+healthbank,927553,N/A,N/A
+Intrachain,927559,N/A,N/A
+KRATOS,927562,N/A,N/A
+CPROP,927563,N/A,N/A
+moolyacoin,927565,N/A,N/A
+Ponder,927567,N/A,N/A
+CryptoRevolution,927569,N/A,N/A
+Varanida,927571,N/A,N/A
+IdealCoin,927573,N/A,N/A
+LaborCrypto,927575,N/A,N/A
+EMX,927582,N/A,N/A
+ETERBASE,927584,N/A,N/A
+Liqnet,927590,N/A,N/A
+KUBO,927592,N/A,N/A
+Faba Invest,927595,N/A,N/A
+Liquid8,927596,N/A,N/A
+Gric Coin,927600,N/A,N/A
+Inflr,927607,N/A,N/A
+Libellum,927610,N/A,N/A
+Permian,927613,N/A,N/A
+Petlife,927622,N/A,N/A
+MPCX,927624,N/A,N/A
+PopulStay,927626,N/A,N/A
+Smilo,927642,N/A,N/A
+BCV Blue Chip,927644,N/A,N/A
+TreeBlock,927654,N/A,N/A
+Venus,927664,Scrypt,N/A
+Verifier,927666,N/A,N/A
+Auxilium,927698,Keccak,PoA
+eLYQD,927901,N/A,N/A
+ComBox,927917,N/A,N/A
+Smoke,927923,N/A,DPoS
+EdenChain,927930,N/A,N/A
+nOS,927937,N/A,N/A
+Dollar Token 1,927945,N/A,N/A
+FarmaTrust,927948,N/A,N/A
+STACS Token,927950,N/A,N/A
+Junson Ming Chan Coin,927952,X11,PoS
+Foam,927955,N/A,N/A
+FREDEnergy,927962,CryptoNight,PoW
+CONNECT,927965,N/A,N/A
+Engagement Token,927975,N/A,N/A
+Verity,927977,N/A,N/A
+TokenStars TEAM Token,927979,N/A,N/A
+Zenad,927991,Quark,POS / MN
+3DChain,927993,N/A,N/A
+Futurepia,927995,N/A,N/A
+Synco,927998,N/A,N/A
+GraphenTech,928001,N/A,N/A
+H-Education World,928003,N/A,N/A
+Usechain Token,928014,N/A,N/A
+Ngin,928030,M00N,PoW
+Koto,928032,Yescript,N/A
+Genesis Network,928089,Equihash,PoW
+Hyperspace,928091,N/A,N/A
+Vertical,928093,Lyra2Z,PoW
+Seci,928096,N/A,PoW
+SpritzCoin,928098,N/A,N/A
+C25 Coin,928101,SkunkHash,PoW
+LYNCHPIN Token,928106,N/A,N/A
+BitStash,928108,N/A,N/A
+HerbCoin,928134,Quark,PoW/PoS
+Aquachain,928136,Argon2,PoW
+Qredit,928139,N/A,DPoS
+URANIUMX,928156,Argon2d,N/A
+K-Systems,928166,N/A,N/A
+MEDoctor,928171,N/A,N/A
+MulTra,928173,N/A,N/A
+MusicLife,928180,N/A,N/A
+BlakeBitcoin,928182,Blake,PoW
+Universal Molecule,928184,Blake,PoW
+MUST Protocol,928188,N/A,N/A
+Electron,928190,Blake,PoW
+Xeonbit,928200,CryptoNight,PoW
+Smart Bitcoin,928204,SHA-256,PoW
+BtcEX,928221,N/A,N/A
+PirateCash,928223,Equihash,PoS
+Exosis,928226,Exosis,PoW
+ONAM,928228,N/A,N/A
+BitHostCoin,928234,N/A,PoS
+Karma,928239,N/A,N/A
+Conjure,928245,N/A,N/A
+Block-Logic,928259,Scrypt,PoW
+AgaveCoin,928332,N/A,N/A
+ASG,928339,N/A,N/A
+MIMI Money,928346,CryptoNight,PoW
+PlayGame,928354,N/A,N/A
+ORIUM,928356,N/A,N/A
+Tourist Review,928359,N/A,N/A
+Securosys,928362,N/A,N/A
+BEER Coin,928379,N/A,N/A
+Timicoin,928385,N/A,PoW/PoS
+Neural Protocol,928390,N/A,N/A
+Coinsuper Ecosystem Network,928394,N/A,N/A
+UNEOX,928403,N/A,N/A
+Oduwa,928405,Scrypt,PoW/PoS
+WOWX,928418,N/A,N/A
+Solarex,928422,N/A,N/A
+Athero,928423,N/A,N/A
+PROOF OF TOSS,928440,N/A,N/A
+KiMex,928443,N/A,N/A
+Skillchain,928445,N/A,N/A
+SocialGood,928446,N/A,N/A
+The Sun Exchange,928449,N/A,N/A
+Vidy,928450,N/A,N/A
+Xtribe,928452,N/A,N/A
+Alux Bank,928455,N/A,N/A
+Bitacium,928459,N/A,N/A
+Bitbose,928465,N/A,N/A
+Joycoin,928484,N/A,N/A
+WETH,928486,N/A,N/A
+Godbex,928489,N/A,N/A
+Harambee Token,928491,N/A,N/A
+Beam,928497,Equihash,PoW
+MIcro Licensing Coin,928502,N/A,N/A
+Pinmo,928505,N/A,N/A
+PopChest,928507,N/A,N/A
+Scopuly,928511,N/A,N/A
+Borneo,928513,N/A,N/A
+Cryptoxygen,928519,N/A,N/A
+Vecap,928522,N/A,N/A
+Faireum Token,928525,N/A,N/A
+beepnow,928530,N/A,N/A
+Dycoin,928534,N/A,N/A
+LINK,928540,N/A,N/A
+FactR,928543,N/A,N/A
+Real-World Evidence,928544,N/A,N/A
+Yoshi,928546,N/A,N/A
+Smart Trip Platform,928549,N/A,N/A
+TMONEY,928550,N/A,N/A
+Travelvee,928553,N/A,N/A
+ACA Token,928555,N/A,N/A
+Agricultural Trade Chain,928556,N/A,N/A
+Authpaper,928560,N/A,N/A
+Cosmecoin,928561,N/A,N/A
+DNAtix,928563,N/A,N/A
+HARA,928566,N/A,N/A
+Krosscoin,928567,N/A,N/A
+LipChain,928569,N/A,N/A
+miBoodle,928572,N/A,N/A
+OpenBrix,928574,N/A,N/A
+NonZero,928576,N/A,N/A
+Pink Taxi Token,928588,N/A,N/A
+RecordsKeeper,928590,N/A,PoW
+RewardMob,928613,N/A,N/A
+Sarf,928614,N/A,N/A
+Suapp,928619,N/A,N/A
+Truwho,928625,N/A,N/A
+VIARIUM,928629,N/A,N/A
+WeiDex,928631,N/A,N/A
+AIOT Token,928636,N/A,N/A
+Amos,928638,N/A,N/A
+eSwitch®,928647,N/A,N/A
+Bancryp,928648,N/A,N/A
+betbox,928660,N/A,N/A
+Betoken,928661,N/A,N/A
+ClearAid,928665,N/A,N/A
+Guarium,928667,N/A,N/A
+Local Token Exchange,928670,N/A,N/A
+Melior AI,928675,N/A,N/A
+Nexxo,928678,N/A,N/A
+Quantor,928679,N/A,N/A
+Bitcoinus,928689,N/A,N/A
+Rays Network,928694,N/A,N/A
+Molecule,928696,N/A,N/A
+REME-Coin,928698,N/A,N/A
+RENC,928701,N/A,N/A
+Travelertoken,928704,N/A,N/A
+Sentigraph.io,928705,N/A,N/A
+USAT,928710,N/A,N/A
+VolAir,928714,N/A,N/A
+Aircraft,928716,N/A,N/A
+VTradeExchange,928721,N/A,N/A
+Galilel,928726,Quark,PoW/PoS
+Plair,928727,N/A,N/A
+Bgogo Token,928742,N/A,N/A
+HedgeTrade,928755,N/A,N/A
+Erecoin,928764,N/A,N/A
+BTU Protocol,928781,N/A,N/A
+APRES,928783,N/A,N/A
+BiteX,928785,N/A,N/A
+getFIFO,928814,N/A,N/A
+NOMAD.space,928821,N/A,N/A
+ScientificCoin,928826,N/A,N/A
+TITA Project,928828,N/A,N/A
+Bitwin 2.0,928852,N/A,N/A
+OATH Protocol,928854,N/A,N/A
+simplyBrand,928856,N/A,N/A
+DexAge,928859,N/A,N/A
+TradePlace,928861,N/A,N/A
+Zaddex,928863,Equihash,PoW
+XCOYNZ,928865,N/A,N/A
+CurveBlock,928867,N/A,N/A
+HELIX Orange,928874,N/A,N/A
+TerraGreen,928877,N/A,N/A
+Cogmento,928878,N/A,N/A
+Aerum,928881,N/A,N/A
+Creditcoin,928882,N/A,N/A
+Alprockz,928884,N/A,N/A
+IceChain,928902,N/A,N/A
+CoinIMP,928904,N/A,N/A
+TriForce Tokens,928907,N/A,N/A
+BitMax Token,928919,N/A,N/A
+QUSD,928960,N/A,N/A
+Bithereum,928962,Equihash,PoW
+Pledgecamp,928995,N/A,N/A
+PVPChain,928999,N/A,N/A
+EMANATE,929011,N/A,N/A
+RAIZER,929075,SHA-256,PoW
+CryptoProfile,929079,N/A,N/A
+Dayta,929086,N/A,N/A
+Orvium,929088,N/A,N/A
+Coinware,929090,N/A,N/A
+aQuest,929092,N/A,N/A
+Coinxes,929095,N/A,N/A
+Crypto Holding,929096,N/A,N/A
+VENOTY,929099,Scrypt,PoW
+Bither,929102,N/A,N/A
+SOMESING,929105,N/A,N/A
+Klickzie,929114,N/A,N/A
+LivenPay,929116,N/A,N/A
+FortFC,929119,N/A,N/A
+Azultec,929129,N/A,N/A
+ArQmA,929144,CryptoNight-lite,PoW
+WULET,929148,N/A,N/A
+Zeux,929150,N/A,N/A
+Files.fm Library,929153,N/A,N/A
+Drife,929155,N/A,N/A
+Global Trust Coin,929161,N/A,N/A
+CryptoRiyal,929163,N/A,N/A
+Amoveo,929166,SHA-256,PoW
+Dolla,929167,N/A,Consortium
+Bitbond,929173,N/A,N/A
+Digital Asset Guarantee Token,929176,N/A,N/A
+Globalvillage Ecosystem,929178,N/A,N/A
+InvestDigital,929180,N/A,N/A
+Kuverit,929182,N/A,N/A
+Yachtco,929195,N/A,N/A
+BolttCoin,929196,N/A,N/A
+Encrybit,929200,N/A,N/A
+Validator Token,929202,N/A,N/A
+Tryvium,929211,N/A,N/A
+VenusEnergy,929214,N/A,N/A
+HYGH,929215,N/A,N/A
+Alcedo,929217,N/A,N/A
+Nodis,929219,N/A,N/A
+MainCoin,929223,N/A,N/A
+StableUSD,929229,N/A,N/A
+UHIVE,929231,N/A,N/A
+Gofind XR,929234,N/A,N/A
+Smart Valor,929236,N/A,N/A
+Alphacon,929237,N/A,N/A
+eMusic,929239,N/A,N/A
+Artcoin,929255,N/A,N/A
+Neuromachine,929259,N/A,N/A
+AirPod,929262,N/A,N/A
+AlphaX,929263,Scrypt,PoS
+Crypto Wine Exchange,929279,N/A,N/A
+Cloverdex,929287,N/A,N/A
+EurocoinToken,929289,N/A,N/A
+Stakinglab,929291,Quark,N/A
+Envienta,929311,N/A,N/A
+Ankr Network,929313,N/A,N/A
+Gaia,929327,N/A,N/A
+Inzura,929331,N/A,N/A
+Geeba,929333,N/A,N/A
+iTrue,929336,N/A,N/A
+FanChain,929341,N/A,N/A
+Crypto Sports,929343,Quark,PoS
+Coinchase,929349,N/A,N/A
+XOVBank,929356,N/A,N/A
+Quadrant Protocol,929359,N/A,N/A
+Cura Network,929360,N/A,N/A
+ETHA,929366,N/A,N/A
+MAKE,929370,N/A,N/A
+Spokkz,929376,N/A,N/A
+Atomic Wallet Coin,929381,ERC20 + BEP-2,N/A
+DiscoveryIoT,929382,N/A,N/A
+Scribe Network,929387,Lyra2REv2,PoW
+InMax,929389,N/A,N/A
+Squeezer,929402,N/A,N/A
+Greencoin,929406,N/A,N/A
+Weave,929408,N/A,N/A
+Photon Token,929410,N/A,N/A
+Windhan Energy,929413,N/A,N/A
+Crypto.com Chain Token,929418,N/A,N/A
+LYTIX,929427,QuarkTX,PoW/PoS
+TapJets,929429,N/A,N/A
+PrepayWay,929431,N/A,N/A
+Decimated,929433,N/A,N/A
+Ligercoin,929435,N/A,N/A
+SiaClassic,929437,Blake2b,PoW
+Excalibur OS,929439,N/A,N/A
+V Systems,929452,SPoS,SPoS
+Universal Games Token,929490,N/A,N/A
+Zeon Network,929494,N/A,N/A
+Global Property Register,929507,N/A,N/A
+PARQ,929509,N/A,N/A
+Tap4.Menu,929514,N/A,N/A
+TheFaustFlick,929517,N/A,N/A
+Izzy,929523,N/A,N/A
+Sonata.ai,929527,N/A,N/A
+Swinca,929529,Quark,PoW/PoS
+Lunes,929535,Leased POS,LPoS
+edeXa Security Token,929537,N/A,N/A
+Primpy,929550,N/A,N/A
+ANTE,929553,N/A,N/A
+TRONdice,929555,N/A,N/A
+Africa Trading Chain,929558,N/A,N/A
+TronWin,929560,TRC10,N/A
+IG Gold,929564,TRC10,N/A
+Migranet,929566,N/A,N/A
+BitWings,929570,N/A,N/A
+IPUX,929572,N/A,N/A
+PCORE,929576,N/A,N/A
+Darb Token,929581,N/A,N/A
+MinedBlock,929583,N/A,N/A
+CFun,929645,N/A,N/A
+SLICE,929650,QuBit,PoW
+aassio,929654,N/A,N/A
+2GETHER,929659,N/A,N/A
+Vollar,929661,Equihash+Scrypt,PoW
+DEXON,929665,N/A,DPoS
+Buying.com,929666,N/A,N/A
+Allforcrypto,929671,N/A,N/A
+REDi,929673,SHA-256,N/A
+Insure Network,929674,N/A,N/A
+Whisky Token,929676,N/A,N/A
+Uris,929681,N/A,N/A
+Adult X Token,929684,N/A,N/A
+Hoard,929687,N/A,N/A
+Qravity,929691,N/A,N/A
+Shercoin,929692,N/A,N/A
+ZeroBank,929695,N/A,N/A
+ISG,929696,N/A,N/A
+Geco.one,929698,N/A,N/A
+TAGZ,929700,N/A,N/A
+Skelpy,929702,N/A,DPoS
+MyCreditChain,929712,N/A,N/A
+Golden Currency,929716,N/A,N/A
+YPTOspace,929723,N/A,PoW/PoS
+Ubecoin,929725,N/A,N/A
+Ethereum Gold Project,929734,N/A,N/A
+Global Funeral Care,929737,N/A,N/A
+Reindeer,929740,N/A,N/A
+X-Block,929741,N/A,N/A
+AliCoin,929745,N/A,N/A
+HCX PAY,929747,CryptoNight,PoW
+Bit Agro,929749,N/A,N/A
+Bytus,929756,N/A,N/A
+EUCX,929761,N/A,N/A
+MyTVchain,929762,N/A,N/A
+Levolution,929786,N/A,N/A
+LogisticsX,929795,N/A,N/A
+PRIMARY,929809,N/A,N/A
+Maximine,929811,N/A,N/A
+TTC PROTOCOL,929813,N/A,N/A
+BCNEX,929815,N/A,N/A
+Evedo,929820,N/A,N/A
+Biogen,929822,N/A,N/A
+Gese,929824,N/A,N/A
+YourBlock,929830,N/A,N/A
+Gift Token,929833,N/A,N/A
+2key.network,929838,N/A,N/A
+STAYGE,929841,N/A,N/A
+Developeo,929844,N/A,N/A
+Teambrella,929846,N/A,N/A
+HubrisOne,929848,N/A,N/A
+Exclusive Platform,929852,N/A,N/A
+Mitoshi,929854,N/A,N/A
+Dago Mining,929856,N/A,N/A
+Tempo,929866,N/A,N/A
+Papyrus,929868,N/A,N/A
+Review.Network,929870,N/A,N/A
+Orbs,929872,N/A,N/A
+Streamex,929877,N/A,N/A
+TruePlay,929879,N/A,N/A
+Miracle Tele,929881,N/A,N/A
+Gym Rewards,929883,N/A,N/A
+Howdoo,929888,N/A,N/A
+SESSIA,929898,N/A,N/A
+SportGift,929900,N/A,N/A
+Cresio,929902,N/A,N/A
+Artis Aes Evolution,929926,N/A,N/A
+AIB Utility Token,929929,N/A,N/A
+NeuroChain,929933,N/A,N/A
+DataBloc,929943,N/A,N/A
+OilWellCoin,929945,N/A,N/A
+Volum,929947,N/A,N/A
+LOL Coin,929949,N/A,N/A
+Cash Telex,930026,N/A,N/A
+Consentium,930028,N/A,N/A
+Loteo,930034,N/A,N/A
+Loteo,930035,N/A,N/A
+AhrvoDEEX,930041,N/A,N/A
+Gath3r,930043,N/A,N/A
+Kartblock,930047,N/A,N/A
+USDX Stablecoin,930080,SHA-256,DPoS
+LHT Coin,930081,SHA-256,DPoS
+Platinum,930088,X11,PoS
+NYCREC,930099,N/A,N/A
+Nasdacoin,930124,Scrypt,PoW/PoS
+SOLVE,930126,N/A,PoW
+Bolt,930147,N/A,N/A
+Blockcloud,930149,N/A,N/A
+SPECTRUM,930153,N/A,N/A
+FilmBusinessBuster,930165,N/A,N/A
+TCST Coin,930166,N/A,N/A
+BlockSafe,930170,N/A,N/A
+Universa Native token,930173,N/A,N/A
+HavEther,930179,N/A,N/A
+Konstellation,930218,N/A,PoS
+Crypto Market Ads,930224,N/A,N/A
+Maya Preferred 223,930242,Ethash,N/A
+Thorecoin,930244,N/A,N/A
+PBET,930259,N/A,N/A
+pukkamex,930264,N/A,N/A
+Yanu,930268,N/A,N/A
+Crypto Birds,930280,N/A,N/A
+Royal Sting,930283,N/A,N/A
+WindMine,930285,N/A,N/A
+Toyken,930290,N/A,N/A
+AuxChips,930292,N/A,N/A
+TARUSH,930300,N/A,N/A
+YOUnited,930302,N/A,N/A
+COVA,930305,N/A,N/A
+Lambda,930306,N/A,N/A
+Gexan,930330,PHI2,PoW/PoS
+Vidulum,930350,Equihash1927,PoW
+TranslateMe,930352,N/A,N/A
+Function X,930369,N/A,N/A
+AssetStream,930373,N/A,N/A
+Beetle Coin,930382,XEVAN,PoW/PoS
+IdeaFeX,930389,N/A,N/A
+Monart,930391,N/A,N/A
+Titan Coin,930393,N/A,N/A
+Dapp Token,930395,N/A,N/A
+Titan Coin,930397,SHA-256D,PoW/PoS
+GoldeNugget Token,930401,N/A,N/A
+Ocean Protocol,930413,N/A,N/A
+LimonX,930442,N/A,PoS
+Utopialand,930460,N/A,N/A
+Guider.Travel,930463,N/A,N/A
+Lunox Token,930467,N/A,N/A
+Origin Foundation,930474,N/A,N/A
+Neutro Protocol,930477,N/A,N/A
+TuneTrade,930478,N/A,N/A
+Pirate Chain,930480,Equihash,PoW
+Sportcash One,930484,N/A,N/A
+OWNDATA,930499,N/A,N/A
+Veles,930506,N/A,PoW
+Award,930517,X11,PoW/PoS
+Poseidon Network,930522,N/A,N/A
+Ledder,930524,N/A,N/A
+CCUniverse,930526,N/A,N/A
+Kozjin,930529,N/A,N/A
+Smathium,930531,N/A,N/A
+iOWN Token,930540,N/A,N/A
+Qubitica,930549,N/A,N/A
+BitcoinX,930552,N/A,PoW
+LEO Token,930571,N/A,N/A
+BlockStamp,930588,SHA-256,PoW
+Aryacoin,930591,N/A,PoW
+BUSD,930595,N/A,N/A
+VeganNation,930597,N/A,N/A
+BACoin,930599,N/A,N/A
+BLAST,930601,SHA-256,PoW
+ParamountDax,930606,N/A,N/A
+Zoptax,930609,SHA-256,N/A
+Filmpass,930611,N/A,N/A
+Cinemadrom,930613,N/A,N/A
+Vodi X,930615,N/A,N/A
+Reserve Rights,930621,N/A,N/A
+CKUSD,930646,N/A,N/A
+Contents Protocol,930647,N/A,N/A
+ESBC,930656,Quark,PoS
+GRAYLL,930664,N/A,N/A
+Baer Chain,930666,N/A,N/A
+Mossland,930669,N/A,N/A
+Serve,930671,N/A,N/A
+Foresting,930674,N/A,N/A
+DIPNET,930675,N/A,N/A
+VeriBlock,930677,vBlake,PoP + PoW
+Themis,930678,N/A,N/A
+Yuan Chain Coin,930679,N/A,N/A
+USDK,930681,N/A,N/A
+MIXMARVEL,930682,N/A,N/A
+PlayCoin,930684,N/A,N/A
+Blue Whale,930688,N/A,N/A
+Vostok,930695,N/A,N/A
+Wibson,930700,N/A,N/A
+Blockparty,930702,N/A,N/A
+Ulord,930704,N/A,N/A
+DxChain Token,930708,N/A,N/A
+MultiVAC,930712,N/A,N/A
+Trias,930714,N/A,N/A
+WinToken,930720,N/A,N/A
+VNT Chain,930722,N/A,N/A
+Origo,930727,N/A,N/A
+DeVault,930763,SHA-256,N/A
+BOMB,930765,N/A,N/A
+Bryllite,930777,N/A,N/A
+Wirex Token,930779,N/A,N/A
+BOX Token,930784,N/A,N/A
+Kambria,930794,N/A,N/A
+BEST,930803,N/A,N/A
+Consumption Avatar Matrix,930814,N/A,N/A
+Hydro,930816,N/A,N/A
+BitNewChain,930818,DPoS,PoS/PoM
+Atlas Protocol,930820,N/A,N/A
+BitCapitalVendor,930822,N/A,N/A
+FlowChainCoin,930824,N/A,N/A
+BlockState,930828,N/A,N/A
+Insight Chain,930833,N/A,N/A
+WaykiChain,930835,N/A,N/A
+EDUCare,930837,N/A,N/A
+Key,930839,N/A,N/A
+1SG,930841,N/A,N/A
+Kuai Token,930845,N/A,N/A
+IntelliShare,930847,N/A,N/A
+Artfinity Token,930853,N/A,N/A
+AWARE,930855,N/A,N/A
+DEX,930861,N/A,N/A
+Electrum Dark,930863,N/A,N/A
+UOS,930865,SHA-256,DPoI
+United Network Distribution,930869,N/A,N/A
+pEOS,930872,N/A,N/A
+Bitcoin HD,930874,N/A,N/A
+GlitzKoin,930876,N/A,N/A
+Vipstar Coin,930878,N/A,PoW/PoS
+BigBang Game,930881,N/A,N/A
+Influence Chain,930885,N/A,N/A
+BitNautic,930888,N/A,N/A
+W Green Pay,930890,N/A,N/A
+Pundi X NEM,930892,N/A,N/A
+YOU Chain,930897,N/A,N/A
+USC,930908,N/A,N/A
+Android chain,930910,N/A,N/A
+WeGen Platform,930912,N/A,N/A
+GMB,930914,N/A,N/A
+Marginless,930916,N/A,N/A
+FUNDChains,930919,N/A,N/A
+Octoin Coin,930921,N/A,PoS
+NNB Token,930923,N/A,N/A
+USDQ,930925,N/A,N/A
+Ultiledger,930927,N/A,N/A
+Wowbit,930929,N/A,N/A
+Vanta Network,930931,N/A,N/A
+Snetwork,930933,N/A,N/A
+Bitcoin BEP2,930938,N/A,N/A
+IONChain,930940,N/A,N/A
+Smartshare,930942,N/A,PoW
+CoinUs,930944,N/A,N/A
+Airbloc,930946,N/A,N/A
+SDChain,930948,N/A,N/A
+Smartup,930950,N/A,N/A
+Hyperion,930952,N/A,N/A
+UnlimitedIP,930954,N/A,N/A
+MIR COIN,930956,N/A,N/A
+Japan Content Token,930959,N/A,N/A
+FansTime,930962,N/A,N/A
+DOS Network,930966,N/A,N/A
+Delio,930986,N/A,N/A
+DUO Network,930988,N/A,N/A
+OceanEX Token,930990,N/A,N/A
+Aircoins,931006,N/A,N/A
+Raven Protocol,931008,N/A,N/A
+MINDOL,931011,N/A,N/A
+MovieBloc,931013,N/A,N/A
+B91,931015,N/A,N/A
+AIDUS TOKEN,931017,N/A,N/A
+AiLink Token,931034,N/A,N/A
+Cloudbric,931038,N/A,N/A
+CanonChain,931040,N/A,N/A
+DeltaChain,931043,N/A,N/A
+GSENetwork,931052,N/A,N/A
+Knekted,931058,N/A,N/A
+4New,931060,N/A,N/A
+Midas Protocol,931062,N/A,N/A
+UChain,931066,N/A,N/A
+VeriDocGlobal,931069,N/A,N/A
+Yggdrash,931071,N/A,N/A
+PressOne,931073,N/A,N/A
+Eight Hours Token,931091,N/A,N/A
+Bitcoin Rhodium,931097,X13,PoW
+TERA,931098,N/A,N/A
+Machine Xchange Coin,931100,N/A,N/A
+Jarvis+,931102,N/A,N/A
+Provoco,931104,N/A,N/A
+Transcodium,931117,N/A,N/A
+Naka Bodhi Token,931119,N/A,N/A
+DPRating,931121,N/A,N/A
+Ampleforth,931131,N/A,N/A
+SoPay,931136,N/A,N/A
+LemoChain,931140,N/A,N/A
+Typerium,931144,N/A,N/A
+Crystal Token,931146,N/A,N/A
+HyperLoot,931171,N/A,N/A
+Electronic Energy Coin,931173,N/A,N/A
+Traceability Chain,931197,N/A,N/A
+TenX Token,931200,N/A,N/A
+Ekon Gold,931208,N/A,N/A
+Silverway,931222,N/A,N/A
+PATHHIVE,931226,N/A,N/A
+ONO,931228,N/A,N/A
+Ether Kingdoms Token,931231,N/A,N/A
+Bitrue Coin,931274,N/A,N/A
+SWAPS Network,931309,N/A,N/A
+SparkPoint,931404,N/A,N/A
+Volt,931406,N/A,N/A
+Ycash,931407,Equihash,N/A
+ToKoin,931414,N/A,N/A
+Ormeus Ecosystem,931416,N/A,N/A
+Aladdin,931418,N/A,N/A
+Fountain,931448,N/A,N/A
+GreenPower,931450,N/A,N/A
+Nexty,931460,N/A,N/A
+TEMCO,931462,N/A,N/A
+Adrenaline Chain,931470,N/A,N/A
+MESG,931474,N/A,N/A
+Stronghold Token,931476,N/A,N/A
+uPlexa,931485,CryptoNight,PoW
+1irstcoin,931488,N/A,N/A
+Bitcratic Token,931517,N/A,N/A
+Trittium,931520,N/A,N/A
+Arbidex,931527,N/A,N/A
+Hxro,931542,N/A,N/A
+Monarch Token,931565,Ethash,N/A
+WINk,931583,N/A,N/A
+Native Utility Token,931603,N/A,N/A
+TurtleNetwork,931605,N/A,PoS
+PUBLIQ,931613,N/A,N/A
+Zloadr,931630,N/A,N/A
+DocTailor,931639,N/A,N/A
+DECOIN,931643,X11,PoS
+Tchain,931662,N/A,N/A
+Retailcoin,931664,N/A,N/A
+Verus Coin,931666,N/A,N/A
+Volume Network,931670,N/A,N/A
+BitcoinSoV,931672,N/A,N/A
+FTX Token,931676,N/A,N/A
+Natmin,931678,N/A,N/A
+TrustVerse,931684,N/A,N/A
+RealTract,931687,N/A,N/A
+GoWithMi,931689,N/A,N/A
+Humanscape,931691,N/A,N/A
+EMOGI Network,931695,N/A,N/A
+Business Credit Alliance Chain,931699,N/A,N/A
+Data Transaction Token,931701,N/A,N/A
+OTOCASH,931705,Scrypt,N/A
+Bitsdaq Token,931707,N/A,N/A
+SIX Network,931710,N/A,N/A
+Locus Chain,931713,N/A,N/A
+COZPlus,931725,N/A,N/A
+GOTOGOD,931745,N/A,N/A
+Foin,931752,SHA-256,N/A
+YottaChain,931768,N/A,N/A
+LITEX,931770,N/A,N/A
+ImageCoin,931772,N/A,N/A
+BOTXCOIN,931790,N/A,N/A
+Diamond Platform Token,931792,N/A,N/A
+Gatechain Token,931795,N/A,N/A
+Tratok,931797,N/A,N/A
+Chiliz,931799,N/A,N/A
+Opennity,931801,N/A,N/A
+SafeInsure,931804,N/A,N/A
+Beldex,931810,CryptoNight,PoW
+DEXTER,931814,N/A,N/A
+Promotion Coin,931821,N/A,N/A
+BitUP Token,931826,N/A,N/A
+Gosama,931828,N/A,N/A
+Defi,931831,N/A,N/A
+Bitbook Gambling,931835,N/A,N/A
+KNOW,931838,N/A,N/A
+WebFlix,931840,N/A,N/A
+eXPerience Chain,931842,SHA-256,N/A
+Alliance Cargo Direct,931847,N/A,N/A
+Akropolis,931849,N/A,N/A
+AmonD,931851,N/A,N/A
+Ben Zi Token,931853,N/A,N/A
+Binance GBP Stable Coin,931855,N/A,N/A
+Blockchain of Hash Power,931857,N/A,N/A
+CryptoFranc,931859,N/A,N/A
+Blockchain Exchange Alliance,931861,N/A,N/A
+Create Breaking News Together,931863,N/A,N/A
+DeepCloud AI,931865,N/A,N/A
+Dochain,931867,N/A,N/A
+Data Transaction,931869,N/A,N/A
+Decentralized Vulnerability Platform,931871,N/A,N/A
+Digital Wallet,931873,N/A,N/A
+ELA Coin,931875,N/A,N/A
+​Ether star blockchain,931877,N/A,N/A
+FMex,931879,N/A,N/A
+FToken,931882,N/A,N/A
+FLEX Coin,931884,N/A,N/A
+GEchain,931886,N/A,N/A
+ParkinGo,931888,N/A,N/A
+Infinito,931890,N/A,N/A
+ITOChain,931892,N/A,N/A
+Wine Chain,931894,N/A,N/A
+KStarCoin,931899,N/A,N/A
+LitecoinHD,931901,N/A,N/A
+LinkCoin Token,931903,N/A,N/A
+Kripton,931905,N/A,N/A
+Master MIX Token,931908,N/A,N/A
+iOscar,931910,N/A,N/A
+Pibble,931912,N/A,N/A
+Kleros,931914,N/A,N/A
+Prometeus,931916,N/A,N/A
+PROT,931918,N/A,N/A
+QQBC IPFS BLOCKCHAIN,931920,N/A,N/A
+SPIN Protocol,931922,N/A,N/A
+Tercet Network,931924,N/A,N/A
+Thorenext,931926,N/A,N/A
+Thore Exchange,931927,N/A,N/A
+ThoreCashTRX,931938,N/A,N/A
+UltrAlpha,931951,N/A,N/A
+UniversalEnergyChain,931953,N/A,N/A
+Uranus,931957,N/A,N/A
+USDSB,931958,N/A,N/A
+VINCI,931960,N/A,N/A
+WOLLO,931962,N/A,N/A
+Xenoverse,931964,N/A,N/A
+ndau,931966,N/A,N/A
+Xensor,931969,N/A,N/A
+Zaif Token,931970,N/A,N/A
+En-Tan-Mo,931977,N/A,N/A
+Amino Network,931979,N/A,N/A
+FABRK Token,931985,N/A,N/A
+VinDax Coin,931987,N/A,N/A
+NewYork Exchange,931991,N/A,N/A
+LinkToken,931995,N/A,N/A
+STREAMIT COIN,931997,Quark,PoS
+BitCloud Pro,931999,N/A,N/A
+Tolar,932001,N/A,N/A
+CryptoVerificationCoin,932003,N/A,N/A
+EveriToken,932005,N/A,N/A
+Note Blockchain,932009,N/A,N/A
+MEX,932013,N/A,N/A
+ATN,932016,N/A,N/A
+NeoWorld Cash,932018,N/A,N/A
+Custody Token,932020,N/A,N/A
+QChi,932022,N/A,N/A
+FIBOS,932024,N/A,N/A
+Simone,932026,N/A,N/A
+BeeKan,932028,N/A,N/A
+Blockchain Quotations Index Token,932030,N/A,N/A
+BLOC.MONEY,932055,Cryptonight Haven,PoW
+White Standard,932065,N/A,N/A
+Alchemint Standards,932079,N/A,N/A
+ZBG Token,932086,N/A,N/A
+Gomics,932094,N/A,N/A
+Band Protocol,932096,N/A,N/A
+OFCOIN,932102,Scrypt,PoW
+CryptoBonusMiles,932113,N/A,N/A
+Emirex Token,932115,N/A,N/A
+Hedera Hashgraph,932121,N/A,PoS
+IZIChain,932125,N/A,N/A
+YouLive Coin,932127,N/A,N/A
+T.OS,932129,Scrypt,PoW
+OVCODE,932133,N/A,N/A
+WITH,932155,N/A,N/A
+Magic Cube Coin,932160,N/A,N/A
+HiveNet Token,932166,N/A,N/A
+PAX Gold,932177,N/A,N/A
+MEXC Token,932180,N/A,N/A
+NSS Coin,932182,N/A,N/A
+Tronipay,932184,N/A,N/A
+MineBee,932186,N/A,N/A
+CENTERCOIN,932188,N/A,N/A
+MB8 Coin,932190,X11,PoS
+Hyper Speed Network,932192,N/A,N/A
+Rupiah Token,932194,N/A,N/A
+ZumCoin,932196,CryptoNight,PoW
+PiplCoin,932200,N/A,N/A
+Chimpion,932203,N/A,N/A
+VNDC,932244,N/A,N/A
+MX Token,932263,N/A,N/A
+HUSD,932285,N/A,N/A
+Gaps Chain,932313,N/A,N/A
+DDAM,932387,N/A,N/A
+PLANET,932397,N/A,N/A
+Mogu,932399,N/A,N/A
+CAPITAL X CELL,932404,N/A,N/A
+BigONE Token,932407,N/A,N/A
+Telos,932424,N/A,PoS
+Flas Exchange Token,932428,N/A,N/A
+Dequant,932430,Quark,PoS
+BCB Blockchain,932447,N/A,PoS
+LBK,932548,N/A,N/A
+GSTT,932550,N/A,N/A
+All.me,932552,N/A,N/A
+Documentchain,932554,N/A,N/A
+TreeCoin,932558,N/A,N/A
+SharesChain,932564,N/A,N/A
+RON,932566,N/A,N/A
+SINX Token,932568,N/A,N/A
+Hazza,932571,N/A,N/A
+AI Prediction Ecosystem,932573,N/A,N/A
+MISS,932576,N/A,N/A
+DKK Token,932578,N/A,N/A
+Bityuan,932580,N/A,N/A
+Credit Safe Application Chain,932582,N/A,N/A
+Temtum,932584,N/A,N/A
+Kava,932609,N/A,PoS
+Dream21,932611,N/A,N/A
+Nervos Network,932619,Eaglesong,PoW
+Kaiser,932621,N/A,N/A
+VB Token,932623,N/A,N/A
+G50,932625,N/A,N/A
+Smart Eye Operating System,932627,N/A,N/A
+Overseas Direct Certification,932629,N/A,N/A
+Galtcoin,932632,N/A,N/A
+Lightning Bitcoin,932634,N/A,N/A
+Multi Collateral Dai,932637,N/A,N/A
+Tena,932646,N/A,N/A
+SmartPlay,932668,N/A,N/A
+UNICORN Token,932670,N/A,N/A
+Dimension,932684,N/A,N/A
+Precium,932686,N/A,N/A
+Big Fun Chain,932689,N/A,N/A
+LightChain,932691,N/A,N/A
+CoinBene Future Token,932693,N/A,N/A
+Traders Token,932698,N/A,N/A
+ETHplode,932700,N/A,N/A
+Yap Stone,932702,N/A,N/A
+Lukiu,932704,N/A,N/A
+Suterusu,932706,N/A,N/A
+FirmaChain,932710,N/A,N/A
+Whole Network,932712,N/A,N/A
+LINKA,932714,N/A,N/A
+ZVCHAIN,932718,N/A,N/A
+Cointorox,932720,N/A,N/A
+Aitheon,932722,N/A,N/A
+OLXA,932726,N/A,N/A
+Wixlar,932728,N/A,N/A
+Breezecoin,932732,N/A,N/A
+Buggyra Coin Zero,932734,N/A,N/A
+Bitcoin 2,932736,N/A,PoS
+Ecoreal Estate,932738,N/A,N/A
+S4FE,932740,N/A,N/A
+Bispex,932744,N/A,N/A
+Blockium,932748,N/A,N/A
+Tepleton,932751,N/A,N/A
+Tesra,932753,N/A,N/A
+Thorchain,932760,N/A,N/A
+HashNet BitEco,932762,N/A,N/A
+D Community,932764,N/A,N/A
+Cai Token,932768,N/A,N/A
+Folgory Coin,932771,N/A,N/A
+Meconcash,932773,N/A,N/A
+7ELEVEN,932777,N/A,N/A
+Xtock,932780,N/A,N/A
+Lobstex,932785,Quark,PoS
+MargiX,932792,N/A,N/A
+DAD,932794,N/A,N/A
+Elitium,932796,N/A,N/A
+Soverain,932800,N/A,PoS
+Business Credit Substitute,932802,N/A,N/A
+TurboHigh Performance,932809,N/A,N/A
+TurkeyChain,932811,N/A,N/A
+Loctite Assets Token,932813,N/A,N/A
+Manson Coin,932817,N/A,N/A
+W1,932819,N/A,N/A
+OneFinBank Coin,932821,N/A,N/A
+COINBIG,932823,N/A,N/A
+Trade Chain,932825,N/A,N/A
+DrinkChain,932827,N/A,N/A
+Sport and Leisure,932829,N/A,N/A
+EOSForce,932831,N/A,PoS
+GLOS,932834,N/A,N/A
+Second Exchange Alliance,932839,N/A,N/A
+The Chain of Business Entertainment,932841,N/A,N/A
+Klaytn,932843,N/A,N/A
+DZCC,932847,N/A,N/A
+TRCB Chain,932858,N/A,N/A
+Troy,932868,N/A,N/A
+M+Plus,932874,N/A,N/A
+Alliance Chain,932879,N/A,N/A
+Football Coin,932881,N/A,N/A
+Wownero,932899,N/A,N/A
+Neutrino,932902,N/A,N/A
+ROAD,932904,N/A,N/A
+Brazilian Digital Token,932906,N/A,N/A
+GKi,932917,N/A,N/A
+Five balance,932922,N/A,N/A
+EveryCoin,932927,N/A,N/A
+PalletOneToken,932930,N/A,N/A
+Kusama,932932,N/A,N/A
+Trade Ecology Token,932934,N/A,N/A
+ECP+ Technology,932936,N/A,N/A
+BitGrin,932940,N/A,N/A
+ProducePay Chain,932951,N/A,N/A
+Connectome,932953,N/A,N/A
+SafeCapital,932959,N/A,N/A
+Filenet,932961,N/A,N/A
+Dynamite,932964,N/A,N/A
+Medium,932967,N/A,N/A
+Counos Coin,932969,Scrypt,N/A
+Digital Fund Coin,932975,N/A,N/A
+Quiztok,932977,N/A,N/A
+Global Tourism Sharing Ecology,932979,N/A,N/A
+Application Programming Interface,932981,N/A,N/A
+Resistance,932984,N/A,N/A
+AMAL,932986,N/A,N/A
+Bit Trust System,932988,N/A,PoW/PoS
+Marshal Lion Group Coin,932990,N/A,N/A
+PSC Token,932997,N/A,N/A
+Xinfin Network,933001,N/A,N/A
+Demeter Chain,933017,N/A,N/A
+Tellor,933019,N/A,N/A
+Truefeedback Token,933021,N/A,N/A
+Coinzen,933023,N/A,N/A
+SpectreSecurityCoin,933029,C11,N/A
+Orchid Protocol,933032,N/A,N/A
+USDG,933034,N/A,N/A
+Digital Gold,933114,N/A,N/A
+MarcoPolo Protocol,933119,N/A,N/A
+Limitless VIP,933121,PHI1612,PoS
+BOSAGORA,933125,N/A,N/A
+PlayFuel,933127,N/A,N/A
+CHARS,933130,N/A,N/A
+Tianya Token,933132,N/A,N/A
+Nevula,933134,NEP-5,N/A
+Compound SAI,933136,N/A,N/A
+Compound USD Coin,933138,N/A,N/A
+Compound Basic Attention Token,933140,N/A,N/A
+Compound 0x,933142,N/A,N/A
+Compound Augur,933143,N/A,N/A
+Compound Ethereum,933144,N/A,N/A
+Compound Dai,933146,N/A,N/A
+Compound Wrapped BTC,933149,N/A,N/A
+Fortem Capital,933153,N/A,N/A
+Bitcoin Turbo Koin,933157,Quark,PoS
+Davion,933159,N/A,N/A
+Tap,933174,N/A,N/A
+Zynecoin,933177,N/A,N/A
+EXMO Coin,933270,N/A,N/A
+CUTcoin,933273,CryptoNote,PoS
+VeChain Old,933298,VeChainThor Authority,Proof of Authority
+Litbinex Coin,933495,N/A,N/A
+Tachyon Protocol,933513,N/A,N/A
+Zano,933521,ProgPowZ,PoW/PoS
+CyberWay,933528,N/A,N/A
+NERVE,933532,N/A,N/A
+KOK Coin,933537,N/A,N/A
+Kahsh,933539,SHA-256,PoS
+Orient Walt,933541,N/A,N/A
+TerraKRW,933556,N/A,N/A
+NativeCoin,933559,N/A,PoS
+Ebakus,933562,N/A,N/A
+PegNet,933564,N/A,N/A
+Eureka Coin,933571,SHA-256,N/A
+BenePit,933578,N/A,N/A
+Tutor's Diary,933580,N/A,N/A
+apM Coin,933582,N/A,N/A
+BLTV Token,933584,N/A,N/A
+Renrenbit,933588,N/A,N/A
+MeshBox,933590,N/A,N/A
+Wiki Token,933593,N/A,N/A
+Hintchain,933595,N/A,N/A
+BananaTok,933599,N/A,N/A
+AXiaL,933601,N/A,N/A
+Bitcoin God,933603,N/A,N/A
+Ally,933606,N/A,N/A
+Coindy,933608,N/A,N/A
+Spock,933610,N/A,N/A
+HonestCoin,933613,N/A,N/A
+Game Ark,933618,N/A,N/A
+IDHUB,933624,N/A,N/A
+ioeX,933626,N/A,N/A
+LM Token,933628,N/A,N/A
+BIKI,933630,N/A,N/A
+DAppLinks,933632,N/A,N/A
+Dalichain,933634,N/A,N/A
+FairyLand,933636,N/A,N/A
+ThinkCoin,933646,N/A,N/A
+Ethereum Cloud,933655,N/A,N/A
+LUX BIO EXCHANGE COIN,933657,N/A,N/A
+Jobchain,933660,N/A,N/A
+VEIL,933664,X16RT,PoW/PoS
+Bitball,933666,N/A,N/A
+MEDIKEY,933668,N/A,N/A
+Taurus Coin,933670,N/A,N/A
+Bible Coin,933672,N/A,N/A
+Shrine Cloud Storage Network,933674,N/A,N/A
+Conceal,933679,CryptoNight,PoW
+SymVerse,933683,N/A,N/A
+SuperEdge,933685,N/A,N/A
+GoldFinX,933687,N/A,N/A
+SENNO,933689,N/A,N/A
+Blucon,933691,N/A,N/A
+GANA,933695,N/A,N/A
+Kaleido,933697,N/A,PoS
+NewsToken,933699,N/A,N/A
+FunKeyPay,933702,N/A,N/A
+Teslafunds,933704,Ethash,PoW
+AIDUS Token,933707,N/A,N/A
+SteepCoin,933709,X11,PoW/PoS
+01coin,933712,NeoScrypt,N/A
+YENTEN,933714,YespowerR16,PoW
+SCRIV,933716,Tribus,N/A
+Arepacoin,933720,Scrypt,N/A
+CHEESE,933722,N/A,PoW/PoS
+PEPS Coin,933725,Quark,PoW
+Neetcoin,933733,Scrypt,PoW/PoS
+OMEGA,933736,X11,N/A
+BBSCoin,933738,CryptoNight,N/A
+BZLCoin,933740,Tribus,N/A
+Cranepay,933743,YespowerR16,N/A
+GeyserCoin,933746,N/A,N/A
+Varius,933748,Scrypt,N/A
+Agetron,933764,Scrypt,PoW
+ZCore,933821,Quark,PoS
+Always Evolving,933824,Scrypt,PoW/PoS
+Strayacoin,933828,N/A,N/A
+EtherGem,933830,N/A,N/A
+Dextro,933832,SkunkHash v2 Raptor,PoS
+GOSSIP-Coin,933840,Quark,PoS
+Nyerium,933842,Quark,PoS
+Graviocoin,933844,Scrypt,PoW
+Teloscoin,933860,N/A,PoS
+Sierracoin,933862,N/A,PoS
+Vivid Coin,933864,N/A,N/A
+Rapids,933867,Quark,PoS
+PENG,933869,X11,PoS
+Merebel,933873,N/A,N/A
+Klimatas,933875,Quark,PoS
+Noir,933877,N/A,PoS
+BitcoinV,933879,SHA-256D,N/A
+X42 Protocol,933881,X13,PoS
+Swap,933884,N/A,N/A
+CrowdSale Network,933887,N/A,N/A
+Global Crypto Alliance,933889,N/A,N/A
+MoCo,933892,N/A,N/A
+Wavesbet,933894,N/A,N/A
+ARMR,933908,N/A,N/A
+DIVO Token,933912,N/A,N/A
+Wincash Coin,933915,SHA-256,PoW/PoS
+Hustle Token,933919,N/A,N/A
+Wolfs Group,933921,N/A,N/A
+Coinsbit Token,933922,N/A,N/A
+CTAGtoken,933924,N/A,N/A
+CryptoWorldNews,933926,N/A,N/A
+Handshake,933934,Blake2B + SHA3,PoW
+BlockMason Link,933937,N/A,N/A
+Joule,933939,N/A,N/A
+Vega Protocol,933948,N/A,N/A
+Bitcoin Confidential,933964,POS 3.0,PoS
+CoronaCoin,933970,N/A,N/A
+Era Swap Token,933985,N/A,N/A
+Ethereum eRush,933988,N/A,N/A
+USDA,933990,N/A,N/A
+Bitcoin CZ,933993,Lyra2Z,N/A
+Dobuy,933995,N/A,N/A
+BitKAM,933997,N/A,N/A
+EURBASE,933999,N/A,N/A
+SWYFT,934001,N/A,N/A
+Dogz,934004,N/A,N/A
+Wallet Plus X,934006,N/A,N/A
+POC Chain,934008,N/A,N/A
+GoldFund,934011,N/A,N/A
+Newscrypto Coin,934013,N/A,N/A
+Crypto Village Accelerator,934015,N/A,N/A
+JMTIME,934019,N/A,N/A
+Tether Gold,934021,N/A,N/A
+UrbanCasH,934024,CryptoNight,PoW
+EcoBall,934026,N/A,N/A
+Dash Cash,934029,N/A,N/A
+LiquidApps,934033,N/A,N/A
+Xenios,934040,N/A,PoW/PoS
+Allmedi Coin,934044,N/A,N/A
+NEO Name Credit,934052,N/A,N/A
+Connectchain,934054,N/A,N/A
+TWEEBAA,934056,N/A,N/A
+Korbot,934062,N/A,N/A
+3X Long EOS Token,934063,N/A,N/A
+3X Short XRP Token,934069,N/A,N/A
+Egoras Dollar,934072,N/A,N/A
+ALL BEST ICO,934078,N/A,N/A
+Electric Token,934080,N/A,N/A
+FK Coin,934084,N/A,N/A
+Scala,934092,N/A,N/A
+Sologenic,934099,N/A,N/A
+Birdchain,934104,N/A,N/A
+The ChampCoin,934106,N/A,N/A
+Aunit,934110,N/A,N/A
+3X Long BNB Token,934146,N/A,N/A
+3X Short BNB Token,934149,N/A,N/A
+ODX Token,934185,N/A,N/A
+BiLira,934211,N/A,N/A
+Golos Blockchain,934217,N/A,DPoS
+3X Long TRX Token,934270,N/A,N/A
+3X Short TRX Token,934271,N/A,N/A
+3X Long Litecoin Token,934287,N/A,N/A
+3X Short Litecoin Token,934288,N/A,N/A
+AAX Token,934291,N/A,N/A
+Binance KRW,934304,N/A,N/A
+Hive Dollar,934306,N/A,N/A
+Forkspot,934309,N/A,N/A
+Elamachain,934311,N/A,N/A
+Anchor,934315,N/A,N/A
+USDJ,934316,N/A,N/A
+Qcash,934318,N/A,N/A
+Allive,934320,N/A,N/A
+GazeCoin,934322,N/A,N/A
+Dacsee,934324,N/A,N/A
+nahmii,934326,N/A,N/A
+Universal Euro,934328,N/A,N/A
+Universal US Dollar,934329,N/A,N/A
+Universal Protocol Token,934330,N/A,N/A
+COINCOME,934332,N/A,N/A
+Energy Web Token,934334,N/A,N/A
+More Coin,934336,N/A,N/A
+HyperDAO,934340,N/A,N/A
+Euro Tether,934342,N/A,N/A
+LCX,934344,N/A,N/A
+Thx!,934363,N/A,N/A
+Cosplay Token,934367,N/A,N/A
+HOT Token,934369,N/A,N/A
+Muzika Network,934371,N/A,N/A
+Qfora,934374,N/A,N/A
+HUNT,934381,N/A,N/A
+VNX Exchange,934383,N/A,N/A
+AI Network,934385,N/A,N/A
+Portal,934387,N/A,N/A
+Intelligent Investment Chain,934389,N/A,N/A
+1X Short Bitcoin Token,934391,N/A,N/A
+300FIT,934393,N/A,N/A
+eToro Hong Kong Dollar,934411,N/A,N/A
+eToro Chinese Yuan,934413,N/A,N/A
+eToro New Zealand Dollar,934415,N/A,N/A
+eToro Swiss Franc,934421,N/A,N/A
+eToro Canadian Dollar,934423,N/A,N/A
+eToro US Dollar,934425,N/A,N/A
+eToro Japanese Yen,934427,N/A,N/A
+eToro Australian Dollar,934429,N/A,N/A
+eToro Gold,934431,N/A,N/A
+eToro South African Rand,934433,N/A,N/A
+eToro Turkish Lira,934435,N/A,N/A
+eToro Singapore Dollar,934437,N/A,N/A
+eToro Russian Ruble,934439,N/A,N/A
+eToro Polish Zloty,934441,N/A,N/A
+3X Short Exchange Token Index Token,934449,N/A,N/A
+3X Long Altcoin Index Token,934450,N/A,N/A
+3X Long Exchange Token Index Token,934451,N/A,N/A
+3X Short Altcoin Index Token,934452,N/A,N/A
+BitCherry,934462,N/A,N/A
+Zelerius,934464,CryptoNote,PoW
+PhiGold Coin,934466,N/A,N/A
+eToro Silver,934477,N/A,N/A
+DEAPCOIN,934479,N/A,N/A
+Castweet,934481,N/A,N/A
+Kingdom Game 4.0,934489,N/A,N/A
+Homeros,934491,N/A,N/A
+King Money,934493,N/A,N/A
+Latamcash,934495,N/A,N/A
+SynchroBitcoin,934497,N/A,N/A
+CRYPTOBUCKS,934499,N/A,N/A
+LinkArt,934501,N/A,N/A
+EU Coin,934506,N/A,N/A
+QUEENBEE,934508,N/A,N/A
+3X Long Bitcoin SV Token,934509,N/A,N/A
+3X Short Bitcoin SV Token,934510,N/A,N/A
+Two Prime FF1 Token,934512,N/A,N/A
+3X Long Bitcoin Cash Token,934513,N/A,N/A
+3X Short Bitcoin Cash Token,934514,N/A,N/A
+Isiklar Coin,934516,N/A,N/A
+Zuflo Coin,934518,N/A,N/A
+ChainX,934536,N/A,N/A
+Cartesi,934538,N/A,N/A
+MimbleWimbleCoin,934590,C31,PoW
+IQ.cash,934592,NeoScrypt,N/A
+Idena,934621,N/A,PoP
+IZEROIUM,934623,N/A,N/A
+Ixinium,934648,N/A,N/A
+SENSO,934650,N/A,N/A
+xDai Chain,934652,N/A,N/A
+1x Short BTC Implied Volatility Token,934653,N/A,N/A
+1x Long BTC Implied Volatility Token,934654,N/A,N/A
+SatoExchange Token,934661,N/A,N/A
+OBSERVER Coin,934663,N/A,N/A
+Unknown Fair Object,934665,N/A,N/A
+Bonorum Coin,934667,N/A,PoW/PoS
+AdsByWiFi,934669,N/A,N/A
+ALA,934671,N/A,N/A
+3X Long TezosToken,934720,N/A,N/A
+3X Short Tezos Token,934721,N/A,N/A
+Echoin,934725,N/A,N/A
+Bitcoin Token,934743,N/A,N/A
+Rhypton Club,934762,X11,PoW
+Amun Short Bitcoin Token,934795,N/A,N/A
+DucatusCoin,934807,N/A,N/A
+CryptoEnergy,934835,N/A,N/A
+JUST,934837,N/A,N/A
+Aave DAI,934842,N/A,N/A
+ZENZO,934844,N/A,PoS
+Nyzo,934855,N/A,N/A
+IdeaChain,934857,N/A,N/A
+Gleec Coin,934859,SHA-256,N/A
+Largo Coin,934861,SHA-256,N/A
+Rivex,934863,N/A,N/A
+Aragon Court,934867,N/A,N/A
+WeShow Token,934870,N/A,N/A
+EtherBone,934873,N/A,N/A
+PointPay,934877,N/A,N/A
+YOUengine,934883,N/A,N/A
+Cowrium,934887,N/A,N/A
+Irbis Network,934889,N/A,N/A
+Zetanet,934891,N/A,N/A
+Diagon,934893,N/A,N/A
+Transmutecoin,934900,N/A,N/A
+Gdigit,934902,N/A,N/A
+Crypto Tron,934904,N/A,N/A
+Lydian Lion,934906,N/A,N/A
+Seed of World,934908,N/A,N/A
+Personal Wager,934910,N/A,N/A
+Si14,934912,N/A,N/A
+NCrypto,934914,N/A,N/A
+Sphinks Token,934916,N/A,N/A
+Nova Mining,934918,N/A,N/A
+Tunez,934920,N/A,N/A
+Toxic,934922,N/A,N/A
+Social Chains,934924,N/A,N/A
+BrandProtect,934926,N/A,N/A
+Notarised,934928,N/A,N/A
+White Stripe Lottery,934936,N/A,N/A
+Encores Token,934938,N/A,N/A
+Sapien Wallet,934940,N/A,N/A
+SDATokens,934942,N/A,N/A
+IG-Crypto Holding,934944,N/A,N/A
+BNS token,934947,N/A,N/A
+PixelBit,934949,N/A,N/A
+Illuminates,934953,N/A,N/A
+Tycoon,934955,N/A,N/A
+Jupiter,934957,N/A,N/A
+JACS,934967,N/A,N/A
+Sensitrust,934971,N/A,N/A
+Weriz,934975,N/A,N/A
+ITAM Games,934980,N/A,N/A
+Woonkly,934982,N/A,N/A
+Switch,934985,N/A,N/A
+Crypto Price Index,934989,N/A,N/A
+Juiice,934991,N/A,N/A
+Trust Wallet Token,934995,N/A,N/A
+Metacoin,935007,N/A,N/A
+1irstGold,935012,N/A,N/A
+Loon Network,935014,N/A,N/A
+NDN Link,935018,N/A,N/A
+Global Game Coin,935024,N/A,N/A
+XIO,935036,N/A,N/A
+Uptrennd,935040,N/A,N/A
+Affil Coin,935045,N/A,N/A
+Banano,935047,Blake2b,N/A
+BBD Token,935049,N/A,N/A
+CoinDeal Token,935051,N/A,N/A
+Buzzshow,935053,N/A,N/A
+Tether CNH,935055,N/A,N/A
+BYD Company Limited,935056,N/A,N/A
+Xiaomi corp.,935057,N/A,N/A
+Alibaba Group Holding Limited,935058,N/A,N/A
+Teradyne,935059,N/A,N/A
+Ses Fdr,935060,N/A,N/A
+"TripAdvisor, Inc.",935061,N/A,N/A
+Apple Inc,935062,N/A,N/A
+PNC Financial Services Group,935066,N/A,N/A
+Exact Sciences Corporation,935067,N/A,N/A
+Ipsen,935068,N/A,N/A
+Stmicroelectronics Adr,935069,N/A,N/A
+Tesla,935070,N/A,N/A
+SmileDirectClub Inc,935071,N/A,N/A
+Jabil,935072,N/A,N/A
+Whiting Petroleum,935073,N/A,N/A
+Brent Crude Oil Spot,935074,N/A,N/A
+Bill.com Inc,935075,N/A,N/A
+Best Buy,935076,N/A,N/A
+Bilibili Inc.,935077,N/A,N/A
+Gamestop,935078,N/A,N/A
+Alcoa,935079,N/A,N/A
+Boston Scientific,935080,N/A,N/A
+Teleflex,935081,N/A,N/A
+NIKE Inc,935082,N/A,N/A
+Abbvie,935083,N/A,N/A
+Autonation,935084,N/A,N/A
+Advance Auto Parts,935085,N/A,N/A
+Antero Resources,935086,N/A,N/A
+Rh,935087,N/A,N/A
+Jc Penney,935088,N/A,N/A
+"EPAM Systems, Inc.",935089,N/A,N/A
+Activision Blizzard Inc,935090,N/A,N/A
+Wal-Mart Stores Inc,935091,N/A,N/A
+Boeing,935092,N/A,N/A
+Target Corp,935093,N/A,N/A
+Yandex N.V.,935095,N/A,N/A
+"Roku, Inc.",935096,N/A,N/A
+CVS Health,935097,N/A,N/A
+Citigroup Inc,935098,N/A,N/A
+Deutsche Lufthansa AG,935099,N/A,N/A
+"bluebird bio, Inc.",935100,N/A,N/A
+Ford Motor Co,935101,N/A,N/A
+Datadog Inc,935103,N/A,N/A
+Kellogg,935104,N/A,N/A
+Macys,935105,N/A,N/A
+Sohu.com Limited,935107,N/A,N/A
+Danaher,935108,N/A,N/A
+Textron,935109,N/A,N/A
+Us Silica Holdings,935110,N/A,N/A
+Ryder System,935111,N/A,N/A
+"Beyond Meat, Inc.",935112,N/A,N/A
+Sprint,935113,N/A,N/A
+International Business Machines Corp,935114,N/A,N/A
+XPO Logistics,935115,N/A,N/A
+Visa Inc,935116,N/A,N/A
+Wayfair Cl A,935117,N/A,N/A
+Vid,935136,N/A,N/A
+Maxonrow,935138,N/A,N/A
+TerraSDT,935139,N/A,Pos
+The Forbidden Forest,935141,N/A,N/A
+DDKoin,935143,Ed25519,DPoS
+Tixl,935145,N/A,N/A
+Liquid Bitcoin,935147,N/A,N/A
+Proton,935149,N/A,N/A
+Unicorn Technology International,935151,N/A,N/A
+FTSE China A50,935200,N/A,N/A
+Square Cl A,935201,N/A,N/A
+Chemours,935202,N/A,N/A
+NVIDIA,935203,N/A,N/A
+New Zealand Dollar,935204,N/A,N/A
+Twitter,935205,N/A,N/A
+"Match Group, Inc.",935206,N/A,N/A
+First Trust Nasdaq Transportation ETF,935207,N/A,N/A
+France 40,935208,N/A,N/A
+Southwestern Energy,935209,N/A,N/A
+Walt Disney,935210,N/A,N/A
+Intel Corporation,935211,N/A,N/A
+Incyte Corporation,935212,N/A,N/A
+Atlassian Corporation Plc,935213,N/A,N/A
+Amazon.com Inc,935214,N/A,N/A
+DowDuPont Inc.,935215,N/A,N/A
+"Alexion Pharmaceuticals, Inc.",935216,N/A,N/A
+Australian Dollar,935217,N/A,N/A
+Germany 30,935218,N/A,N/A
+Deere,935219,N/A,N/A
+Dollar General,935220,N/A,N/A
+"Sarepta Therapeutics, Inc.",935221,N/A,N/A
+Aperam S.A.,935222,N/A,N/A
+Chesapeake Energy Corp,935223,N/A,N/A
+The Kraft Heinz Company,935224,N/A,N/A
+Bed Bath & Beyond Inc.,935225,N/A,N/A
+"The Gap, Inc.",935226,N/A,N/A
+Adidas AG,935227,N/A,N/A
+Cronos Group Inc.,935228,N/A,N/A
+"Five Below, Inc.",935229,N/A,N/A
+Pbf Energy Cl A,935230,N/A,N/A
+"Tilray, Inc.",935231,N/A,N/A
+Grubhub,935232,N/A,N/A
+"Paycom Software, Inc.",935233,N/A,N/A
+Delphi Automotive,935234,N/A,N/A
+Alibaba Group Holding Limited,935235,N/A,N/A
+Nordstrom,935236,N/A,N/A
+Petroleo Brasileiro SA,935237,N/A,N/A
+Gold Spot,935238,N/A,N/A
+Swiss Franc,935239,N/A,N/A
+Amsterdam Exchange Index 25,935240,N/A,N/A
+Eastman Chemical,935241,N/A,N/A
+HCA Healthcare,935242,N/A,N/A
+"Puma Biotechnology, Inc.",935243,N/A,N/A
+Agnico Eagle,935244,N/A,N/A
+Signet Jewelers,935246,N/A,N/A
+Silver Spot,935247,N/A,N/A
+Sysco,935248,N/A,N/A
+ServiceNow,935249,N/A,N/A
+Vanguard S&P 500 ETF,935250,N/A,N/A
+"Exelixis, Inc.",935251,N/A,N/A
+"Intercept Pharmaceuticals, Inc.",935252,N/A,N/A
+Facebook,935253,N/A,N/A
+"Qorvo, Inc.",935254,N/A,N/A
+Oasis Petroleum,935255,N/A,N/A
+Cisco Systems,935256,N/A,N/A
+FTSE Borsa Italiana Index 40,935257,N/A,N/A
+Peloton Interactive Inc,935258,N/A,N/A
+GoPro Inc,935259,N/A,N/A
+GW Pharmaceuticals PLC,935260,N/A,N/A
+Total,935261,N/A,N/A
+Mallinckrodt,935262,N/A,N/A
+Weibo Corporation,935263,N/A,N/A
+"NetEase, Inc.",935264,N/A,N/A
+Microsoft,935265,N/A,N/A
+Shopify Cl A Sub Vtg,935266,N/A,N/A
+Walgreen Boots Alliance,935267,N/A,N/A
+Eli Lilly & Co,935268,N/A,N/A
+Infineon Technologies AG,935269,N/A,N/A
+General Dynamics,935270,N/A,N/A
+General Electric Co,935271,N/A,N/A
+Nektar Therapeutics,935272,N/A,N/A
+Momo Inc.,935273,N/A,N/A
+Big Lots,935274,N/A,N/A
+1Life Healthcare Inc,935275,N/A,N/A
+Energous Corporation,935276,N/A,N/A
+Ally Financial,935277,N/A,N/A
+Allergan,935278,N/A,N/A
+"Skyworks Solutions, Inc.",935279,N/A,N/A
+Canadian Dollar,935280,N/A,N/A
+Air France-Klm,935281,N/A,N/A
+The Goodyear Tire & Rubber Company,935282,N/A,N/A
+AZBI CORE,935287,N/A,N/A
+Derivex,935290,N/A,N/A
+Arweave,935292,SHA-256,PoW
+Assemble Protocol,935294,N/A,N/A
+GhostbyMcAfee,935296,N/A,N/A
+Hiblocks,935302,N/A,N/A
+Baozun Inc.,935304,N/A,N/A
+"T-Mobile US, Inc.",935305,N/A,N/A
+Cimarex Energy,935306,N/A,N/A
+"Clovis Oncology, Inc.",935307,N/A,N/A
+Pepsico,935311,N/A,N/A
+Teva Pharma Ind Adr Rep 1,935312,N/A,N/A
+"Intuitive Surgical, Inc.",935313,N/A,N/A
+"Baidu, Inc.",935314,N/A,N/A
+Pfizer Inc,935315,N/A,N/A
+ASM Pacific Technology Limited,935316,N/A,N/A
+"CommScope Holding Company, Inc.",935317,N/A,N/A
+Starbucks Corp,935318,N/A,N/A
+iRobot Corporation,935319,N/A,N/A
+Sberbank of Russia GDR,935320,N/A,N/A
+Volkswagen AG,935321,N/A,N/A
+YY Inc.,935322,N/A,N/A
+Gazprom PJSC ADR,935323,N/A,N/A
+"Dollar Tree, Inc.",935324,N/A,N/A
+International Paper,935325,N/A,N/A
+"Alnylam Pharmaceuticals, Inc.",935326,N/A,N/A
+Delta Air Lines,935327,N/A,N/A
+The Scotts Miracle-Gro Company,935328,N/A,N/A
+Macerich,935329,N/A,N/A
+AdvisorShares Pure Cannabis ETF,935330,N/A,N/A
+Fiverr International Ltd,935331,N/A,N/A
+First Solar Inc,935332,N/A,N/A
+"JinkoSolar Holding Co., Ltd.",935333,N/A,N/A
+ROONEX,935348,N/A,N/A
+King DAG,935350,N/A,N/A
+KVI Chain,935354,N/A,N/A
+DoDreamChain,935356,N/A,N/A
+3X Long PAX Gold Token,935359,N/A,N/A
+3X Short PAX Gold Token,935360,N/A,N/A
+0.5X Long PAX Gold Token,935361,N/A,N/A
+PhoenixDAO,935363,N/A,N/A
+HelixNetwork,935365,N/A,N/A
+Spice,935367,N/A,N/A
+GramGold Coin,935369,N/A,N/A
+Alchemy,935371,N/A,N/A
+SODA Coin,935373,N/A,N/A
+Gilead Sciences,935376,N/A,N/A
+Rite Aid,935377,N/A,N/A
+Apache,935378,N/A,N/A
+MGM Resorts International,935379,N/A,N/A
+Garmin Ltd.,935380,N/A,N/A
+Under Armour Cl A,935386,N/A,N/A
+Adient,935387,N/A,N/A
+LYFT,935388,N/A,N/A
+Slack Technologies Inc,935389,N/A,N/A
+Microchip Technology Incorporated,935390,N/A,N/A
+Marvell Technology Group Ltd.,935391,N/A,N/A
+S&P 500,935392,N/A,N/A
+Merck & Co Inc,935393,N/A,N/A
+Aurubis AG,935394,N/A,N/A
+Sony Corporation,935395,N/A,N/A
+Consol Energy,935396,N/A,N/A
+"21Vianet Group, Inc.",935397,N/A,N/A
+Wells Fargo & Co,935398,N/A,N/A
+QUALCOMM Inc,935399,N/A,N/A
+Spain 35,935400,N/A,N/A
+Fedex,935401,N/A,N/A
+Dow Jones 30,935402,N/A,N/A
+Tempur Sealy International,935403,N/A,N/A
+Netflix,935404,N/A,N/A
+Twilio Cl A,935408,N/A,N/A
+Coca-Cola,935409,N/A,N/A
+Resmed,935410,N/A,N/A
+Amun Bitcoin 3x Daily Long,935412,N/A,N/A
+Euro Stoxx 50,935414,N/A,N/A
+Daimler AG,935415,N/A,N/A
+Amun Bitcoin 3x Daily Short,935416,N/A,N/A
+BMW AG,935417,N/A,N/A
+Amun Ether 3x Daily Long,935418,N/A,N/A
+Delta Air Lines,935419,N/A,N/A
+McDonald's,935420,N/A,N/A
+Amun Ether 3x Daily Short,935421,N/A,N/A
+3X Short Cardano Token,935422,N/A,N/A
+3X Long Cardano Token,935423,N/A,N/A
+3X Long Matic Token,935424,N/A,N/A
+3X Short Matic Token,935425,N/A,N/A
+3X Long Cosmos Token,935426,N/A,N/A
+3X Short Cosmos Token,935427,N/A,N/A
+3X Long Algorand Token,935428,N/A,N/A
+3X Short Algorand Token,935429,N/A,N/A
+3X Long Kyber Network Token,935430,N/A,N/A
+3X Long Theta Network Token,935431,N/A,N/A
+3X Short Kyber Network Token,935432,N/A,N/A
+3X Short Shitcoin Index Token,935433,N/A,N/A
+3X Long Ethereum Classic Token,935434,N/A,N/A
+3X Short Ethereum Classic Token,935435,N/A,N/A
+3X Short TomoChain Token,935436,N/A,N/A
+3X Long TomoChain Token,935437,N/A,N/A
+3X Short Dragon Index Token,935438,N/A,N/A
+3X Long Dragon Index Token,935439,N/A,N/A
+3X Short Theta Network Token,935440,N/A,N/A
+3X Short Midcap Index Token,935441,N/A,N/A
+3X Long Midcap Index Token,935442,N/A,N/A
+3X Short OKB Token,935443,N/A,N/A
+3X Long OKB Token,935444,N/A,N/A
+3X Short BitMax Token Token,935445,N/A,N/A
+3X Long BitMax Token Token,935446,N/A,N/A
+3X Long LEO Token,935447,N/A,N/A
+3X Short LEO Token,935448,N/A,N/A
+3X Short Huobi Token Token,935449,N/A,N/A
+3X Long Huobi Token Token,935450,N/A,N/A
+3X Long Dogecoin Token,935451,N/A,N/A
+3X Short Dogecoin Token,935452,N/A,N/A
+3X Short Privacy Index Token,935453,N/A,N/A
+3X Long Privacy Index Token,935454,N/A,N/A
+3X Long Tether Token,935456,N/A,N/A
+3X Short Tether Token,935457,N/A,N/A
+Workday Inc,935460,N/A,N/A
+Snap,935461,N/A,N/A
+Alibaba Health Information Technology Limited,935463,N/A,N/A
+Huami Corporation,935464,N/A,N/A
+Health Care Select Sector SPDR Fund,935466,N/A,N/A
+PayPal Holdings,935467,N/A,N/A
+Sistema PJSFC GDR,935468,N/A,N/A
+Uber Technologies Inc,935469,N/A,N/A
+Validity,935481,N/A,N/A
+Nextera Energy,935485,N/A,N/A
+"Copart, Inc.",935486,N/A,N/A
+Campbell Soup,935487,N/A,N/A
+L Brands,935488,N/A,N/A
+Newmont Mining,935489,N/A,N/A
+Adaptive Biotechnologies Corporation,935490,N/A,N/A
+Eutelsat Communications,935491,N/A,N/A
+Cloudflare Inc.,935492,N/A,N/A
+"Overstock.com, Inc.",935493,N/A,N/A
+Amundi,935496,N/A,N/A
+BioMarin Pharmaceutical Inc,935497,N/A,N/A
+Platinum Spot,935498,N/A,N/A
+"Take-Two Interactive Software, Inc.",935499,N/A,N/A
+Norwegian Cruise Line Holdings Ltd.,935500,N/A,N/A
+Alphabet Inc,935501,N/A,N/A
+Biontech SE,935502,N/A,N/A
+Edf,935503,N/A,N/A
+Commerzbank AG,935504,N/A,N/A
+OneConnect,935505,N/A,N/A
+Expedia Inc,935506,N/A,N/A
+Johnson & Johnson,935507,N/A,N/A
+JPMorgan Chase,935508,N/A,N/A
+Vanguard Information Technology ETF,935509,N/A,N/A
+Biogen Inc.,935510,N/A,N/A
+"Patterson-UTI Energy, Inc.",935511,N/A,N/A
+"Steel Dynamics, Inc.",935512,N/A,N/A
+Thomson Reuters,935513,N/A,N/A
+Galapagos NV,935514,N/A,N/A
+Yelp,935515,N/A,N/A
+Arconic,935516,N/A,N/A
+Adobe Systems Inc,935517,N/A,N/A
+"Sage Therapeutics, Inc.",935518,N/A,N/A
+Lukoil PJSC ADR,935519,N/A,N/A
+eBay,935520,N/A,N/A
+Deutsche Bank AG,935521,N/A,N/A
+Palladium Spot,935522,N/A,N/A
+Oracle,935523,N/A,N/A
+LexinFintech Holdings Ltd.,935524,N/A,N/A
+Conagra Brands Inc,935525,N/A,N/A
+Covestro AG,935526,N/A,N/A
+"Micron Technology, Inc.",935527,N/A,N/A
+Superi Ener Svcs,935528,N/A,N/A
+Catalent Inc,935529,N/A,N/A
+Ciena,935530,N/A,N/A
+ETFMG Alternative Harvest ETF,935531,N/A,N/A
+DropBox,935532,N/A,N/A
+Advanced Micro Devices Inc,935533,N/A,N/A
+"Xilinx, Inc.",935534,N/A,N/A
+Lvmh Moet Hennessy Louis Vuitton Se,935536,N/A,N/A
+Mastercard Inc,935537,N/A,N/A
+Renault Par,935538,N/A,N/A
+Farfetch Ltd,935539,N/A,N/A
+"Obrascón Huarte Lain, S.A.",935540,N/A,N/A
+Teradyne,935541,N/A,N/A
+"TripAdvisor, Inc.",935542,N/A,N/A
+Compound,935546,N/A,N/A
+CACHE Gold,935556,N/A,N/A
+UMA,935562,N/A,N/A
+cUSDT,935625,N/A,N/A
+Bitball Treasure,935632,N/A,N/A
+Celo,935634,N/A,N/A
+DarkPayCoin,935690,N/A,N/A
+BTCUP,935691,N/A,N/A
+BTCDOWN,935692,N/A,N/A
+Binance IDR Stable Coin,935693,N/A,N/A
+Balancer,935695,N/A,N/A
+Dawn Protocol,935697,N/A,N/A
+IDK,935701,N/A,N/A
+BTSE Token,935703,N/A,N/A
+PAMP Network,935715,N/A,N/A
+Codeo Token,935723,N/A,N/A
+Membership Placeholders,935736,N/A,N/A
+DMM: Governance,935740,N/A,N/A
+BTEcoin,935742,N/A,N/A
+Lucy,935744,N/A,N/A
+Pool-X,935747,N/A,N/A
+Perth Mint Gold Token,935752,N/A,N/A
+Paparazzi,935754,N/A,N/A
+Prediqt,935761,N/A,N/A
+Ispolink,935763,N/A,N/A
+SilkRoadCoin,935767,N/A,N/A
+Crypto Commonwealth,935775,N/A,N/A
+LocalAgro,935777,N/A,N/A
+KardiaChain,935779,N/A,N/A
+BASIC,935781,N/A,N/A
+VARC,935783,N/A,N/A
+Treecle,935787,N/A,N/A
+ReFork,935790,N/A,N/A
+Innou,935797,N/A,N/A
+CoinVisa,935799,N/A,N/A
+Zillios,935801,N/A,N/A
+Jur,935803,N/A,N/A
+OZAPHYRE,935807,N/A,N/A
+Sable Coin,935809,N/A,N/A
+Keep Network,935831,N/A,N/A
+Barkis Network,935833,N/A,N/A
+CounosX,935835,N/A,N/A
+BitcoinPoS,935837,N/A,PoS
+RAKUN,935839,N/A,N/A
+DARMA Cash,935841,N/A,PoS
+PLAAS FARMERS TOKEN,935843,N/A,N/A
+Coineal Token,935845,N/A,N/A
+Amaten,935852,N/A,N/A
+VEDX TOKEN,935854,N/A,N/A
+Waves Enterprise,935856,N/A,N/A
+Barter,935862,N/A,N/A
+Union Fair Coin,935867,N/A,N/A
+To The Moon,935869,N/A,N/A
+ETHUP,935871,N/A,N/A
+ETHDOWN,935872,N/A,N/A
+LINKDOWN,935874,N/A,N/A
+LINKUP,935875,N/A,N/A
+ADADOWN,935876,N/A,N/A
+ADAUP,935877,N/A,N/A
+Index Chain,935879,N/A,N/A
+Finxflo,935884,N/A,N/A
+Oikos,935894,N/A,N/A
+Xank,935896,N/A,N/A
+Balloon-X,935903,N/A,N/A
+DEXTools,935905,N/A,N/A
+4THPILLAR TECHNOLOGIES,935907,N/A,N/A
+Defis,935909,Equihash,N/A
+Aleph.im,935911,N/A,N/A
+STONK,935913,N/A,N/A
+Native XBTPro Exchange Token,935915,N/A,N/A
+Meta,935917,N/A,N/A
+DeFiChain,935924,N/A,N/A
+Decentr,935955,N/A,N/A
+ECOChain,935957,N/A,N/A
+ProBit Token,935959,N/A,N/A
+Vectorspace AI,935961,N/A,N/A
+Sora,935963,N/A,N/A
+DEMOS,935971,N/A,PoW+PoS
+Nest Protocol,935984,N/A,N/A
+Hey Bitcoin,935986,N/A,N/A
+Ulgen Hash Power,935988,N/A,N/A
+Imsmart,935995,N/A,N/A
+GeoDB,935997,N/A,N/A
+UBU,935999,N/A,N/A
+DigiDinar Token,936003,N/A,N/A
+MCDEX,936005,N/A,N/A
+Attila,936007,N/A,N/A
+HOMIHELP,936011,N/A,N/A
+Centric Cash,936022,N/A,N/A
+Tendies,936024,N/A,N/A
+MDUKEY,936026,N/A,N/A
+Antiample,936028,N/A,N/A
+FOCV,936030,N/A,N/A
+INRToken,936032,N/A,N/A
+Lider Token,936039,N/A,N/A
+Darwinia Commitment Token,936041,N/A,N/A
+SUKU,936043,N/A,N/A
+FEX Token,936045,N/A,N/A
+DIA,936047,N/A,N/A
+AOS,936049,N/A,N/A
+dForce,936051,N/A,N/A
+BlackPearl Token,936053,N/A,N/A
+AICON,936055,N/A,N/A
+Flits,936062,Quark,PoW/PoS
+ETHPlus,936064,N/A,N/A
+MiL.k,936067,N/A,N/A
+Liquidity Dividends Protocol,936069,N/A,N/A
+Cream,936071,N/A,N/A
+Geeq,936092,N/A,N/A
+SafePost,936094,N/A,N/A
+DeFiPie,936098,N/A,N/A
+RMPL,936100,N/A,N/A
+Robonomics.network,936102,N/A,N/A
+MangoChain,936104,N/A,N/A
+Jubi Token,936106,N/A,N/A
+Zenon,936116,Quark,N/A
+Serum,936118,N/A,N/A
+Edgeware,936124,N/A,N/A
+Anchor Neural World,936130,N/A,N/A
+Curve DAO Token,936137,N/A,N/A
+BDCC COIN,936139,N/A,N/A
+CorionX,936165,N/A,N/A
+Parachute,936173,N/A,N/A
+CBDAO,936175,N/A,N/A
+PeerEx Network,936177,N/A,N/A
+Long BNB with Up to 3x Leverage,936186,N/A,N/A
+Short BNB with Up to 3x Leverage,936187,N/A,N/A
+Long Tezos with Up to 3x Leverage,936188,N/A,N/A
+Short Tezos with Up to 3x Leverage,936189,N/A,N/A
+PARSIQ,936197,N/A,N/A
+Blocery,936199,N/A,N/A
+4ART Coin,936212,N/A,N/A
+Bitcoin Captain,936214,N/A,N/A
+DFI.money,936218,N/A,N/A
+TrustDAO,936220,N/A,N/A
+YF Link,936222,N/A,N/A
+Ethverse,936235,N/A,N/A
+ReapChain,936237,N/A,N/A
+Bridge Protocol,936239,N/A,N/A
+DeFinition,936241,N/A,N/A
+Zelwin,936243,N/A,N/A
+BarterTrade,936245,N/A,N/A
+Paris Saint-Germain Fan Token,936254,N/A,N/A
+HUPAYX,936258,N/A,N/A
+SkyHub Coin,936260,N/A,PoS
+Robonomics Web Services,936268,N/A,N/A
+Zin Finance,936271,N/A,N/A
+Kulupu,936281,N/A,PoW
+ZelaaPayAE,936285,N/A,N/A
+Uni Token,936288,N/A,N/A
+Hakka Finance,936301,N/A,N/A
+Jarvis Reward Token,936303,N/A,N/A
+SatoPay,936315,N/A,N/A
+Heart Number,936319,N/A,N/A
+DegenVC,936321,N/A,N/A
+Port of DeFi Network,936324,N/A,N/A
+Rug,936327,N/A,N/A
+Concentrated Voting Power,936328,N/A,N/A
+CAT.trade Protocol,936331,N/A,N/A
+DeFi Omega,936334,N/A,N/A
+Newtonium,936336,N/A,N/A
+Vidya,936339,N/A,N/A
+Standard Crypto Fund,936342,N/A,N/A
+Libfx,936344,N/A,N/A
+FME,936354,N/A,N/A
+Based Money,936356,N/A,N/A
+yffi finance,936359,N/A,N/A
+Klever,936362,N/A,N/A
+Scrypta,936366,N/A,N/A
+Statera,936368,N/A,N/A
+Pearl Finance,936370,N/A,N/A
+tBridge Token,936372,N/A,N/A
+Dextoken Governance,936377,N/A,N/A
+YFISCURITY,936379,N/A,N/A
+Chain Games,936384,N/A,N/A
+OIN Finance,936387,N/A,N/A
+Soft Link,936389,N/A,N/A
+TomaInfo,936391,N/A,N/A
+Unifi,936393,N/A,N/A
+DACC2,936395,N/A,N/A
+Social Finance,936397,N/A,N/A
+YFIVE FINANCE,936401,N/A,N/A
+Bast,936403,N/A,N/A
+YFIEXCHANGE.FINANCE,936404,N/A,N/A
+Relevant,936407,N/A,N/A
+Open Predict Token,936410,N/A,N/A
+Insight Protocol,936412,N/A,N/A
+TerraUSD,936422,N/A,PoS
+Trustlines Network,936443,N/A,N/A
+Karma DAO,936449,N/A,N/A
+CORN,936451,N/A,N/A
+Salmon,936454,N/A,N/A
+JackPool.finance,936457,N/A,N/A
+QOOBER,936459,N/A,N/A
+MATH,936465,N/A,N/A
+Seed Venture,936469,N/A,N/A
+LGO Token,936474,N/A,N/A
+Celo Dollar,936477,N/A,N/A
+Offshift,936479,N/A,N/A
+Sun Token,936492,N/A,N/A
+Swerve,936494,N/A,N/A
+EOSUP,936495,N/A,N/A
+EOSDOWN,936496,N/A,N/A
+TRXUP,936497,N/A,N/A
+TRXDOWN,936498,N/A,N/A
+XRPUP,936499,N/A,N/A
+XRPDOWN,936500,N/A,N/A
+DOTUP,936501,N/A,N/A
+DOTDOWN,936502,N/A,N/A
+UniPower,936504,N/A,N/A
+Universal Money Intrument,936533,N/A,PoA
+Hedget,936549,N/A,N/A
+LTCUP,936550,N/A,N/A
+LTCDOWN,936551,N/A,N/A
+Ravencoin Classic,936553,X16R,PoW
+Phala Network,936555,N/A,N/A
+Carr.Finance,936557,N/A,N/A
+yieldfarming.insure,936561,N/A,N/A
+Unification,936563,N/A,N/A
+Crypton,936565,N/A,N/A
+Tyslin,936567,N/A,N/A
+Alchemy Pay,936576,N/A,N/A
+XT.com Token,936581,N/A,N/A
+Sashimi,936594,N/A,N/A
+unibot.cash,936596,N/A,N/A
+SakeToken,936598,N/A,N/A
+yffc.finance,936600,N/A,N/A
+Zeedex,936602,N/A,N/A
+YFARM Token,936608,N/A,N/A
+CHADS VC,936611,N/A,N/A
+Katana Finance,936613,N/A,N/A
+AlphaLink,936619,N/A,N/A
+CNY Tether,936621,N/A,N/A
+Zyro,936633,N/A,N/A
+Printer.Finance,936636,N/A,N/A
+WinPlay,936640,N/A,N/A
+Pofid Dao,936643,N/A,N/A
+DefiBox,936645,N/A,N/A
+Vybe,936647,N/A,N/A
+Squirrel Finance,936649,N/A,N/A
+Tribute,936652,N/A,N/A
+3X Long Sushi Token,936656,N/A,N/A
+3X Short Sushi Token,936657,N/A,N/A
+3X Long Uniswap Index Token,936658,N/A,N/A
+3X Short Uniswap Index Token,936659,N/A,N/A
+Xplosive Ethereum,936662,N/A,N/A
+YFFII Finance,936665,N/A,N/A
+Etherpay,936668,N/A,N/A
+Jiaozi,936671,N/A,N/A
+OFIN Token,936673,N/A,N/A
+StarCurve,936675,N/A,N/A
+Permission Coin,936677,N/A,N/A
+Eco Value Coin,936692,N/A,N/A
+Rotharium,936694,N/A,N/A
+ArdCoin,936696,N/A,N/A
+Neutrino System Base Token,936699,N/A,N/A
+DogeCash,936701,N/A,N/A
+Quasarcoin,936703,N/A,N/A
+Historia,936705,N/A,N/A
+Crazy8Token,936707,N/A,N/A
+Daikicoin,936709,N/A,N/A
+BaconCoin,936711,N/A,N/A
+Davies,936713,N/A,N/A
+bitCEO,936717,N/A,N/A
+BitCash,936728,N/A,N/A
+Lukki Operating Token,936730,N/A,N/A
+Bitcoin Classic,936732,N/A,N/A
+Dreamscape,936734,N/A,N/A
+inSure,936736,N/A,N/A
+RoboCalls,936738,N/A,N/A
+TouchCon,936740,N/A,N/A
+New BitShares,936742,N/A,N/A
+Semi Centralized Finance,936744,N/A,N/A
+GSTCOIN,936746,N/A,N/A
+Chives Finance,936748,N/A,N/A
+Gala,936750,N/A,N/A
+LGCY Network,936754,N/A,N/A
+Uniris,936756,N/A,N/A
+Realio Network,936758,N/A,N/A
+dHedge DAO,936760,N/A,N/A
+Chi Gastoken,936762,N/A,N/A
+Ystar,936776,N/A,N/A
+Kassia Home,936781,N/A,N/A
+DABANKING,936784,N/A,N/A
+YFF.Finance,936792,N/A,N/A
+MOJI Experience Points,936794,N/A,N/A
+DTOP Token,936796,N/A,N/A
+Gold Poker,936798,N/A,N/A
+MFCoin,936802,N/A,N/A
+Sparkle Loyalty,936804,N/A,N/A
+Sombe,936806,N/A,N/A
+SBank,936808,N/A,N/A
+Flamingo,936810,N/A,N/A
+yfBeta,936812,N/A,N/A
+Diabolo,936816,N/A,N/A
+PowerTrade Fuel,936821,N/A,N/A
+Avalanche IOU,936832,N/A,N/A
+Rope,936846,N/A,N/A
+Velo,936848,N/A,N/A
+Burger Swap,936850,N/A,N/A
+Mini,936854,N/A,N/A
+Eminence,936859,N/A,N/A
+ONBUFF,936863,N/A,N/A
+TitanSwap,936865,N/A,N/A
+Aegis,936867,N/A,N/A
+Crust Network,936869,N/A,N/A
+Wrapped BNB,936872,N/A,N/A
+Lua Token,936874,N/A,N/A
+Aave ETH,936875,N/A,N/A
+ISTARDUST,936878,N/A,N/A
+PancakeSwap,936880,N/A,N/A
+Basid Coin,936890,N/A,N/A
+Beowulf,936893,N/A,N/A
+Yearn Finance Bit,936895,N/A,N/A
+Fame,936901,N/A,N/A
+MixTrust,936903,N/A,N/A
+Unlimited FiscusFYI,936906,N/A,N/A
+PoorFag,936909,N/A,N/A
+Next Innovation,936913,N/A,N/A
+S.Finance,936925,N/A,N/A
+Pajama.Finance,936929,N/A,N/A
+UNII Finance,936931,N/A,N/A
+Epic,936960,N/A,N/A
+Venus,936964,N/A,N/A
+Xfinance,936973,N/A,N/A
+cVault.finance,936975,N/A,N/A
+Bidao,936977,N/A,N/A
+KingSwap,936979,N/A,N/A
+DAO.VC,936982,N/A,N/A
+HotNow,936985,N/A,N/A
+Starname,936989,N/A,N/A
+HLP Token,936991,N/A,N/A
+TRONbetDice,936993,N/A,N/A
+Betherchip,936998,N/A,N/A
+AXEL,937003,N/A,N/A
+TomoChain ERC-20,937009,N/A,N/A
+Kompass,937011,N/A,N/A
+Financial Investment Token,937015,N/A,N/A
+BigBang Core,937025,N/A,N/A
+XSwap,937029,N/A,N/A
+TriumphX,937033,N/A,N/A
+Dify.Finance,937041,N/A,N/A
+PlayDapp,937045,N/A,N/A
+Burency,937047,N/A,N/A
+Consensus Cell Network,937049,N/A,N/A
+UNIUP,937050,BNB Token,N/A
+UNIDOWN,937051,BNB Token,N/A
+KittenFinance,937068,N/A,N/A
+Dune,937091,N/A,N/A
+UCA Coin,937103,N/A,N/A
+WiBX,937107,N/A,N/A
+Digi Dinar,937109,N/A,N/A
+Blockchain Cuties Universe,937111,N/A,N/A
+SYB Coin,937113,N/A,N/A
+PlatonCoin,937121,N/A,N/A
+USGold,937123,N/A,N/A
+Seal Finance,937125,N/A,N/A
+OctoFi,937130,N/A,N/A
+Mobilian Coin,937132,N/A,N/A
+BitTiger,937135,N/A,N/A
+OWL Token,937140,N/A,N/A
+EasyFi,937143,N/A,N/A
+DeXe,937147,N/A,N/A
+Stabilize,937156,N/A,N/A
+Zenfuse,937158,N/A,N/A
+SXPUP,937159,N/A,N/A
+SXPDOWN,937160,N/A,N/A
+YUSRA,937163,N/A,N/A
+InterPlanetary Search Engine,937187,N/A,N/A
+ASTA,937209,N/A,N/A
+NuCypher,937212,N/A,N/A
+FILUP,937228,N/A,N/A
+FILDOWN,937229,N/A,N/A
+YFIUP,937230,N/A,N/A
+YFIDOWN,937231,N/A,N/A
+Helex,937233,N/A,N/A
+UniLend Finance,937247,N/A,N/A
+Akash Network,937249,N/A,N/A
+ZeroSwap,937251,N/A,N/A
+Nice,937253,N/A,N/A
+UpBots,937255,N/A,N/A
+LCG,937257,N/A,N/A
+SWAG Finance,937259,N/A,N/A
+1X Short Huobi Token Token,937265,N/A,N/A
+0.5X Long Huobi Token Token,937266,N/A,N/A
+1X Short Shitcoin Index Token,937267,N/A,N/A
+0.5X Long Shitcoin Index Token,937268,N/A,N/A
+0.5X Long Bitcoin Token,937269,N/A,N/A
+1X Short Exchange Token Index Token,937270,N/A,N/A
+0.5X Long Exchange Token Index Token,937271,N/A,N/A
+1X Short Ethereum Token,937272,N/A,N/A
+0.5X Long Ethereum Token,937273,N/A,N/A
+1X Short Ethereum Classic Token,937274,N/A,N/A
+0.5X Long Ethereum Classic Token,937275,N/A,N/A
+1X Short EOS Token,937276,N/A,N/A
+0.5X Long EOS Token,937277,N/A,N/A
+1X Short Dragon Index Token,937278,N/A,N/A
+0.5X Long Dragon Index Token,937279,N/A,N/A
+1X Short Dogecoin Token,937280,N/A,N/A
+0.5X Long Dogecoin Token,937281,N/A,N/A
+3X Long DMM Governance Token,937282,N/A,N/A
+3X Short DMM Governance Token,937283,N/A,N/A
+1X Short DeFi Index Token,937284,N/A,N/A
+0.5X Long DeFi Index Token,937285,N/A,N/A
+3X Long DeFi Index Token,937286,N/A,N/A
+3X Short DeFi Index Token,937287,N/A,N/A
+1X Short Compound USDT Token,937288,N/A,N/A
+0.5X Long Compound USDT Token,937289,N/A,N/A
+3X Long Compound USDT Token,937290,N/A,N/A
+3X Short Compound USDT Token,937291,N/A,N/A
+1X Short Compound Token Token,937292,N/A,N/A
+0.5X Long Compound Token Token,937293,N/A,N/A
+3X Long Compound Token Token,937295,N/A,N/A
+3X Short Compound Token Token,937296,N/A,N/A
+3X Long Shitcoin Index Token,937297,N/A,N/A
+1X Short BitMax Token Token,937298,N/A,N/A
+0.5X Long BitMax Token Token,937299,N/A,N/A
+1X Short Bitcoin SV Token,937300,N/A,N/A
+0.5X Long Bitcoin SV Token,937301,N/A,N/A
+1X Short BNB Token,937302,N/A,N/A
+0.5X Long BNB Token,937303,N/A,N/A
+1X Short Bitcoin Cash Token,937304,N/A,N/A
+0.5X Long Bitcoin Cash Token,937305,N/A,N/A
+1X Short Balancer Token,937306,N/A,N/A
+0.5X Long Balancer Token,937307,N/A,N/A
+3X Long Balancer Token,937308,N/A,N/A
+3X Short Balancer Token,937309,N/A,N/A
+1X Short Cosmos Token,937310,N/A,N/A
+0.5X Long Cosmos Token,937313,N/A,N/A
+1X Short Altcoin Index Token,937314,N/A,N/A
+0.5X Long Altcoin Index Token,937315,N/A,N/A
+1X Short Algorand Token,937316,N/A,N/A
+0.5X Long Algorand Token,937317,N/A,N/A
+1X Short Cardano Token,937318,N/A,N/A
+0.5X Long Cardano Token,937319,N/A,N/A
+Speed Coin,937321,Scrypt,N/A
+3X Long BiLira Token,937324,N/A,N/A
+3X Short BiLira Token,937325,N/A,N/A
+1X Short TRX Token,937326,N/A,N/A
+0.5X Long TRX Token,937327,N/A,N/A
+1X Short TomoChain Token,937328,N/A,N/A
+0.5X Long TomoChain Token,937329,N/A,N/A
+0.5X Long BiLira Token,937330,N/A,N/A
+1X Short Theta Network Token,937331,N/A,N/A
+3X Short VeChain Token,937332,N/A,N/A
+1X Short Swipe Token,937333,N/A,N/A
+1X Short BiLira Token,937334,N/A,N/A
+0.5X Long Swipe Token,937336,N/A,N/A
+3X Long Swipe Token,937337,N/A,N/A
+3X Short Swipe Token,937338,N/A,N/A
+1X Short Privacy Index Token,937339,N/A,N/A
+0.5X Long Privacy Index Token,937340,N/A,N/A
+1X Short PAX Gold Token,937341,N/A,N/A
+1X Short OKB Token,937342,N/A,N/A
+0.5X Long OKB Token,937343,N/A,N/A
+3X Long Maker Token,937345,N/A,N/A
+3X Short Maker Token,937346,N/A,N/A
+1X Short Midcap Index Token,937347,N/A,N/A
+0.5X Long Midcap Index Token,937348,N/A,N/A
+1X Short Matic Token,937349,N/A,N/A
+0.5X Long Matic Token,937350,N/A,N/A
+1X Short Litecoin Token,937351,N/A,N/A
+0.5X Long Litecoin Token,937352,N/A,N/A
+1X Short Chainlink Token,937353,N/A,N/A
+0.5X Long Chainlink Token,937354,N/A,N/A
+1X Short LEO Token,937355,N/A,N/A
+0.5X Long LEO Token,937356,N/A,N/A
+1X Short Kyber Network Token,937357,N/A,N/A
+0.5X Long Kyber Network Token,937358,N/A,N/A
+Apiary Fund Coin,937360,N/A,N/A
+Hamster Marketplace Token,808292,N/A,N/A
+HUMAN Token,937379,N/A,N/A
+HeartBout Pay,937386,N/A,N/A
+Alpha Quark Token,937389,N/A,N/A
+Honey,937391,N/A,N/A
+Camp,937393,N/A,N/A
+Kore,5318,X13,PoW/PoS
+KORE Vault,937395,N/A,N/A
+RAMP,937397,N/A,N/A
+JustBet,937402,N/A,N/A
+Digital Reserve Currency,937404,N/A,N/A
+1X Short Tezos Token,937405,N/A,N/A
+0.5X Long Tezos Token,937406,N/A,N/A
+1X Short XRP Token,937407,N/A,N/A
+0.5X Long XRP Token,937408,N/A,N/A
+1X Short Tether Gold Token,937409,N/A,N/A
+0.5X Long Tether Gold Token,937410,N/A,N/A
+3X Long Tether Gold Token,937411,N/A,N/A
+3X Short Tether Gold Token,937412,N/A,N/A
+1X Short VeChain Token,937413,N/A,N/A
+3X Long VeChain Token,937414,N/A,N/A
+PRIA,937416,N/A,N/A
+FARM Coin,847476,N/A,PoS
+Harvest Finance,937418,N/A,N/A
+Datamine,937420,N/A,N/A
+Audius,937428,N/A,N/A
+HollaEx,934203,N/A,N/A
+Rush,937443,N/A,N/A
+Axia,937445,N/A,N/A
+WeBlock,937447,N/A,N/A
+BoringDAO,937449,N/A,N/A
+NuBits,5287,SHA-256,PoS
+NIX Bridge Token,937451,N/A,N/A
+Sergey Save Link,937454,N/A,N/A
+FolgoryUSD,936316,N/A,N/A
+Stream Protocol,937461,N/A,N/A
+Darwinia Network,935990,N/A,N/A
+Pundi X,731516,N/A,N/A
+sUSD,928087,N/A,N/A
+DREP,930345,N/A,N/A
+FunFair,178978,N/A,N/A
+SingularityNET,710156,N/A,N/A
+Quoine Liquid,402714,N/A,N/A
+Voyager Token,141464,N/A,N/A
+STP Network,930849,N/A,N/A
+CNNS,931123,N/A,N/A
+Davinci Coin,931472,N/A,N/A
+Civic,139467,N/A,N/A
+Innovation Blockchain Payment,937467,N/A,N/A
+Velox,804376,Scrypt,PoS
+Velas,932746,N/A,PoS
+tBTC,937369,N/A,N/A
+Reserve,935298,N/A,N/A
+Yobit Token,932730,N/A,N/A
+Contentos,927166,N/A,N/A
+APIX,933586,N/A,N/A
+3X Long Bitcoin Token,934064,N/A,N/A
+Quantstamp,397757,N/A,N/A
+Cortex,856139,N/A,N/A
+RAKON,933535,N/A,N/A
+Bitkan,925339,N/A,N/A
+ARPA Chain,931523,N/A,N/A
+ROOBEE,931134,N/A,PoS
+StormX,935195,N/A,N/A
+BitMart Coin,901906,N/A,N/A
+Mainframe,917211,N/A,N/A
+Metal,179164,N/A,PoPP
+RING X PLATFORM,935699,N/A,N/A
+cCOMP,937477,N/A,N/A
+ATROMG8,937479,N/A,N/A
+PEAKDEFI,937482,N/A,N/A
+Wootrade,937487,N/A,N/A
+ECOSC,937489,N/A,N/A
+Ducato Protocol Token,937491,N/A,N/A
+BCHUP,937492,N/A,N/A
+BCHDOWN,937493,N/A,N/A
+Centaur,937498,N/A,N/A
+RIF Token,928499,N/A,N/A
+Loom Network,836492,N/A,N/A
+Bithao,937511,N/A,N/A
+Surf.Finance,937513,N/A,N/A
+Pteria,937515,N/A,N/A
+UnFederalReserve,937517,N/A,N/A
+Wemix Token,937519,N/A,N/A
+nYFI,937521,N/A,N/A
+3X Long Ethereum Token,933983,N/A,N/A
+BKEX Token,933616,N/A,N/A
+Content Value Network,930859,N/A,N/A
+Acute Angle Cloud,925291,ECC 256K1,DPOS
+SelfKey,360299,N/A,N/A
+ArcBlock,758055,N/A,N/A
+Populous,179896,N/A,N/A
+UniTrade,936040,N/A,N/A
+LinkEye,918514,N/A,N/A
+Yee,719272,N/A,N/A
+Fyooz,936252,N/A,N/A
+GIFTO,517477,N/A,N/A
+SUP8EME Token,937529,Keccak,PoW
+Canada eCoin,52015,Scrypt,PoW
+Oraichain Token,937534,N/A,N/A
+Keep4r,937536,N/A,N/A
+Auric Network,937538,N/A,N/A
+XCredit,937540,N/A,N/A
+Moonday Finance,937542,N/A,N/A
+Freeway Token,937544,N/A,N/A
+HubDao,937546,N/A,N/A
+Spore Finance,937548,N/A,N/A
+300 token,749869,N/A,N/A
+MVL,928103,N/A,N/A
+Frontier,936585,N/A,N/A
+Sentivate,928392,N/A,N/A
+GoMoney2,934313,N/A,N/A
+Molecular Future,925268,N/A,N/A
+Raiden Network,372369,N/A,N/A
+ELAD Network,937565,N/A,N/A
+FNB protocol,931395,N/A,N/A
+Moeda,341279,N/A,N/A
+Croat,731596,CryptoNight,PoW
+TenX,45260,N/A,N/A
+Presearch,186331,N/A,N/A
+Morpheus Infrastructure Token,879004,N/A,N/A
+3X Short Bitcoin,933505,N/A,N/A
+Metronome,916769,N/A,N/A
+Cred,889997,N/A,N/A
+SmartMesh,524113,N/A,N/A
+Dock.io,866363,N/A,N/A
+Genaro Network,619375,N/A,N/A
+Ultrain,929793,N/A,N/A
+BF Token,710240,N/A,N/A
+DefiDollar DAO,937571,N/A,N/A
+Misbloc,937573,N/A,N/A
+ShareAt,937575,N/A,N/A
+DotBased,937578,N/A,N/A
+BooBank,937580,N/A,N/A
+EOSDT,931115,N/A,N/A
+Goldblock,937582,N/A,N/A
+Tatcoin,937584,N/A,N/A
+YYFI.Protocol,937588,N/A,N/A
+DeFi Gold,937590,N/A,N/A
+Neeva Defi,937592,N/A,N/A
+Elxis,937594,N/A,N/A
+Bloody Token,937596,N/A,N/A
+Aspire,937597,N/A,N/A
+Pickle Finance,936592,N/A,N/A
+3X Short Ethereum Token,934066,N/A,N/A
+Propy,185695,N/A,N/A
+Time New Bank,517483,N/A,N/A
+QunQun,716767,N/A,N/A
+Matryx,257110,N/A,N/A
+AppCoins,346812,N/A,N/A
+CyberMiles,439963,N/A,N/A
+3X Short EOS Token,934067,N/A,N/A
+IoT Chain,597629,N/A,N/A
+FairGame,732098,N/A,N/A
+WABI,340940,N/A,N/A
+ContentBox,925271,N/A,PoS
+SpendCoin,930795,N/A,N/A
+Trump Loses Token,936627,N/A,N/A
+SirinLabs,380641,N/A,N/A
+3X Long XRP Token,934065,N/A,N/A
+Simple Token,369132,N/A,N/A
+Ruff,744910,N/A,N/A
+Rio DeFi,936856,N/A,N/A
+3X Short Chainlink Token,935357,N/A,N/A
+Everex,194883,N/A,N/A
+BetProtocol,933184,N/A,N/A
+Tokenomy,780891,N/A,N/A
+Merculet,916702,N/A,N/A
+Pivot Token,931718,N/A,N/A
+SynLev,937606,N/A,N/A
+Yearn Secure,937608,N/A,N/A
+SMPL Foundation,937610,N/A,N/A
+DogDeFiCoin,937612,N/A,N/A
+Ferrum Network,931788,N/A,N/A
+Dvision Network,937615,N/A,N/A
+Atari Token,937264,N/A,N/A
+PANTHEON X,935352,N/A,N/A
+Primas,255777,Scrypt,PoW
+8X8 Protocol,935375,N/A,N/A
+Trump Wins Token,936625,N/A,N/A
+Golff,936583,N/A,N/A
+Blox,177139,N/A,N/A
+Exchange Union,184221,N/A,N/A
+Fatcoin,929891,N/A,N/A
+3X Long Chainlink Token,935358,N/A,N/A
+FLETA,932105,N/A,N/A
+OriginSport,925214,N/A,N/A
+SpokLottery,937618,N/A,N/A
+SmartCredit Token,937620,N/A,N/A
+Jem,937622,N/A,N/A
+Tsunami finance,937628,N/A,N/A
+V-ID,914830,N/A,N/A
+SONM,136244,N/A,N/A
+Tripio,925516,N/A,N/A
+Thunder Token,930287,N/A,PoS
+Akoin,937433,N/A,N/A
+Alpha Finance Lab,936966,BEP20 Token,N/A
+Avalanche,935805,N/A,PoS
+Metadium,927515,N/A,N/A
+1X Short Tether Token,937678,N/A,N/A
+0.5X Long Tether Token,937335,N/A,N/A
+UTU Protocol,937680,N/A,N/A
+Orbit Chain,937682,N/A,N/A
+FinanceX,927391,N/A,N/A
+Organicco,924710,N/A,N/A
+Betform,926568,N/A,N/A
+Synthetix,816635,N/A,N/A
+Quant,928790,N/A,N/A
+Maker,41192,N/A,N/A
+YFarmer,937711,N/A,N/A
+Tessla Coin,937624,N/A,N/A
+MoonCoin,4346,Scrypt,PoW
+Finom FIN Token,917303,N/A,N/A
+REN,788239,N/A,N/A
+Swipe,931777,N/A,N/A
+r/CryptoCurrency Moons,937720,N/A,N/A
+Lina,930883,N/A,N/A
+Linear,937727,N/A,N/A
+Fiscus FYI,936905,N/A,N/A
+Aave,936952,N/A,N/A
+DeFiner,937724,N/A,N/A
+Tap Coin,243013,N/A,N/A
+The Transfer Token,937739,N/A,PoW
+BambooDeFi,937745,N/A,N/A
+Orion Protocol,935922,N/A,N/A
+Verifier,927999,N/A,N/A
+Tesla FTX,937718,N/A,N/A
+Uquid Coin,418694,N/A,N/A
+Bitcoin Vault,934347,SHA-256,PoW
+SAV3,937767,N/A,N/A
+Experty Wisdom Token,937773,N/A,N/A
+Lien,936346,N/A,N/A
+Inverse DeFi Index,937784,N/A,N/A
+DigitalBits,932666,N/A,N/A
+Hegic,937790,N/A,N/A
+Ergo,934102,Autolykos,PoW
+Energi,927360,N/A,PoS
+Auroracoin,4333,Scrypt,PoW/PoS
+Chicken,937813,N/A,N/A
+SpainCoin,4608,Scrypt-n,PoW
+Sperax,937818,N/A,N/A
+LaneAxis,925099,N/A,N/A
+FairCoin,5313,Groestl,PoW/PoS
+People,446051,Scrypt,PoW
+Celo Gold,935016,N/A,N/A
+FinNexus,937668,N/A,N/A
+GameX,679646,N/A,N/A
+Gx Coin,247350,N/A,N/A
+Terra,931668,N/A,DPoS
+DeFiPulse Index,936604,N/A,N/A
+Stafi,937371,N/A,PoS
+Goldmaxcoin,30424,Scrypt,PoW
+TON Crystal,937055,N/A,N/A
+Fieldcoin,926723,N/A,N/A
+Near,937105,N/A,PoS
+Aluna,933006,N/A,N/A
+Galatasaray Fan Token,937961,N/A,N/A
+INVIZION,937963,N/A,N/A
+Bit World Token,937969,N/A,N/A
+BuySell,936096,N/A,PoS
+Monoreto,924875,N/A,N/A
+Mineral,935005,N/A,N/A
+MediterraneanCoin,4560,HybridScryptHash256,PoW
+Medibloc,937972,N/A,PoS
+Minds,938002,N/A,N/A
+NewsTokens,934745,N/A,N/A
+Steem Dollars,23728,N/A,DPoS
+Wrapped UST Token,938027,N/A,N/A
+Raise Token,905744,N/A,N/A
+Inda,938044,N/A,N/A
+INT,692839,IMesh,DPoS+dBFT
+FIO Protocol,935898,N/A,DPoS
+Auctus,792023,N/A,N/A
+ClinTex CTi,938055,N/A,N/A
+PowerPool Concentrated Voting Power,937023,N/A,N/A
+Bridge Oracle,937017,N/A,N/A
+Raiden Network Token,6098,N/A,PoS
+XDNA,921608,HEX,PoW/PoS
+TigerCash,925903,SHA-256,PoS
+Thorecash,931525,N/A,N/A
+Stox,204716,N/A,N/A
+OPEN Governance Token,938109,N/A,N/A
+Findora,938094,N/A,N/A
+GoRecruit,929758,N/A,N/A
+Marlin,938132,N/A,N/A
+MahaDAO,938136,N/A,N/A
+2Based Finance,938138,N/A,N/A
+Swingby,935928,BEP2 Token,N/A
+Valorbit,732147,Scrypt,PoW/PoS
+UNION Protocol Governance Token,938147,N/A,N/A
+Adappter Token,938153,N/A,N/A
+R34P,938155,N/A,N/A
+Golden Ratio Per Liquidity,938157,N/A,N/A
+Reflector.Finance,938164,N/A,N/A
+YVS.Finance,938167,N/A,N/A
+TornadoCORE,938170,N/A,N/A
+NEST Protocol,938172,N/A,N/A
+PolisPay,653274,X11,PoS
+Mediconnect,936467,N/A,PoA
+Rally,938175,N/A,N/A
+Dexfin,938178,N/A,N/A
+xETH-G,938181,N/A,N/A
+Pyrk,938184,N/A,PoW
+Wibcoin,924940,SHA-256,PoW
+Trade Butler Bot,938187,N/A,N/A
+DeFi Yield Protocol,938189,N/A,N/A
+Chalice Finance,938191,N/A,N/A
+Trinity Network Credit,711252,N/A,N/A
+TNC Coin,934865,N/A,N/A
+Helium,935965,N/A,N/A
+Revain,345420,Multiple,N/A
+Own,877236,N/A,N/A
+B21,926487,N/A,N/A
+Keep Calm and Hodl,938324,N/A,N/A
+Talleo,938327,N/A,N/A
+Project Pai,918549,SHA-256,PoW
+Empty Set Dollar,938330,N/A,N/A
+Pylon Finance,938333,N/A,N/A
+Forever Coin,6452,X11,PoS
+Avalon,248300,N/A,N/A
+CRDT,936715,N/A,N/A
+Frax,938352,N/A,N/A
+Frax Share,938354,N/A,N/A
+Wifi Coin,938362,N/A,N/A
+One Share,938369,N/A,N/A
+Amepay,938371,N/A,N/A
+Exeedme,938373,N/A,N/A
+Polkainsure Finance,938375,N/A,N/A
+DigiCol Token,938377,N/A,N/A
+EXMR FDN,767755,N/A,PoW/PoS
+My Crypto Play,938385,N/A,N/A
+Bao Finance,938387,N/A,N/A
+True Seigniorage Dollar,938389,N/A,N/A
+Stand Share,938394,N/A,N/A
+MoneySwap,938396,N/A,N/A
+Zero Collateral Dai,938398,N/A,N/A
+Shabu Shabu,938400,N/A,N/A
+ Cover Protocol (old),938381,N/A,N/A
+True Investment Finance,938405,N/A,N/A
+ZKSwap,938408,N/A,N/A
+BitDNS,938410,N/A,N/A
+bDollar Share,938412,N/A,N/A
+FOX Token,938414,N/A,N/A
+Hype,938417,N/A,N/A
+Lido DAO,938419,N/A,N/A
+Whiteheart,938421,N/A,N/A
+DefiSocial,938428,N/A,N/A
+Wood Coin,6454,Skein,PoW
+HEX,933526,N/A,N/A
+Axion,938111,N/A,N/A
+Wise Token,937001,N/A,N/A
+Sogur Currency,925873,N/A,N/A
+Travala,927935,N/A,N/A
+Arca,938442,N/A,N/A
+INX Token,936824,N/A,N/A
+Coinvest,384859,N/A,N/A
+Coin,938143,N/A,N/A
+BarnBridge,938123,N/A,N/A
+MIScoin,37190,X11,PoW/PoS
+Mithril Share,938358,N/A,N/A
+Fortune,938448,N/A,N/A
+Global Utility Smart Digital Token,938455,N/A,N/A
+BlockMason Credit Protocol,374281,N/A,N/A
+Shacoin,718565,SHA-256,PoS
+Safe Haven,929353,N/A,N/A
+Xdef Finance,938462,N/A,N/A
+Interest Bearing ETH,938470,N/A,N/A
+Baroin,938472,N/A,N/A
+Buxcoin,932787,Scrypt,PoW/PoS
+FLASH coin,326222,N/A,N/A
+Asia Pacific Electronic Coin,938477,N/A,N/A
+Cobak Token,938480,N/A,N/A
+BrickBlock,898360,N/A,PoA
+Daiquilibrium,938482,N/A,N/A
+VKF Platform,938484,N/A,N/A
+Spark,938073,N/A,N/A
+Eauric,938488,N/A,N/A
+BIZZCOIN,935027,N/A,N/A
+BitcoinAsia,936471,N/A,N/A
+GlobalCoin,4527,Scrypt,PoW
+GoldCoin,4528,Scrypt,PoW
+LuckyBlocks,32875,PoS,PoS
+BUX,715749,N/A,N/A
+Ternio-ERC20,938493,N/A,N/A
+Red Pulse Phoenix Binance,930616,BEP-2,N/A
+10X Short Bitcoin Token,938495,N/A,N/A
+10X Short BNB Token,938496,N/A,N/A
+10X Short Bitcoin Cash Token,938497,N/A,N/A
+10X Short Ethereum Token,938498,N/A,N/A
+10X Short OKB Token,938500,N/A,N/A
+10X Short Litecoin Token,938499,N/A,N/A
+QANplatform,938502,N/A,N/A
+pBTC35A,938507,N/A,N/A
+Super Zero,931747,Ethash,ProgPoW+PoS
+ForTube,931881,N/A,N/A
+KuCoin Token,348628,N/A,N/A
+Hathor,938529,N/A,N/A
+HollyGold,938533,N/A,N/A
+UniMex Network,938536,N/A,N/A
+Dynamic Supply Tracker,938538,N/A,N/A
+Roti Bank Coin,938541,N/A,N/A
+UniDex,938544,N/A,N/A
+XLMDOWN,938547,N/A,N/A
+XLMUP,938549,N/A,N/A
+SUSHIDOWN,938550,N/A,N/A
+SUSHIUP,938551,N/A,N/A
+AAVEDOWN,938552,N/A,N/A
+AAVEUP,938553,N/A,N/A
+3X Long Stellar Token,938554,N/A,N/A
+3X Short Stellar Token,938555,N/A,N/A
+0.5X Long Theta Network Token,938556,N/A,N/A
+BitCore,198983,Time Travel,PoW
+Mindexcoin,915386,N/A,N/A
+Mithril Cash,938445,N/A,N/A
+Stobox Token,938564,N/A,N/A
+CONUN,931393,N/A,N/A
+Paycon,12985,X13,PoW/PoS
+Star Pacific Coin,937185,N/A,N/A
+BTC Standard Hashrate Token,938531,BEP20 Token,N/A
+Basis Gold Share,938575,N/A,N/A
+Prosper,938577,BEP20 Token,N/A
+Phantasma Energy,938570,N/A,N/A
+PegsUSD,938581,N/A,N/A
+Gera Coin,938585,N/A,N/A
+Reef,938107,N/A,N/A
+Helmet Insure,938589,N/A,N/A
+Furucombo,938591,N/A,N/A
+YFTether,938593,N/A,N/A
+TokenPay,745017,POS 3.0,PoS
+Haven Protocol,866346,CryptoNight-Heavy,PoW
+Factom,13280,N/A,N/A
+EtherZero,890114,Ethash,PoW
+OKExChain,938608,N/A,N/A
+Verox,938610,N/A,N/A
+Glitch,938612,N/A,N/A
+ARTH,938614,N/A,N/A
+Arianee,938616,N/A,N/A
+StaysBASE,938623,N/A,N/A
+Royale,938627,N/A,N/A
+Rigel Finance,938635,N/A,N/A
+Indexed Finance,938637,N/A,N/A
+PegShares,938639,N/A,N/A
+Bitcoin ABC,937688,SHA-256,PoW
+Coinstox,938643,N/A,N/A
+Lokr,938646,N/A,N/A
+DuckDuckCoin,56678,Scrypt,PoW
+DuckDaoDime,938648,N/A,N/A
+Router Protocol,938651,N/A,N/A
+YFIONE,938653,N/A,N/A
+DEFI Top 5 Tokens Index,938655,N/A,N/A
+CurrySwap,938657,N/A,N/A
+USDFreeLiquidity,938659,N/A,N/A
+Freeliquid,938662,N/A,N/A
+e-Money,938671,N/A,N/A
+KlaySwap Protocol,938673,N/A,N/A
+Koinos,938675,N/A,N/A
+TokenAsset,938677,N/A,N/A
+Insured Finance,938679,N/A,N/A
+Basis Gold Share,938681,N/A,N/A
+Nord Finance,938683,N/A,N/A
+Gains V2,938687,N/A,N/A
+Hydra,938689,N/A,N/A
+Energy Ledger,938691,N/A,N/A
+SpaceChain (QRC-20),784821,N/A,N/A
+SpaceChain (ERC-20),938572,N/A,N/A
+PCHAIN,903863,N/A,N/A
+Bit Financial,937685,N/A,N/A
+Bifrost,938566,N/A,N/A
+Typhoon Cash,938705,N/A,N/A
+Polkacover,938707,N/A,N/A
+Excavo Finance,938709,N/A,N/A
+UniDexGas,938711,N/A,N/A
+CryCash,737393,N/A,N/A
+CrowdCoin,586482,NeoScrypt,PoW
+Cryptocurrency Top 10 Tokens Index,938713,N/A,N/A
+ARMOR,938725,N/A,N/A
+Armor NXM,938726,N/A,N/A
+Snowswap,938728,N/A,N/A
+DIGG,938730,N/A,N/A
+Block Duelers,938732,N/A,N/A
+Arenon,915444,X11,PoS
+BitOnyx Token,938735,N/A,N/A
+PolkaBridge,938737,N/A,N/A
+Feyorra,938739,N/A,N/A
+Holyheld,938741,N/A,N/A
+Aurei,934365,N/A,N/A
+DarkBundles,938744,N/A,N/A
+DogeYield,938746,N/A,N/A
+Nayuta Coin,938748,N/A,N/A
+r3fi.finance,938750,N/A,N/A
+EDC Blockchain,27634,SHA-256,DPoS/LPoS
+Interop,938761,N/A,N/A
+Sting,938763,N/A,N/A
+POC Blockchain,938765,N/A,N/A
+Narwhale.finance,938768,N/A,N/A
+zzz.finance v2,938770,N/A,N/A
+SINOVATE,927228,N/A,PoW
+XUSD Stable,938774,N/A,N/A
+PieDAO Yearn Ecosystem Pie,938776,N/A,N/A
+EXTRA ORDINARY,938778,N/A,N/A
+Lunch Money,936814,N/A,N/A
+QFinance,938780,N/A,N/A
+Enzyme,45253,N/A,N/A
+BUMO,930706,N/A,N/A
+NextDAO,934031,NRC20 Token,N/A
+BIXBCOIN,938795,Scrypt,N/A
+Tokemon,938802,N/A,N/A
+Secret (ERC20),938804,N/A,N/A
+Universal Dollar,938806,N/A,N/A
+Polyient Games Unity,938808,N/A,N/A
+The Bitcoin Family,938810,N/A,N/A
+Kohima,938816,N/A,N/A
+TE-FOOD,784553,N/A,N/A
+Opium,938820,N/A,N/A
+ArbiSmart,938822,N/A,N/A
+Gasgains,938824,N/A,N/A
+LenDeFi Token,938827,N/A,N/A
+Klondike BTC,938828,N/A,N/A
+Klondike Finance,938831,N/A,N/A
+Klondike Bond,938833,N/A,N/A
+Crypterium,710597,N/A,N/A
+Flow Protocol,936778,N/A,N/A
+Beacon ETH,938841,N/A,N/A
+IMPULSE by FDR,938844,N/A,N/A
+VIBEXXX,938849,N/A,N/A
+TimeCoinProtocol,938852,N/A,N/A
+Yield Optimization Platform & Protocol,938625,N/A,N/A
+SWFTCoin,718353,N/A,N/A
+SpaceGold,938855,N/A,N/A
+Xceltoken Plus,938861,N/A,N/A
+AlloHash,938862,N/A,N/A
+Lithium,928186,Blake,PoW
+Validity,15870,PoS,PoS
+Metaverse,934987,N/A,N/A
+Mycelium Token,29378,N/A,N/A
+MyToken,885623,N/A,N/A
+Infinity Economics,372654,SHA-256,PoS
+Mixin,918566,N/A,N/A
+Sola,851021,N/A,N/A
+BNIX Token,938876,N/A,N/A
+Gron Digital,755352,N/A,N/A
+YPro.Finance,938881,N/A,PoS
+i9 Coin,937717,N/A,N/A
+GROWTH DeFi,938880,N/A,N/A
+IDAC,927290,N/A,N/A
+RainCheck,926595,N/A,N/A
+Hacken Token,936414,N/A,N/A
+ClubCoin,15869,Scrypt,PoW/PoS
+AERGO,928382,N/A,N/A
+AiBB,927511,N/A,N/A
+BlockCDN,732197,N/A,N/A
+Bodhi,918968,N/A,N/A
+CarBlock,918989,N/A,N/A
+Cybereits Token,918576,N/A,N/A
+Crystal Clear Token,301191,N/A,N/A
+CDX Network,412267,N/A,N/A
+Commercium,899065,Equihash,N/A
+Creditbit,17547,X11,Proof of Trust
+CrowdForce,926525,N/A,N/A
+ConSpiracy Coin,5392,X11,PoW
+Decentralized Accessible Content Chain,925578,N/A,N/A
+renBTC,936208,N/A,N/A
+Constellation,925129,N/A,N/A
+Digitalcoin,4353,Scrypt,PoW
+Endor Protocol Token,900419,N/A,N/A
+ENDO,925411,N/A,N/A
+Faceter,892684,N/A,N/A
+FantomCoin,5385,CryptoNight,PoW
+HappyCreatorCoin,30371,Scrypt,PoW
+Ethorse,716736,N/A,N/A
+HashCoin,919094,N/A,N/A
+Kinesis Velocity Token,924899,N/A,N/A
+Litebar,4553,Scrypt,PoW
+MarsCoin,6109,X11,PoW
+MMNXT,23425,N/A,N/A
+Measurable Data Token,714866,N/A,N/A
+Multiplier,936229,N/A,N/A
+Nsure Network,937810,N/A,N/A
+ODEM,890624,N/A,N/A
+PlotX,937770,N/A,N/A
+Rate3,918974,N/A,N/A
+STARS,925751,N/A,DPoS/LPoS
+VectorCoin 2.0,22434,Dagger-Hashimoto,PoW
+Xiotri,936248,N/A,N/A
+zzz.finance,936210,N/A,N/A
+DeCEX,938894,N/A,PoS+PoB+PoC
+Nexus Mutual,936122,N/A,N/A
+Utopia Genesis Foundation,938911,N/A,N/A
+APY.Finance,938913,N/A,N/A
+MintMe.com Coin,932957,Lyra2-MintMe version,PoW
+Solana,934443,N/A,PoH
+SportX,938800,N/A,N/A
+B2BX,517795,N/A,N/A
+Carnomaly,938941,N/A,N/A
+Axentro,938943,N/A,N/A
+Yield Farming XL,938945,N/A,N/A
+Spartan Casino,938948,N/A,N/A
+CoinsLoot,938950,N/A,N/A
+Wrapped Bitcoin,928761,N/A,N/A
+Telemedicoin,938953,N/A,N/A
+Wrapped NXM,936009,N/A,N/A
+Wrapped Conceal,937626,N/A,N/A
+"Jun ""M"" Coin",938959,N/A,N/A
+Seele,905749,N/A,N/A
+Augur,17778,N/A,N/A
+Civitas Protocol,938963,N/A,N/A
+World Token,938966,N/A,N/A
+Bridge Mutual,938968,N/A,N/A
+Value Liquidity,936927,N/A,N/A
+Covesting,338426,N/A,N/A
+Strudel Finance,938972,N/A,N/A
+Fuse Network Token,938978,N/A,N/A
+GOGO Finance,938982,N/A,N/A
+YFValue,936205,N/A,N/A
+COCOS BCX,931844,N/A,N/A
+RAVN Korrax,909913,N/A,N/A
+Restore,938986,N/A,N/A
+CarrotSwap,938988,N/A,N/A
+Swaprol,938990,N/A,N/A
+MEDICAL TOKEN CURRENCY,885599,N/A,N/A
+GNY,931402,N/A,N/A
+Elrond,936373,N/A,PoS
+Elrond,931224,N/A,N/A
+Butterfly Protocol,938997,N/A,N/A
+QuarkCoin,4351,Quark,PoW/PoS
+HalalChain,749620,N/A,PoW
+Qitmeer,938999,CuckooCycle,Pow
+Curio Governance,938994,N/A,N/A
+MP3,939017,N/A,N/A
+LatiumX,849939,N/A,N/A
+Particl,191116,N/A,PoS
+FEG Token,939023,N/A,N/A
+Ternio,791268,N/A,N/A
+Defla,939021,N/A,N/A
+VAIOT,938957,N/A,N/A
+Kadena,933615,N/A,N/A
+EncrypGen,180804,N/A,N/A
+Yetucoin,938491,N/A,N/A
+Alias,939038,N/A,N/A
+Vai,939040,N/A,N/A
+Xion Finance,939047,N/A,N/A
+Index Cooperative,939053,N/A,N/A
+Bezop,811575,N/A,N/A
+BT.Finance,939057,N/A,N/A
+BuildTeam,249784,N/A,DPoS
+Amp,936528,N/A,N/A
+Flexacoin,930328,N/A,N/A
+The Famous Token,939059,N/A,N/A
+Eth 2.0 Staking by Pool-X,939061,N/A,N/A
+Anyswap,936227,N/A,N/A
+MASQ,939070,N/A,N/A
+CryptoTask,939072,N/A,N/A
+Rug Proof,939084,N/A,N/A
+Govi,939085,N/A,N/A
+BetaCoin,4337,CryptoNight,PoW
+FortKnoxster,931765,N/A,N/A
+Curio,937191,N/A,N/A
+Deri Protocol,939090,N/A,N/A
+K-Tune,939092,N/A,N/A
+Strong,939094,N/A,N/A
+Auction,939096,N/A,N/A
+Bounce Token,936559,N/A,N/A
+Our Pay,939098,N/A,N/A
+Polygon,930246,N/A,N/A
+Soak Token,939106,N/A,N/A
+Filda,939108,N/A,N/A
+Polaris Share,939110,N/A,N/A
+Fairum,939112,N/A,N/A
+JulSwap,939114,N/A,N/A
+renDOGE,939116,N/A,N/A
+WorldCoin,5020,Scrypt,PoW
+PicaArtMoney,939122,N/A,N/A
+SIMBA Storage Token,939126,N/A,N/A
+IPDnetwork,938883,SHA-256,DPoS/LPoS
+Rise Protocol,939141,N/A,N/A
+CommerceBlock Token,709053,N/A,N/A
+Genstake,7588,Scrypt,PoW/PoS
+DAOstack,843576,N/A,N/A
+Mysterium,136190,N/A,N/A
+xFund,938798,N/A,N/A
+Farming Bad,939003,N/A,N/A
+ThinkTank,939151,N/A,N/A
+Rowan Token,934969,N/A,N/A
+TrigID,928626,N/A,N/A
+Retail.Global,928509,N/A,N/A
+Everest,939164,N/A,N/A
+Unistake,939166,N/A,N/A
+French Digital Reserve,939169,KECCAK,PoS
+Premia,939172,N/A,N/A
+DSLA Protocol,927501,N/A,N/A
+SharedStake Governance Token,939176,N/A,N/A
+Birthday Cake,939178,N/A,N/A
+GigaCoin,5366,Fresh,PoW
+Berry Data,939214,N/A,N/A
+CafeSwap Token,939217,N/A,N/A
+Olyseum,939219,N/A,N/A
+Previse,939221,N/A,N/A
+Marginswap,939223,N/A,N/A
+Quickswap,939226,N/A,N/A
+DDS.Store,939229,N/A,N/A
+Dexmex,939237,N/A,N/A
+Fyooz NFT,939243,N/A,N/A
+SAI,769546,N/A,N/A
+Hashgard,928399,N/A,N/A
+Polkabase,939257,N/A,N/A
+Numeraire,166594,N/A,N/A
+United Emirates Coin,926110,Scrypt,N/A
+AS Roma Fan Token,938160,N/A,Proof of Stake
+Wrapped Celo,938237,N/A,N/A
+Golden Goose,931763,N/A,N/A
+DefiCliq,938909,N/A,N/A
+Peanut,938919,N/A,N/A
+Umbrella Network,938920,N/A,DPoS
+Yearn Coin Barter Finance,938998,PoS,PoS
+Zappermint,939008,N/A,N/A
+Rigel Protocol,939010,N/A,N/A
+Ather,939012,TRC10,DPoS
+Holder Finance,939041,N/A,N/A
+White Pigeon,939045,N/A,N/A
+Rari Governance Token,939153,N/A,N/A
+Zytara dollar,939076,N/A,N/A
+Zoomy,939014,N/A,N/A
+Vesper Finance,939272,N/A,N/A
+yearn.finance,935926,N/A,N/A
+Smart League,928617,N/A,N/A
+Podo Point,939280,N/A,N/A
+sKLAY,939283,N/A,N/A
+Lendhub,939285,N/A,N/A
+Sinelock,939287,N/A,N/A
+Ontology Gas,925815,N/A,N/A
+Sentinel Protocol,906271,N/A,N/A
+Egretia,916728,N/A,N/A
+Golem Network Token,33022,N/A,N/A
+LTO Network,928921,N/A,N/A
+district0x,177175,N/A,N/A
+Tokamak Network,936826,N/A,N/A
+CertiK,937457,N/A,N/A
+IoTeX Network,893122,N/A,Roll-DPoS
+12Ships,931774,N/A,N/A
+pNetwork Token,310297,N/A,N/A
+AhaToken,936918,N/A,N/A
+DODO,937013,N/A,N/A
+Tornado Cash,939302,N/A,N/A
+Power Ledger,339617,N/A,N/A
+Stacks,932603,N/A,PoX (Proof-of-Transfer) 
+The Midas Touch Gold,925371,N/A,N/A
+Rai Reflex Index,939306,N/A,N/A
+Huobi Pool Token,930104,N/A,N/A
+Midas Dollar Share,939310,N/A,N/A
+Maro,936844,N/A,N/A
+QiSwap,939314,N/A,N/A
+Refereum,795662,N/A,N/A
+BiboxCoin,757969,N/A,N/A
+BiTToken,939317,N/A,N/A
+DMD,936916,N/A,N/A
+Gemini Dollar,925563,N/A,N/A
+XMON,939322,N/A,N/A
+Raydium,939325,N/A,N/A
+Quantfury,939328,N/A,N/A
+Staked Ether,938193,N/A,N/A
+StakeHound Staked Ether,939293,N/A,N/A
+SLNV2,939333,N/A,N/A
+Launchpool,939335,N/A,N/A
+Electric Cash,939338,N/A,N/A
+ROS Coin,5380,X11,PoW/PoS
+Hash Bridge Oracle,939346,N/A,N/A
+Monolith,71077,N/A,N/A
+Nectar,777007,N/A,N/A
+COTI,925272,N/A,N/A
+Fusion,768219,N/A,N/A
+Injective Protocol,937043,N/A,N/A
+FileCoin,213663,N/A,N/A
+Akropolis Delphi,936463,N/A,N/A
+Loopring [NEO],919103,N/A,N/A
+Loopring,318169,N/A,N/A
+WaykiChain Governance Coin,935483,N/A,N/A
+Rotten,936771,N/A,N/A
+Nash Exchange,925400,N/A,N/A
+Lendroid Support Token,920896,N/A,N/A
+Meter,935738,N/A,PoW
+YAM,936120,N/A,N/A
+YAM v1,936772,N/A,N/A
+YAM v2,936217,N/A,N/A
+AEON,20730,CryptoNight-Lite,PoW
+TerraCredit,929362,Scrypt,PoW/PoS
+SaTT,927476,N/A,N/A
+BitTorrent,928723,TRC10,DPoS
+Cryptobuyer,926572,N/A,N/A
+Hive,934361,N/A,DPoS/PoB
+Hard Protocol,937531,N/A,N/A
+SKALE Network,937954,N/A,N/A
+Bella Protocol,936461,N/A,N/A
+IRIS Network,930935,N/A,N/A
+Wing Finance,936590,N/A,N/A
+BakeryTokeN,936852,BEP-2,N/A
+NEXO,877073,N/A,N/A
+bZx,929828,N/A,N/A
+Perlin,931693,N/A,N/A
+Origin Protocol,933180,N/A,N/A
+Paxos Standard,925939,N/A,PoW
+aelf,571314,N/A,DPoS
+Theta Fuel,929751,N/A,PoS
+TOP Network,930843,N/A,N/A
+Azuki,939382,N/A,N/A
+Enjin Coin,283116,N/A,N/A
+AnRKey X,938161,N/A,N/A
+Flow - Dapper Labs,938812,N/A,N/A
+Chainlink,309621,N/A,N/A
+Uniswap Protocol Token,936630,N/A,N/A
+Ultra,931955,N/A,N/A
+BUSD,932135,N/A,N/A
+RedFOX Labs,930024,N/A,N/A
+CarpeDiemCoin,20213,SHA-256,PoW
+Facebook Diem,930979,N/A,N/A
+Bondly,939330,N/A,N/A
+Neulaut Token,939413,N/A,N/A
+WazirX,933778,N/A,N/A
+API3,937839,N/A,N/A
+True Chain,887527,N/A,fPoW + PBFT
+Oasis Labs,937509,N/A,PoS
+True USD,844139,N/A,N/A
+Eminer,931750,N/A,N/A
+Bluzelle,752710,N/A,N/A
+Celer Network,929546,N/A,N/A
+Dusk Network,928535,N/A,N/A
+TokenClub,716574,N/A,N/A
+BORA,930697,N/A,N/A
+VeChainThor,926064,N/A,Proof of Authority
+PayProtocol Paycoin,933597,N/A,PoS
+Fetch.AI,929174,N/A,N/A
+Piction Network,931674,N/A,N/A
+Aragon,78152,N/A,N/A
+WHALE,939348,N/A,N/A
+Rarible,936690,N/A,N/A
+Aavegotchi,936615,N/A,N/A
+Phantasma,902442,N/A,PoS
+REVV,936623,N/A,N/A
+Meme,936841,N/A,N/A
+Terra Virtua Kolect,938151,N/A,N/A
+Decentral Games,939365,N/A,N/A
+Dego Finance,936629,N/A,N/A
+Litentry,938869,N/A,N/A
+UniLayer,936250,N/A,N/A
+Shroom.Finance,936774,N/A,N/A
+Abyss Finance,419711,N/A,N/A
+Doki Doki Finance,939373,N/A,N/A
+Buildin Token,939031,N/A,N/A
+SounDAC,933910,N/A,N/A
+Circuits of Value,28276,Multiple,PoW
+aGifttoken,939043,N/A,N/A
+Razor Network,938914,PoS,N/A
+DAOventures,938992,PoS,Proof of Stake
+Monavale,939453,N/A,N/A
+Polkamarkets,939458,N/A,N/A
+Viking Swap,939460,N/A,N/A
+SOTA Finance,939462,N/A,N/A
+Wault Finance,939464,N/A,N/A
+Aloha,939468,N/A,N/A
+BallSwap,939470,N/A,N/A
+xToken,939473,N/A,N/A
+Sifchain,939481,N/A,N/A
+Oxen,902527,CryptoNight-Heavy,PoW
+MASS,938702,N/A,Proof-of-Capacity
+Ideaology,938834,N/A,N/A
+My Identity Coin,938848,N/A,N/A
+Nominex Token,938857,N/A,N/A
+BlackFort Token,938890,N/A,N/A
+TrueFi,938629,N/A,N/A
+MAPS,938796,SPL Token,PoH
+TORUM,938901,N/A,N/A
+SafePal,938905,BEP20 Token,Proof of Staked Authority (PoSA)
+Tether,171986,N/A,N/A
+TENT,847395,Equihash,mPoW
+Opacity,927231,N/A,N/A
+Enigma,338335,N/A,N/A
+ARK,32699,DPoS,DPoS
+HOPR,939522,N/A,N/A
+XRP,5031,N/A,N/A
+Igi,938432,N/A,N/A
+CryptoKek,938391,N/A,N/A
+Dynamic Set Dollar,938360,N/A,N/A
+Pepemon Pepeballs,939533,N/A,N/A
+Basic Attention Token,107672,N/A,N/A
+Node Runners,939537,N/A,N/A
+Chonk,939539,N/A,N/A
+WAXE,939543,N/A,N/A
+Waifu Token,939545,N/A,N/A
+Unique One,939547,N/A,N/A
+BONK Token,939549,N/A,N/A
+Wrapped Virgin Gen-0 CryptoKittties,939551,N/A,N/A
+ThreeFold Token,935300,N/A,N/A
+DAOBet,177831,N/A,N/A
+Mandala Exchange Token,938715,N/A,N/A
+Cocaine Cowboy Shards,939553,N/A,N/A
+DoYourTip,939555,N/A,N/A
+Mdex,939147,N/A,N/A
+CapriCoin,15282,X11,PoW/PoS
+CPChain,730988,N/A,N/A
+Recom,939566,N/A,N/A
+Savix,939035,N/A,N/A
+Alchemix,939568,N/A,N/A
+AntiMatter,939570,N/A,N/A
+Multiplier,939572,N/A,N/A
+DeFi Wizard,939574,N/A,N/A
+Urus Token,939576,N/A,N/A
+EGG Protocol,939578,N/A,N/A
+ARCS,935750,N/A,N/A
+VKENAF,939581,N/A,N/A
+Font,939585,N/A,N/A
+Moola,939587,N/A,N/A
+Shadows,939595,N/A,N/A
+1inch,938199,N/A,N/A
+OG Fan Token,938223,BEP20 Token,Proof of Authority
+Tokenlon,938225,N/A,N/A
+Wrapped Celo Dollar,938238,N/A,N/A
+SpiderDAO,938321,N/A,N/A
+SmartKey,938325,N/A,N/A
+BSCPAD,939606,N/A,N/A
+Huobi Ethereum,939519,N/A,N/A
+Huobi Fil,939624,N/A,N/A
+Modum,345510,N/A,N/A
+Modefi,939262,N/A,N/A
+Binance VND,938144,BEP-2,N/A
+Juventus Fan Token,938141,N/A,N/A
+KVANT,938121,N/A,PoS
+NFX Coin,938117,N/A,N/A
+governance ZIL,938115,N/A,N/A
+The Graph,938098,N/A,N/A
+YIELD App,938086,N/A,N/A
+Cryptoenter,938084,N/A,N/A
+XPocket,938100,N/A,N/A
+Muse,939439,N/A,N/A
+Very Nifty,939636,N/A,N/A
+SigmaUSD,939617,N/A,N/A
+SigmaRSV,939647,N/A,N/A
+Degov,939651,N/A,N/A
+Debase,939653,N/A,N/A
+Polyient Games Governance Token,936958,N/A,N/A
+Cudos,938510,N/A,N/A
+Kylin Network,939661,N/A,N/A
+Grace Period Token,938079,N/A,N/A
+Sora Validator Token,938019,N/A,N/A
+Freedom Reserve,937994,N/A,N/A
+Hashshare,937889,N/A,N/A
+88mph,937879,N/A,N/A
+SuperTX,937825,N/A,N/A
+KIMCHI.finance,937815,N/A,N/A
+Juggernaut (JGN),937816,N/A,N/A
+UBIX Network,937807,N/A,N/A
+Wrapped BIND,937805,N/A,N/A
+Compendia,937804,N/A,N/A
+Cenfura Token,937725,N/A,N/A
+DXdao,937472,N/A,N/A
+Keep3rV1,937463,N/A,N/A
+PolySwarm,864038,N/A,N/A
+Name Changing Token,939455,N/A,N/A
+Actinium,926174,Lyra2Z,PoW
+Mask Network,939507,N/A,N/A
+Nestree,933553,N/A,N/A
+Goose Finance,939512,N/A,N/A
+Tranche Finance,939669,N/A,N/A
+Bintex Futures,939671,N/A,N/A
+Alpaca,939673,N/A,N/A
+IOCoin,4540,X11,PoW/PoS
+Einsteinium,4440,Scrypt,PoW
+Bytom,218008,Tensority,PoW
+Blank Token,939674,N/A,N/A
+BitDefi,938037,N/A,N/A
+Wrapped Zcash,938042,N/A,N/A
+Wrapped Filecoin,938045,N/A,N/A
+KeeperDAO,938047,N/A,N/A
+Badger DAO,938060,N/A,N/A
+reflect.finance,938062,N/A,N/A
+Bonded Finance,938066,N/A,N/A
+Deflect,938077,N/A,N/A
+Efforce,938005,N/A,N/A
+Mirror Protocol,938007,N/A,N/A
+Base Protocol,938017,N/A,N/A
+Swapfolio,938021,N/A,N/A
+Cover Protocol,938023,N/A,N/A
+Radix,938025,N/A,N/A
+bAlpha,939699,N/A,N/A
+Apple FTX,938026,N/A,N/A
+Alpaca Finance,939702,N/A,N/A
+Siren,939704,N/A,N/A
+EHash,939709,N/A,N/A
+TORUS Token,938939,N/A,N/A
+Decentralized Oracle,939711,N/A,N/A
+Bio Passport,939714,N/A,N/A
+ETHA Lend,939717,N/A,N/A
+Avaluse,939718,N/A,N/A
+World Mobile Chain,939722,N/A,N/A
+ScPrime,935815,Blake2b,N/A
+Polkastarter,936871,N/A,N/A
+Falconswap,936297,N/A,N/A
+Bidipass,858205,N/A,N/A
+Trustswap,935828,N/A,N/A
+PAID Network,938759,N/A,N/A
+MANTRA DAO,936181,N/A,N/A
+DAO Maker,939074,N/A,N/A
+DLP Duck Token,938649,N/A,N/A
+Poolz Finance,938587,N/A,N/A
+YfDAI.finance,938788,N/A,N/A
+UniCrypt,937262,N/A,N/A
+zLOT Finance,937950,N/A,N/A
+ELYSIA,937952,N/A,N/A
+MasterWin Coin,937877,Quark,PoS
+Brother Music Platform,937881,N/A,N/A
+Gem Exchange And Trading,937887,N/A,N/A
+Unique Photo,939754,N/A,N/A
+YFPRO Finance,937894,N/A,N/A
+CloudCoin,937896,N/A,PoS
+Rapidz,937899,N/A,N/A
+Gold BCR,937900,SHA-256,PoS
+Testa,937903,N/A,N/A
+Meter Stable,937828,N/A,PoW/PoS
+Morpher,937835,N/A,N/A
+AMPnet,939772,N/A,N/A
+PROXI,937837,N/A,N/A
+Axis DeFi,937841,N/A,N/A
+Xriba,937849,N/A,N/A
+Ethereum Yield,937851,N/A,N/A
+BonFi,937854,N/A,N/A
+Tamy Token,937869,N/A,N/A
+Ethernity Chain,939780,N/A,N/A
+BSYS,937872,N/A,N/A
+"Money of Tommorow, Today",937875,Scrypt,PoW
+NFT Rehab,939784,N/A,N/A
+Chow Chow Finance,939786,N/A,N/A
+StarChain,776935,N/A,N/A
+Dola USD Stablecoin,939794,N/A,N/A
+Yield Protocol,939792,N/A,N/A
+Unifund,939809,N/A,N/A
+Value Set Dollar,939811,N/A,N/A
+Belt,939813,N/A,N/A
+Chain Guardians,939815,N/A,N/A
+Infinium,84262,CryptoNight,PoW
+HAPI,939817,N/A,N/A
+TOOLS,939819,N/A,N/A
+Argon,939821,N/A,N/A
+Yieldwatch,939823,N/A,N/A
+VeraSwap,939825,N/A,N/A
+Shopping.io,938364,N/A,N/A
+GSPI,939827,N/A,N/A
+Playcent,939829,N/A,N/A
+Whirl Finance,939831,N/A,N/A
+Slime Finance,939833,N/A,N/A
+EasyFeedback,938891,N/A,PoW
+Flashstake,938334,N/A,PoT (Proof-of-Time)
+CELEBPLUS,939845,N/A,N/A
+Kine Protocol,939858,N/A,N/A
+Diesel,939871,N/A,N/A
+NFTL Token,939873,N/A,N/A
+CyberTime Finance,939874,N/A,N/A
+keyTango,939876,N/A,N/A
+Rocket Bunny,939878,N/A,N/A
+BitcashPay,939880,N/A,N/A
+Conflux Network,937778,Octopus,PoW
+gAsp,937780,Scrypt,PoW
+PieDAO v2 (DOUGH),937783,N/A,N/A
+ORO,937795,N/A,N/A
+Tezos,166390,N/A,DPoS
+SysCoin,4618,SHA-256,PoW
+PotCoin,4587,Scrypt,PoW/PoS
+Poa Network,793845,Proof-of-Authority,PoA
+High Performance Blockchain,675053,DPoS,N/A
+Decred,16713,BLAKE256,PoW/PoS
+Obyte,30736,N/A,N/A
+Aurora,918501,N/A,dPoS/BFT
+Ardor,30173,N/A,PoS
+Insolar,370973,N/A,DPoS
+Harmony,930623,N/A,EPoS
+My Neighbor Alice,939891,N/A,N/A
+Aventus,138642,N/A,N/A
+Axie Infinity Shards,937569,N/A,N/A
+Secret,936987,N/A,N/A
+Insolar (Old Chain),934249,N/A,N/A
+Wrapped Moon Cats,939894,N/A,N/A
+Radicle,939901,N/A,N/A
+Hoge Finance,939903,N/A,N/A
+Eventchain,308072,N/A,N/A
+Evrice,939906,N/A,N/A
+TBCC Wallet,939908,N/A,N/A
+EDDASwap,939911,N/A,N/A
+B26 Finance,939913,N/A,N/A
+Visor,939915,N/A,N/A
+Grumpy Cat,939917,N/A,N/A
+SafeMoon,939919,N/A,N/A
+JustLiquidity Binance,939921,N/A,N/A
+Dukascoin,939923,N/A,N/A
+Sad Cat Token,939925,N/A,N/A
+Saffron.finance,937771,N/A,N/A
+SPDR S&P 500 ETF FTX,937755,N/A,N/A
+Alphabet FTX,937756,N/A,N/A
+Netflix FTX,937757,N/A,N/A
+Facebook FTX,937758,N/A,N/A
+Amazon FTX,937759,N/A,N/A
+BioNTech FTX,937761,N/A,N/A
+Pfizer FTX,937762,N/A,N/A
+Beyond Meat Inc FTX,937764,N/A,N/A
+Alibaba FTX,937765,N/A,N/A
+Bilibili Inc FTX,937754,N/A,N/A
+Dymmax,937743,N/A,N/A
+AllianceBlock,937721,N/A,N/A
+Hermez Network Token,937712,N/A,N/A
+Unifi Protocol DAO,937709,N/A,PoS
+NerveNetwork,937706,N/A,PoC (Proof of Credit)
+Contracoin,937600,N/A,N/A
+Persistence,937526,N/A,N/A
+Cipher Core Token,937505,N/A,N/A
+Ino Coin,910653,N/A,N/A
+IZE,937495,N/A,N/A
+CoFIX,937483,N/A,N/A
+Perpetual Protocol,937470,N/A,N/A
+Bloomzed Loyalty Club Ticket,937465,N/A,N/A
+Nexalt,937459,N/A,PoN
+Sushi,936306,N/A,N/A
+Zero Exchange,939950,N/A,N/A
+KwikSwap,938898,N/A,PoW
+Creditcoin,777990,N/A,PoW
+Hydro Protocol,890645,N/A,N/A
+Xend Finance,939963,N/A,N/A
+Lepricon,939965,N/A,N/A
+Brickchain FInance,939967,N/A,N/A
+Bscview,939969,N/A,N/A
+Quam Network,939971,N/A,N/A
+LockTrip,517896,N/A,N/A
+Meridian Network LOCK,938439,N/A,N/A
+Loco,36988,Quark,PoW/PoS
+Etherland,939973,N/A,N/A
+Student Coin,939621,N/A,N/A
+Dafi Protocol,939975,N/A,N/A
+Blockchain Cuties Universe Governance,939978,N/A,N/A
+dKargo,935346,N/A,N/A
+MurAll,939981,N/A,N/A
+AllForOneBusiness,929169,N/A,N/A
+B20,939179,N/A,N/A
+Small Love Potion,937475,N/A,N/A
+GameStars,929241,N/A,N/A
+Unisocks,936682,N/A,N/A
+Gameswap,937586,N/A,N/A
+SEEN,939375,N/A,N/A
+CryptalDash,935785,N/A,N/A
+NFTX Hashmasks Index,939087,N/A,N/A
+PolkaFoundry,939995,N/A,N/A
+Decentraland,199148,N/A,N/A
+iEx.ec,61877,N/A,N/A
+The Sandbox,936179,N/A,N/A
+Gamecredits,20157,N/A,PoW
+Non-Fungible Yearn,940002,N/A,N/A
+Theta,714811,N/A,N/A
+ECOMI,924931,GO20,N/A
+Xeno Token,938980,N/A,N/A
+DMarket,192400,N/A,N/A
+Crowns,938970,N/A,N/A
+LUKSO,934997,N/A,N/A
+Polka City,939466,N/A,N/A
+NFTX,938383,N/A,N/A
+Gourmet Galaxy,938975,N/A,N/A
+NFTLootBox,938790,N/A,N/A
+NFT,940013,N/A,N/A
+HBTC Captain Token,931807,N/A,N/A
+Hybrid Bank Cash,936638,N/A,N/A
+Zilliqa,716725,N/A,N/A
+ZCash,24854,Equihash,PoW
+WhiteCoin,20338,Scrypt,PoW/PoS
+Worldwide Asset eXchange,338541,DPoS,N/A
+Waves,20131,Leased POS,LPoS
+Wanchain,240142,N/A,PoS
+Waltonchain,299397,Ethash,N/A
+ViaCoin,5015,Scrypt,PoW
+Vertcoin,5018,Lyra2REv2,PoW
+Verge,4433,Multiple,PoW
+VeChain,236131,VeChainThor Authority,Proof of Authority
+Ubiq,43044,Dagger-Hashimoto,PoW
+TRON,310829,N/A,DPoS
+Carry,930770,N/A,N/A
+Stratis,24294,X13,PoS
+Stellar,4614,N/A,SCP
+Steem,20333,PoS,PoW
+SmartCash,199901,KECCAK,PoW
+Skycoin,136269,N/A,N/A
+SibCoin,20745,X11GOST,PoW
+Siacoin,13072,Blake2b,PoW
+Shift,38307,DPoS,DPoS
+SaluS,20681,Scrypt,PoW/PoS
+Rise,22015,DPoS,PoS
+Reddcoin,4592,Scrypt,PoW/PoS
+QuarkChain,899553,N/A,N/A
+QTUM,112392,POS 3.0,PoS
+Polkadot,935731,N/A,N/A
+Private Instant Verified Transaction,42433,Quark,PoW/PoS
+PeerCoin,2349,N/A,PoS/PoW
+Ontology,808414,VBFT,PoS
+OMG Network,187440,N/A,PoS
+Nxt,1183,PoS,PoS/LPoS
+Nuls,377792,N/A,N/A
+Nexus,6103,SHA3,PoW/nPoS
+NEO,27368,dBFT2.0,N/A
+NEM,5285,N/A,PoI
+Nebulas,619555,N/A,PoD (Proof of Devotion)
+Neblio,222085,PoS,N/A
+NavCoin,4571,X13,PoW/PoS
+Nano,172091,Blake2b,PoW
+Namecoin,4580,SHA-256,PoW
+Monero,5038,RandomX,PoW
+MOAC,925799,N/A,PoW
+Metaverse,328639,Ethash,N/A
+MegaCoin,4559,Scrypt,PoW
+Matrix AI Network,732161,N/A,PoS/PoW
+Guppy,67096,N/A,N/A
+Litecoin,3808,Scrypt,PoW
+Lisk,19745,DPoS,DPoS
+Komodo,26132,Equihash,dPoW/PoW
+Kin,177918,N/A,SCP
+IOTA,127356,N/A,Tangle
+IOS token,716522,N/A,(PoB)
+ICON Project,324068,Loopchain,PoS
+HyperCash,926044,BLAKE256,PoW/PoS
+Horizen,116180,Equihash,PoW
+Holo,868276,N/A,N/A
+GXChain,659770,N/A,DPoS
+Gulden,5315,Scrypt,PoW
+Groestlcoin,13070,Groestl,PoW
+Grin,928482,C31,PoW
+GoChain,838328,N/A,PoW
+Firo,30022,MTP,PoW
+FeatherCoin,4524,NeoScrypt,PoW
+Fantom,928158,N/A,N/A
+Expanse,12194,Ethash,PoW
+Ethereum Classic,5324,Ethash,PoW
+EOS,166503,DPoS,DPoS
+Electroneum,361881,N/A,PoW
+Elastos,744987,N/A,N/A
+Dogecoin,4432,Scrypt,PoW
+DigitalNote,5282,BMW512 / Echo512,PoW/PoS
+DigiByte,4430,Multiple,PoW
+Dash,3807,X11,PoW/PoSe
+Cosmos,199107,N/A,PoS
+CloakCoin,4417,X13,PoW/PoS
+Cardano,321992,Ouroboros,PoS
+ByteCoin,5280,CryptoNight,PoW
+BurstCoin,5286,Shabal256,PoC
+BlockNet,5305,Quark,PoW/PoS
+BlackCoin,4339,Scrypt,PoS
+Bitshares,5039,SHA-512,DPoS
+Bitcoin SV,926591,SHA-256,PoW
+Bitcoin Gold,347235,Equihash,PoW
+Bitcoin Diamond,409492,X13,PoW/PoS
+Bitcoin Cash,202330,SHA-256,PoW
+Bitcoin,1182,SHA-256,PoW
+Binance Coin,204788,BEP-2,PoSA
+Asch,218107,N/A,N/A
+Algorand,930992,N/A,PoS
+Aion,431235,"Equihash210,9",PoW/PoS
+Aeternity,190978,N/A,PoW/PoS
+Achain,446372,DPoS,DPoS
+DeFireX,939948,N/A,N/A
+Ravencoin,794350,KAWPOW,N/A
+Mindsync,929100,N/A,N/A
+Ethereum,7605,Ethash,PoW
+Chromia,930686,N/A,N/A
+Dent,141331,N/A,N/A
+Stater,940037,N/A,N/A
+Symbol,940040,N/A,N/A
+Arrano,940042,N/A,N/A
+CheeseCake Swap,940044,N/A,N/A
+Dora Factory,940046,N/A,N/A
+XSGD,938669,N/A,N/A
+Taraxa,940059,N/A,N/A
+Wrapped Origin Axie,939541,N/A,N/A
+Ovr,940064,N/A,N/A
+US Steel Corp,935118,N/A,N/A
+UnoRe,939881,PoS,N/A
+Curate,938064,N/A,N/A
+Ellipsis,940072,N/A,N/A
+A2DAO,940074,N/A,N/A
+FM Gallery,940076,N/A,N/A
+Woonkly Power,940078,N/A,N/A
+KIWI DEFI,940034,N/A,N/A
+Tower,939583,N/A,N/A
+Unifty,938685,N/A,N/A
+Guaranteed Entrance Token,597181,N/A,N/A
+Add.xyz,935969,N/A,N/A
+ADD.xyz,940081,N/A,N/A
+Biteris,940069,N/A,N/A
+2local,934881,N/A,N/A
+TecraCoin,930362,Lyra2Z,PoW
+ICAP Token,940086,N/A,N/A
